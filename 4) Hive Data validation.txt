@@ -1,0 +1,37 @@
+-- Validate
+
+-- a)time dimension
+SELECT 'Time Dimension Validation' AS tdv,
+       COUNT(*) AS row_count,
+       COUNT(DISTINCT time_id) AS unique_time_ids,
+       MIN(accident_year) AS min_year,
+       MAX(accident_year) AS max_year
+FROM timedim
+WHERE accident_year BETWEEN 2014 AND 2023;
+
+-- b) location dimension
+SELECT 'Location Dimension Validation' AS ldv,
+       COUNT(*) AS row_count,
+       COUNT(DISTINCT location_id) AS unique_location_ids
+FROM locationdim
+WHERE local_authority_ons_district LIKE 'E09%';
+
+-- c) vehicle dimension
+SELECT 'Vehicle Dimension Validation' AS vdv,
+       COUNT(*) AS row_count,
+       COUNT(DISTINCT vehicle_id) AS unique_vehicle_ids
+FROM vehicledim;
+
+-- d) casualty dimension
+SELECT 'Casualty Dimension Validation' AS cdv,
+       COUNT(*) AS row_count,
+       COUNT(DISTINCT casualty_id) AS unique_casualty_ids
+FROM casualtiesdim;
+
+-- e) fact table
+SELECT 'Fact Table Validation' AS ftv,
+       COUNT(*) AS row_count,
+       COUNT(DISTINCT accident_id) AS unique_accident_ids,
+       COUNT(CASE WHEN accident_severity IN ('Fatal', 'Serious', 'Slight') 
+                  THEN 1 END) AS valid_severity_count
+FROM accidentsfact;

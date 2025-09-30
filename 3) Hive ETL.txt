@@ -1,0 +1,116 @@
+-- a) Time dimension
+CREATE TABLE timedim (
+  time_id STRING,
+  accident_year INT,
+  month_of_accident STRING
+)
+STORED AS PARQUET;
+
+-- b) Location dimension
+CREATE TABLE locationdim (
+  location_id STRING,
+  local_authority_ons_district STRING,
+  urban_or_rural_area STRING
+)
+STORED AS PARQUET;
+
+-- c) Vehicle dimension
+CREATE TABLE vehicledim (
+  vehicle_id STRING,
+  vehicle_reference INT,
+  vehicle_type STRING,
+  sex_of_driver STRING,
+  age_band_of_driver STRING
+)
+STORED AS PARQUET;
+
+-- d) Casualty dimension
+CREATE TABLE casualtiesdim (
+  casualty_id STRING,
+  casualty_reference INT,
+  casualty_type STRING,
+  sex_of_casualty STRING,
+  age_band_of_casualty STRING,
+  pedestrian_location STRING,
+  pedestrian_movement STRING
+)
+STORED AS PARQUET;
+
+-- e) Fact table
+CREATE TABLE accidentsfact (
+  accident_id STRING,
+  time_id STRING,
+  location_id STRING,
+  vehicle_id STRING,
+  casualty_id STRING,
+  accident_severity STRING,
+  casualty_severity STRING,
+  road_type STRING,
+  road_surface_conditions STRING,
+  weather_conditions STRING,
+  light_conditions STRING,
+  junction_detail STRING,
+  speed_limit INT
+)
+STORED AS PARQUET;
+
+-- Populate: 
+
+-- a) time dimension
+INSERT INTO TABLE timedim
+SELECT
+  CONCAT(accident_index, '_', time_of_accident) AS time_id,
+  accident_year,
+  month_of_accident
+FROM collisions;
+
+-- b) location dimension
+INSERT INTO TABLE locationdim
+SELECT
+  local_authority_ons_district AS location_id,
+  local_authority_ons_district,
+  urban_or_rural_area
+FROM collisions
+GROUP BY local_authority_ons_district, urban_or_rural_area;
+
+-- c) vehicle dimension
+INSERT INTO TABLE vehicledim
+SELECT
+  CONCAT(accident_index, '_', vehicle_reference) AS vehicle_id,
+  vehicle_reference,
+  vehicle_type,
+  sex_of_driver,
+  age_band_of_driver
+FROM vehicles;
+
+-- d) casualty dimension
+INSERT INTO TABLE casualtiesdim
+SELECT
+  CONCAT(accident_index, '_', casualty_reference) AS casualty_id,
+  casualty_reference,
+  casualty_type,
+  sex_of_casualty,
+  age_band_of_casualty,
+  pedestrian_location,
+  pedestrian_movement
+FROM casualties;
+
+-- e) fact table
+INSERT INTO TABLE accidentsfact
+SELECT
+  c.accident_index AS accident_id,
+  CONCAT(c.accident_index, '_', c.time_of_accidnt) AS time_id,
+  c.local_authority_ons_district AS location_id,
+  CONCAT(v.accident_index, '_', v.vehicle_reference) AS vehicle_id,
+  CONCAT(cs.accident_index, '_', cs.casualty_reference) AS casualty_id,
+  c.accident_severity,
+  cs.casualty_severity,
+  c.road_type,
+  c.road_surface_conditions,
+  c.weather_conditions,
+  c.light_conditions,
+  c.junction_detail,
+  c.speed_limit
+FROM collisions c
+LEFT JOIN vehicles v ON c.accident_index = v.accident_index
+LEFT JOIN casualties cs ON c.accident_index = cs.accident_index;

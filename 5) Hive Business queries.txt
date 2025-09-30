@@ -1,0 +1,174 @@
+-- Create output tables for query results
+
+CREATE TABLE q1_result (
+  accident_year INT,
+  month_of_accident STRING,
+  vehicle_type STRING,
+  road_type STRING,
+  road_surface_conditions STRING,
+  accident_severity STRING,
+  sex_of_driver STRING,
+  local_authority_ons_district STRING,
+  accident_count INT
+)
+STORED AS TEXTFILE;
+
+CREATE TABLE q2_result (
+  accident_year INT,
+  sex_of_casualty STRING,
+  age_band_of_casualty STRING,
+  pedestrian_location STRING,
+  pedestrian_movement STRING,
+  casualty_severity STRING,
+  local_authority_ons_district STRING,
+  casualty_count INT
+)
+STORED AS TEXTFILE;
+
+CREATE TABLE q3_result (
+  accident_year INT,
+  sex_of_driver STRING,
+  age_band_of_driver STRING,
+  vehicle_type STRING,
+  road_type STRING,
+  light_conditions STRING,
+  accident_severity STRING,
+  local_authority_ons_district STRING,
+  accident_count INT
+)
+STORED AS TEXTFILE;
+
+CREATE TABLE q4_result (
+  accident_year INT,
+  speed_limit INT,
+  road_surface_conditions STRING,
+  weather_conditions STRING,
+  urban_or_rural_area STRING,
+  accident_severity STRING,
+  accident_count INT
+)
+STORED AS TEXTFILE;
+
+CREATE TABLE q5_results (
+  accident_year INT,
+  junction_detail STRING,
+  accident_severity STRING,
+  local_authority_ons_district STRING,
+  pedestrian_accident_count INT
+)
+STORED AS TEXTFILE;
+
+-- Q1: Month-by-month breakdown of accidents:
+INSERT INTO TABLE q1_result
+SELECT
+  t.accident_year,
+  t.month_of_accdent,
+  v.vehicle_type,
+  f.road_type,
+  f.road_surface_conditions,
+  f.accident_severity,
+  v.sex_of_driver,
+  l.local_authority_ons_district,
+  COUNT(*) AS accident_count
+FROM accidentsfact f
+JOIN timedim t ON f.time_id = t.time_id
+JOIN locationdim l ON f.location_id = l.location_id
+JOIN vehicledim v ON f.vehicle_id = v.vehicle_id
+GROUP BY
+  t.accident_year,
+  t.month_of_accident,
+  v.vehicle_type,
+  f.road_type,
+  f.road_surface_conditions,
+  f.accident_severity,
+  v.sex_of_driver,
+  l.local_authority_ons_district;
+
+-- Q2: Pedestrian casualty severity by demographics and location
+INSERT INTO TABLE q2_result
+SELECT
+  t.accident_year,
+  c.sex_of_casualty,
+  c.age_band_of_casualty,
+  c.pedestrian_location,
+  c.pedestrian_movement,
+  f.casualty_severity,
+  l.local_authority_ons_district,
+  COUNT(*) AS casualty_count
+FROM accidentsfact f
+JOIN timedim t ON f.time_id = t.time_id
+JOIN locationdim l ON f.location_id = l.location_id
+JOIN casualtiesdim c ON f.casualty_id = c.casualty_id
+GROUP BY
+  t.accident_year,
+  c.sex_of_casualty,
+  c.age_band_of_casualty,
+  c.pedestrian_location,
+  c.pedestrian_movement,
+  f.casualty_severity,
+  l.local_authority_ons_district;
+
+-- Q3: Driver demographics and vehicle type impact on severity
+INSERT INTO TABLE q3_result
+SELECT
+  t.accident_year,
+  v.sex_of_driver,
+  v.age_band_of_driver,
+  v.vehicle_type,
+  f.road_type,
+  f.light_conditions,
+  f.accident_severity,
+  l.local_authority_ons_district,
+  COUNT(*) AS accident_count
+FROM accidentsfact f
+JOIN timedim t ON f.time_id = t.time_id
+JOIN locationdim l ON f.location_id = l.location_id
+JOIN vehicledim v ON f.vehicle_id = v.vehicle_id
+GROUP BY
+  t.accident_year,
+  v.sex_of_driver,
+  v.age_band_of_driver,
+  v.vehicle_type,
+  f.road_type,
+  f.light_conditions,
+  f.accident_severity,
+  l.local_authority_ons_district;
+
+-- Q4: Speed limit impact on severity
+INSERT INTO TABLE q4_result
+SELECT
+  t.accident_year,
+  f.speed_limit,
+  f.road_surface_conditions,
+  f.weather_conditions,
+  l.urban_or_rural_area,
+  f.accident_severity,
+  COUNT(*) AS accident_count
+FROM accidentsfact f
+JOIN timedim t ON f.time_id = t.time_id
+JOIN locationdim l ON f.location_id = l.location_id
+GROUP BY
+  t.accident_year,
+  f.speed_limit,
+  f.road_surface_conditions,
+  f.weather_conditions,
+  l.urban_or_rural_area,
+  f.accident_severity;
+
+-- Q5: Pedestrian accidents by junction type and time of day
+INSERT INTO TABLE q5_result
+SELECT
+  t.accident_year,
+  f.junction_detail,
+  f.accident_severity,
+  l.local_authority_ons_district,
+  COUNT(*) AS pedestrian_accident_count
+FROM accidentsfact f
+JOIN timedim t ON f.time_id = t.time_id
+JOIN locationdim l ON f.location_id = l.location_id
+JOIN casualtiesdim c ON f.casualty_id = c.casualty_id
+GROUP BY
+  t.accident_year,
+  f.junction_detail,
+  f.accident_severity,
+  l.local_authority_ons_district;
