@@ -1,24 +1,22 @@
 London Road Traffic Accidents Analysis 🚦
 
 
-Overview 🌟
+1) Overview 🌟
 
-This repository hosts a comprehensive data analytics project analyzing road traffic accidents (RTAs) in London from 2014–2023. Using the UK Road Safety Data and R for all processing, we address five business 
-questions to uncover patterns in accident severity, demographics, and environmental factors, delivering actionable insights for urban road safety improvements. Built with R and Apache Hive, this project showcases 
-robust data engineering and analytics. 🛣️
+This repository hosts a comprehensive data analytics project analyzing road traffic accidents (RTAs) in London from 2014–2023. 
+Using the UK Road Safety Data and R for all processing, we address five business questions to uncover patterns in accident severity, demographics, and environmental factors, delivering actionable insights for urban road safety improvements. 
+Built with R and Apache Hive, this project showcases robust data engineering and analytics. 🛣️
 
 
-Business Context 📊
+2) Business Context 📊
 
 The project tackles critical road safety challenges in London through five targeted questions, leveraging police-reported personal injury collision data:
 
-Q1: 📈 Month-by-month breakdown of RTAs by vehicle type, road type, surface conditions, accident severity, driver gender, and London boroughs. Justification: Identifies seasonal patterns (e.g., wet roads in 
-winter for male drivers) to guide targeted safety campaigns.
+Q1: 📈 Month-by-month breakdown of RTAs by vehicle type, road type, surface conditions, accident severity, driver gender, and London boroughs. Justification: Identifies seasonal patterns (e.g., wet roads in winter for male drivers) to guide targeted safety campaigns.
 
 Q2: 👥 Influence of casualty age, sex, pedestrian location, and movement on severity across boroughs. Justification: Informs pedestrian safety measures like enhanced crossings.
 
-Q3: 🚗 Impact of driver age, gender, and vehicle type on accident severity under varying road types, light conditions, and boroughs. Justification: Supports driver training for high-risk conditions (e.g., 
-darkness).
+Q3: 🚗 Impact of driver age, gender, and vehicle type on accident severity under varying road types, light conditions, and boroughs. Justification: Supports driver training for high-risk conditions (e.g., darkness).
 
 Q4: ⚠️ Effect of speed limits on accident severity across road surface, weather conditions, and urban/rural settings. Justification: Recommends dynamic speed limit adjustments (e.g., in wet weather).
 
@@ -27,11 +25,11 @@ Q5: 🗺️ Distribution of pedestrian-involved accidents by junction type and s
 Overall Justification: These questions address seasonal, demographic, environmental, and spatial factors to drive evidence-based policies for accident reduction, using collision, vehicle, and casualty data.
 
 
-Data Source 📊
+3) Data Source 📊
 
 Primary: UK Road Safety Data (2014–2023) from data.gov.uk: https://www.data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-accidents-safety-data
 
-Key features: accident severity, casualty demographics, vehicle types, road/weather conditions, speed limits, junction types, and location (lat/long). 📂
+Key features: accident severity, casualty demographics, vehicle types, road/weather conditions, speed limits, junction types, and location. 📂
 
 For quick access: 
 
@@ -42,20 +40,18 @@ casualties: https://www.kaggle.com/datasets/akshendhami/casualty-2014-2023
 vehicles: https://www.kaggle.com/datasets/akshendhami/vehicle-2014-2023
 
 
-Architecture & Technologies 🛠️
+4) Architecture & Technologies 🛠️
 
-ETL Pipeline: R scripts using readr and dplyr for data ingestion and cleansing (e.g., removed 2.1% duplicates, imputed 1.8% invalid postcodes) 🧹
+ETL Pipeline: R scripts using readr and dplyr for data ingestion and cleansing 🧹
 
-Data Mart: Snowflake schema in Apache Hive (fact: accidents; dimensions: time, location, vehicle, casualty, junction) for efficient OLAP queries 🗄️
+Data Mart: Star schema in Apache Hive & PostgreSQL for efficient queries 🗄️
 
-Analysis: R with dplyr for data wrangling, ggplot2 for visualizations (e.g., heatmaps, time-series plots), and shiny for interactive dashboards 📊
+Analysis: Tableau for data wrangling and visualizations 📊
 
-Quality Assurance: R’s validate package for data integrity (e.g., coordinate bounds: 51.28–51.69°N, 95%+ completeness) ✅
-
-Methodologies: CRISP-DM lifecycle, anomaly detection (z-scores), and correlation analysis (e.g., Pearson’s r = 0.67 for dusk and severity) 🔍
+Quality Assurance: R’s validate package for data integrity ✅
 
 
-Key Findings & Recommendations 🎯
+5) Key Findings & Recommendations 🎯
 
 Q1: Winter months show 20% higher accidents on wet roads; male drivers dominate (65%). Recommendation: Seasonal campaigns targeting male drivers (e.g., wet-weather awareness).
 
@@ -68,7 +64,7 @@ Q4: 30mph zones on wet roads have 15% higher severity in urban areas. Recommenda
 Q5: T-junctions account for 35% of pedestrian accidents in SE boroughs. Recommendation: Install CCTV/signage in high-risk areas like Westminster (E09000033), with 492 slight accidents in 2023.
 
 
-Final Recommendations:
+6) Final Recommendations:
 
 High-Risk Areas: Target urban boroughs like Westminster (E09000033) with CCTV and signage due to high pedestrian counts at T-junctions (Q5 evidence: 492 slight accidents in 2023).
 
@@ -79,41 +75,21 @@ Population-Normalized Risk: Review rural areas with 30 mph wet/damp conditions f
 Justification: Data-driven to reduce accidents by 20%, supported by R-validated trends.
 
 
-Setup & Usage ⚙️
+7) Setup & Usage ⚙️
 
-Clone the repo: git clone https://github.com/yourusername/London-Road-Traffic-Accidents-Analysis.git 📥
+i) Clone the repo: git clone https://github.com/yourusername/London-Road-Traffic-Accidents-Analysis.git & go through the .ppt first, to get an overview about the project
 
-Install R dependencies: install.packages(c("readr", "dplyr", "ggplot2", "shiny", "validate"))
+ii) Run the given .R file in the RStudio, will get the cleaned dataset that should be used to write the queries
 
-Run ETL: Rscript etl_pipeline.R 🚀
+iii) Open Apache hive & after going through and understanding the below files, run all the queries by copy - pasting; the files are:
+"3) Hive ETL, 4) Hive Data Validation, 5) Hive Business queries, 6) Pig Export Business question csv's"
 
-Launch dashboard: Rscript -e "shiny::runApp('dashboard/')" 📈
-
-Query Data Mart: Use Hive CLI for SQL (e.g., SELECT * FROM accidents_fact WHERE year >= 2014;) 🗃️
-
-
-File Structure 📁
-
-├── data/                 # Raw & processed datasets 📂
-
-├── etl/                  # R ETL scripts 📝
-
-├── hive/                 # Hive DDL scripts 🗄️
-
-├── r_analysis/           # R scripts for EDA & reports 📊
-
-├── dashboard/            # Shiny app for visualizations 🌐
-
-├── reports/              # Generated PDFs/charts 📄
-
-├── docs/                 # Proposal & methodology 📜
-
-└── README.md             # Project overview 📖
+iv) Once exported the final output of each 5 questions in the csv using pig, import all the files in the tableau, refer "9) Visualization folder"; contains the tableau files for each questions 
 
 
-Limitations & Future Work 🔮
+8) Limitations & Future Work 🔮
 
-Limitations
+i) Limitations
 
 Data Scope: Relies on police-reported personal injury collisions, potentially under-reporting minor incidents by ~30% (per DfT). Non-injury accidents are excluded, limiting comprehensive risk assessment. 📊
 
@@ -125,7 +101,7 @@ Geographic Specificity: High-risk area identification (e.g., Westminster, E09000
 
 Demographic Depth: Analysis of 26–35 age group (Q2) lacks socioeconomic/behavioral data, limiting crossing improvement precision. 👥
 
-Future Work
+ii) Future Work
 
 Enhanced Data Integration: Add real-time weather/traffic APIs to enrich Q4 analyses (e.g., wet/damp 30 mph rural spikes) and support dynamic speed limits. Expand multi-year data for longitudinal trends. 📈
 
