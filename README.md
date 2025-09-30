@@ -135,5 +135,7 @@ Justification: Addresses limitations, aligns with scalability/cloud recommendati
 
 
 Contributing 🤝
+
 We welcome contributions to enhance this safety-focused project! Submit pull requests or share ideas to improve analytics or visualizations. 🌟
+
 Contact: akshendhami@gmail.com | License: MIT 
