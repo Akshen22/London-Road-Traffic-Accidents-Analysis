@@ -1,0 +1,21 @@
+export business question hive dataset to csv via pig:
+
+allq1_result = LOAD 'q1_result' USING org.apache.hive.hcatalog.pig.HCatLoader();
+dump allq1_result;
+STORE allq1_result INTO '/user/maria_dev/tutorials/q1_result' USING PigStorage(',');
+
+allq2_result = LOAD 'q2_result' USING org.apache.hive.hcatalog.pig.HCatLoader();
+dump allq2_result;
+STORE allq2_result INTO '/user/maria_dev/tutorials/q2_result' USING PigStorage(',');
+
+allq3_result = LOAD 'q3_result' USING org.apache.hive.hcatalog.pig.HCatLoader();
+dump allq3_result;
+STORE allq3_result INTO '/user/maria_dev/tutorials/q3_result' USING PigStorage(',');
+
+allq4_result = LOAD 'q4_result' USING org.apache.hive.hcatalog.pig.HCatLoader();
+dump allq4_result;
+STORE allq4_result INTO '/user/maria_dev/tutorials/q4_result' USING PigStorage(',');
+
+allq5_results = LOAD 'q5_results' USING org.apache.hive.hcatalog.pig.HCatLoader();
+dump allq5_results
+STORE allq5results INTO '/user/maria_dev/tutorials/q5_result' USING PigStorage(',');
