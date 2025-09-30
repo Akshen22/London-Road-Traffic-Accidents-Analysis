@@ -120,6 +120,6 @@ Justification: Addresses limitations, aligns with scalability/cloud recommendati
 
 9) Contributing 🤝
 
-We welcome contributions to enhance this safety-focused project! Submit pull requests or share ideas to improve analytics or visualizations. 🌟
+You are welcome to contribute to enhance this safety-focused project! Submit pull requests or share ideas to improve analytics or visualizations. 🌟
 
-Contact: akshendhami@gmail.com | License: MIT 
+Contact: akshendhami@gmail.com  
