@@ -2,21 +2,32 @@ London Road Traffic Accidents Analysis 🚦
 
 Overview 🌟
 
-This repository hosts a comprehensive data analytics project analyzing road traffic accidents (RTAs) in London from 2014–2023. Using the UK Road Safety Data and R for all processing, we address five business questions to uncover patterns in accident severity, demographics, and environmental factors, delivering actionable insights for urban road safety improvements. Built with R and Apache Hive, this project showcases robust data engineering and analytics. 🛣️
+This repository hosts a comprehensive data analytics project analyzing road traffic accidents (RTAs) in London from 2014–2023. Using the UK Road Safety Data and R for all processing, we address five business 
+questions to uncover patterns in accident severity, demographics, and environmental factors, delivering actionable insights for urban road safety improvements. Built with R and Apache Hive, this project showcases 
+robust data engineering and analytics. 🛣️
 
 Business Context 📊
 
 The project tackles critical road safety challenges in London through five targeted questions, leveraging police-reported personal injury collision data:
-Q1: 📈 Month-by-month breakdown of RTAs by vehicle type, road type, surface conditions, accident severity, driver gender, and London boroughs. Justification: Identifies seasonal patterns (e.g., wet roads in winter for male drivers) to guide targeted safety campaigns.
+
+Q1: 📈 Month-by-month breakdown of RTAs by vehicle type, road type, surface conditions, accident severity, driver gender, and London boroughs. Justification: Identifies seasonal patterns (e.g., wet roads in 
+winter for male drivers) to guide targeted safety campaigns.
+
 Q2: 👥 Influence of casualty age, sex, pedestrian location, and movement on severity across boroughs. Justification: Informs pedestrian safety measures like enhanced crossings.
-Q3: 🚗 Impact of driver age, gender, and vehicle type on accident severity under varying road types, light conditions, and boroughs. Justification: Supports driver training for high-risk conditions (e.g., darkness).
+
+Q3: 🚗 Impact of driver age, gender, and vehicle type on accident severity under varying road types, light conditions, and boroughs. Justification: Supports driver training for high-risk conditions (e.g., 
+darkness).
+
 Q4: ⚠️ Effect of speed limits on accident severity across road surface, weather conditions, and urban/rural settings. Justification: Recommends dynamic speed limit adjustments (e.g., in wet weather).
+
 Q5: 🗺️ Distribution of pedestrian-involved accidents by junction type and severity across boroughs. Justification: Targets high-risk junctions (e.g., T-junctions) for signage or redesign.
+
 Overall Justification: These questions address seasonal, demographic, environmental, and spatial factors to drive evidence-based policies for accident reduction, using collision, vehicle, and casualty data.
 
 Data Source 📊
 
 Primary: UK Road Safety Data (2014–2023) from data.gov.uk, filtered for London (postcodes: E, N, NW, SE, SW, W). 
+
 Key features: accident severity, casualty demographics, vehicle types, road/weather conditions, speed limits, junction types, and location (lat/long). 📂
 
 Architecture & Technologies 🛠️
