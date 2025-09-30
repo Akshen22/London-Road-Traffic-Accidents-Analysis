@@ -1,6 +1,7 @@
 London Road Traffic Accidents Analysis 🚦
 
 Overview 🌟
+
 This repository hosts a comprehensive data analytics project analyzing road traffic accidents (RTAs) in London from 2014–2023. Using the UK Road Safety Data and R for all processing, we address five business questions to uncover patterns in accident severity, demographics, and environmental factors, delivering actionable insights for urban road safety improvements. Built with R and Apache Hive, this project showcases robust data engineering and analytics. 🛣️
 
 Business Context 📊
