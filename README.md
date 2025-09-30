@@ -1,10 +1,12 @@
 London Road Traffic Accidents Analysis 🚦
 
+
 Overview 🌟
 
 This repository hosts a comprehensive data analytics project analyzing road traffic accidents (RTAs) in London from 2014–2023. Using the UK Road Safety Data and R for all processing, we address five business 
 questions to uncover patterns in accident severity, demographics, and environmental factors, delivering actionable insights for urban road safety improvements. Built with R and Apache Hive, this project showcases 
 robust data engineering and analytics. 🛣️
+
 
 Business Context 📊
 
@@ -24,11 +26,13 @@ Q5: 🗺️ Distribution of pedestrian-involved accidents by junction type and s
 
 Overall Justification: These questions address seasonal, demographic, environmental, and spatial factors to drive evidence-based policies for accident reduction, using collision, vehicle, and casualty data.
 
+
 Data Source 📊
 
 Primary: UK Road Safety Data (2014–2023) from data.gov.uk, filtered for London (postcodes: E, N, NW, SE, SW, W). 
 
 Key features: accident severity, casualty demographics, vehicle types, road/weather conditions, speed limits, junction types, and location (lat/long). 📂
+
 
 Architecture & Technologies 🛠️
 
@@ -42,6 +46,7 @@ Quality Assurance: R’s validate package for data integrity (e.g., coordinate b
 
 Methodologies: CRISP-DM lifecycle, anomaly detection (z-scores), and correlation analysis (e.g., Pearson’s r = 0.67 for dusk and severity) 🔍
 
+
 Key Findings & Recommendations 🎯
 
 Q1: Winter months show 20% higher accidents on wet roads; male drivers dominate (65%). Recommendation: Seasonal campaigns targeting male drivers (e.g., wet-weather awareness).
@@ -54,6 +59,7 @@ Q4: 30mph zones on wet roads have 15% higher severity in urban areas. Recommenda
 
 Q5: T-junctions account for 35% of pedestrian accidents in SE boroughs. Recommendation: Install CCTV/signage in high-risk areas like Westminster (E09000033), with 492 slight accidents in 2023.
 
+
 Final Recommendations:
 
 High-Risk Areas: Target urban boroughs like Westminster (E09000033) with CCTV and signage due to high pedestrian counts at T-junctions (Q5 evidence: 492 slight accidents in 2023).
@@ -63,6 +69,7 @@ Child/Pedestrian Safety: Focus on 26–35 age group near carriageways with cross
 Population-Normalized Risk: Review rural areas with 30 mph wet/damp conditions for accident spikes (Q4 evidence: higher counts in urban settings).
 
 Justification: Data-driven to reduce accidents by 20%, supported by R-validated trends.
+
 
 Setup & Usage ⚙️
 
@@ -75,6 +82,7 @@ Run ETL: Rscript etl_pipeline.R 🚀
 Launch dashboard: Rscript -e "shiny::runApp('dashboard/')" 📈
 
 Query Data Mart: Use Hive CLI for SQL (e.g., SELECT * FROM accidents_fact WHERE year >= 2014;) 🗃️
+
 
 File Structure 📁
 
@@ -93,6 +101,7 @@ File Structure 📁
 ├── docs/                 # Proposal & methodology 📜
 
 └── README.md             # Project overview 📖
+
 
 Limitations & Future Work 🔮
 
@@ -123,6 +132,7 @@ Predictive Modeling: Use R’s machine learning packages (e.g., randomForest) to
 Stakeholder Collaboration: Develop public-facing Shiny dashboard with borough-specific insights (e.g., Q4 rural risks) for policymakers. 🤝
 
 Justification: Addresses limitations, aligns with scalability/cloud recommendations, and leverages R-validated trends for 20% accident reduction.
+
 
 Contributing 🤝
 We welcome contributions to enhance this safety-focused project! Submit pull requests or share ideas to improve analytics or visualizations. 🌟
