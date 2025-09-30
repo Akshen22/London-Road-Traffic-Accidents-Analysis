@@ -29,9 +29,17 @@ Overall Justification: These questions address seasonal, demographic, environmen
 
 Data Source 📊
 
-Primary: UK Road Safety Data (2014–2023) from data.gov.uk, filtered for London (postcodes: E, N, NW, SE, SW, W). 
+Primary: UK Road Safety Data (2014–2023) from data.gov.uk: https://www.data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-accidents-safety-data
 
 Key features: accident severity, casualty demographics, vehicle types, road/weather conditions, speed limits, junction types, and location (lat/long). 📂
+
+For quick access: 
+
+collisions: https://www.kaggle.com/datasets/akshendhami/collision-2014-2023
+
+casualties: https://www.kaggle.com/datasets/akshendhami/casualty-2014-2023
+
+vehicles: https://www.kaggle.com/datasets/akshendhami/vehicle-2014-2023
 
 
 Architecture & Technologies 🛠️
