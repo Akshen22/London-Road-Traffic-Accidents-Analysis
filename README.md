@@ -118,7 +118,7 @@ Stakeholder Collaboration: Develop public-facing Shiny dashboard with borough-sp
 Justification: Addresses limitations, aligns with scalability/cloud recommendations, and leverages R-validated trends for 20% accident reduction.
 
 
-Contributing 🤝
+9) Contributing 🤝
 
 We welcome contributions to enhance this safety-focused project! Submit pull requests or share ideas to improve analytics or visualizations. 🌟
 
