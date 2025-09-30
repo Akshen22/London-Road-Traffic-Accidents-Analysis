@@ -1,0 +1,4440 @@
+accident_year,junction_detail,accident_severity,local_authority_ons_district,pedestrian_accident_count
+2014,Crossroads,Fatal,E09000020,6
+2014,Crossroads,Fatal,E09000022,6
+2014,Crossroads,Fatal,E09000023,3
+2014,Crossroads,Fatal,E09000029,6
+2014,Crossroads,Fatal,E09000033,12
+2014,Mini-roundabout,Fatal,E09000011,6
+2014,More than 4 arms (not roundabout),Fatal,E09000022,6
+2014,Not at junction,Fatal,E09000003,6
+2014,Not at junction,Fatal,E09000006,12
+2014,Not at junction,Fatal,E09000008,6
+2014,Not at junction,Fatal,E09000011,6
+2014,Not at junction,Fatal,E09000012,6
+2014,Not at junction,Fatal,E09000013,12
+2014,Not at junction,Fatal,E09000014,6
+2014,Not at junction,Fatal,E09000016,6
+2014,Not at junction,Fatal,E09000021,6
+2014,Not at junction,Fatal,E09000023,3
+2014,Not at junction,Fatal,E09000028,6
+2014,Not at junction,Fatal,E09000029,12
+2014,Not at junction,Fatal,E09000033,6
+2014,Other junction,Fatal,E09000007,3
+2014,Slip road,Fatal,E09000017,6
+2014,T or staggered junction,Fatal,E09000001,6
+2014,T or staggered junction,Fatal,E09000003,12
+2014,T or staggered junction,Fatal,E09000004,6
+2014,T or staggered junction,Fatal,E09000005,3
+2014,T or staggered junction,Fatal,E09000007,3
+2014,T or staggered junction,Fatal,E09000008,6
+2014,T or staggered junction,Fatal,E09000010,6
+2014,T or staggered junction,Fatal,E09000012,18
+2014,T or staggered junction,Fatal,E09000015,6
+2014,T or staggered junction,Fatal,E09000020,6
+2014,T or staggered junction,Fatal,E09000022,12
+2014,T or staggered junction,Fatal,E09000023,3
+2014,T or staggered junction,Fatal,E09000024,3
+2014,T or staggered junction,Fatal,E09000025,6
+2014,T or staggered junction,Fatal,E09000028,12
+2014,T or staggered junction,Fatal,E09000030,36
+2014,Crossroads,Serious,E09000001,12
+2014,Crossroads,Serious,E09000002,12
+2014,Crossroads,Serious,E09000003,24
+2014,Crossroads,Serious,E09000004,6
+2014,Crossroads,Serious,E09000005,3
+2014,Crossroads,Serious,E09000006,6
+2014,Crossroads,Serious,E09000007,9
+2014,Crossroads,Serious,E09000008,12
+2014,Crossroads,Serious,E09000009,3
+2014,Crossroads,Serious,E09000010,18
+2014,Crossroads,Serious,E09000011,6
+2014,Crossroads,Serious,E09000012,18
+2014,Crossroads,Serious,E09000013,18
+2014,Crossroads,Serious,E09000014,12
+2014,Crossroads,Serious,E09000015,6
+2014,Crossroads,Serious,E09000016,6
+2014,Crossroads,Serious,E09000017,12
+2014,Crossroads,Serious,E09000018,18
+2014,Crossroads,Serious,E09000019,12
+2014,Crossroads,Serious,E09000020,6
+2014,Crossroads,Serious,E09000022,12
+2014,Crossroads,Serious,E09000023,3
+2014,Crossroads,Serious,E09000024,12
+2014,Crossroads,Serious,E09000025,36
+2014,Crossroads,Serious,E09000027,6
+2014,Crossroads,Serious,E09000029,12
+2014,Crossroads,Serious,E09000030,6
+2014,Crossroads,Serious,E09000031,12
+2014,Crossroads,Serious,E09000033,60
+2014,Mini-roundabout,Serious,E09000007,3
+2014,Mini-roundabout,Serious,E09000009,3
+2014,Mini-roundabout,Serious,E09000011,6
+2014,Mini-roundabout,Serious,E09000013,6
+2014,Mini-roundabout,Serious,E09000016,12
+2014,Mini-roundabout,Serious,E09000030,6
+2014,More than 4 arms (not roundabout),Serious,E09000027,6
+2014,More than 4 arms (not roundabout),Serious,E09000033,6
+2014,Not at junction,Serious,E09000001,18
+2014,Not at junction,Serious,E09000002,24
+2014,Not at junction,Serious,E09000003,72
+2014,Not at junction,Serious,E09000005,24
+2014,Not at junction,Serious,E09000006,18
+2014,Not at junction,Serious,E09000008,6
+2014,Not at junction,Serious,E09000009,45
+2014,Not at junction,Serious,E09000010,30
+2014,Not at junction,Serious,E09000011,36
+2014,Not at junction,Serious,E09000012,24
+2014,Not at junction,Serious,E09000013,30
+2014,Not at junction,Serious,E09000014,42
+2014,Not at junction,Serious,E09000015,30
+2014,Not at junction,Serious,E09000016,30
+2014,Not at junction,Serious,E09000017,66
+2014,Not at junction,Serious,E09000018,36
+2014,Not at junction,Serious,E09000019,9
+2014,Not at junction,Serious,E09000020,24
+2014,Not at junction,Serious,E09000021,6
+2014,Not at junction,Serious,E09000022,18
+2014,Not at junction,Serious,E09000023,9
+2014,Not at junction,Serious,E09000024,18
+2014,Not at junction,Serious,E09000025,42
+2014,Not at junction,Serious,E09000026,12
+2014,Not at junction,Serious,E09000027,24
+2014,Not at junction,Serious,E09000028,36
+2014,Not at junction,Serious,E09000029,6
+2014,Not at junction,Serious,E09000030,78
+2014,Not at junction,Serious,E09000031,24
+2014,Not at junction,Serious,E09000032,30
+2014,Not at junction,Serious,E09000033,36
+2014,Other junction,Serious,E09000003,6
+2014,Other junction,Serious,E09000012,6
+2014,Other junction,Serious,E09000017,6
+2014,Other junction,Serious,E09000019,6
+2014,Other junction,Serious,E09000020,12
+2014,Private drive or entrance,Serious,E09000005,3
+2014,Private drive or entrance,Serious,E09000009,3
+2014,Private drive or entrance,Serious,E09000010,6
+2014,Private drive or entrance,Serious,E09000014,6
+2014,Private drive or entrance,Serious,E09000019,3
+2014,Private drive or entrance,Serious,E09000021,6
+2014,Roundabout,Serious,E09000005,6
+2014,Roundabout,Serious,E09000008,6
+2014,Roundabout,Serious,E09000009,3
+2014,Roundabout,Serious,E09000016,12
+2014,Roundabout,Serious,E09000018,6
+2014,Roundabout,Serious,E09000019,6
+2014,Roundabout,Serious,E09000023,3
+2014,Roundabout,Serious,E09000026,6
+2014,Roundabout,Serious,E09000029,6
+2014,Slip road,Serious,E09000003,6
+2014,Slip road,Serious,E09000014,6
+2014,Slip road,Serious,E09000015,6
+2014,Slip road,Serious,E09000021,6
+2014,T or staggered junction,Serious,E09000001,66
+2014,T or staggered junction,Serious,E09000002,42
+2014,T or staggered junction,Serious,E09000003,78
+2014,T or staggered junction,Serious,E09000004,12
+2014,T or staggered junction,Serious,E09000005,51
+2014,T or staggered junction,Serious,E09000006,42
+2014,T or staggered junction,Serious,E09000007,24
+2014,T or staggered junction,Serious,E09000008,42
+2014,T or staggered junction,Serious,E09000009,24
+2014,T or staggered junction,Serious,E09000010,24
+2014,T or staggered junction,Serious,E09000011,12
+2014,T or staggered junction,Serious,E09000012,30
+2014,T or staggered junction,Serious,E09000013,30
+2014,T or staggered junction,Serious,E09000014,72
+2014,T or staggered junction,Serious,E09000015,54
+2014,T or staggered junction,Serious,E09000017,24
+2014,T or staggered junction,Serious,E09000018,54
+2014,T or staggered junction,Serious,E09000019,30
+2014,T or staggered junction,Serious,E09000020,48
+2014,T or staggered junction,Serious,E09000021,30
+2014,T or staggered junction,Serious,E09000022,48
+2014,T or staggered junction,Serious,E09000023,30
+2014,T or staggered junction,Serious,E09000024,24
+2014,T or staggered junction,Serious,E09000025,60
+2014,T or staggered junction,Serious,E09000026,42
+2014,T or staggered junction,Serious,E09000027,12
+2014,T or staggered junction,Serious,E09000028,48
+2014,T or staggered junction,Serious,E09000029,18
+2014,T or staggered junction,Serious,E09000030,60
+2014,T or staggered junction,Serious,E09000031,48
+2014,T or staggered junction,Serious,E09000032,60
+2014,T or staggered junction,Serious,E09000033,96
+2014,Crossroads,Slight,E09000001,78
+2014,Crossroads,Slight,E09000002,84
+2014,Crossroads,Slight,E09000003,84
+2014,Crossroads,Slight,E09000004,6
+2014,Crossroads,Slight,E09000005,33
+2014,Crossroads,Slight,E09000006,42
+2014,Crossroads,Slight,E09000007,111
+2014,Crossroads,Slight,E09000008,96
+2014,Crossroads,Slight,E09000009,54
+2014,Crossroads,Slight,E09000010,48
+2014,Crossroads,Slight,E09000011,84
+2014,Crossroads,Slight,E09000012,156
+2014,Crossroads,Slight,E09000013,90
+2014,Crossroads,Slight,E09000014,84
+2014,Crossroads,Slight,E09000015,30
+2014,Crossroads,Slight,E09000016,54
+2014,Crossroads,Slight,E09000017,36
+2014,Crossroads,Slight,E09000018,54
+2014,Crossroads,Slight,E09000019,51
+2014,Crossroads,Slight,E09000020,138
+2014,Crossroads,Slight,E09000021,12
+2014,Crossroads,Slight,E09000022,174
+2014,Crossroads,Slight,E09000023,42
+2014,Crossroads,Slight,E09000024,27
+2014,Crossroads,Slight,E09000025,108
+2014,Crossroads,Slight,E09000026,66
+2014,Crossroads,Slight,E09000027,18
+2014,Crossroads,Slight,E09000028,114
+2014,Crossroads,Slight,E09000029,48
+2014,Crossroads,Slight,E09000030,162
+2014,Crossroads,Slight,E09000031,66
+2014,Crossroads,Slight,E09000032,180
+2014,Crossroads,Slight,E09000033,486
+2014,Mini-roundabout,Slight,E09000002,6
+2014,Mini-roundabout,Slight,E09000003,12
+2014,Mini-roundabout,Slight,E09000006,24
+2014,Mini-roundabout,Slight,E09000008,12
+2014,Mini-roundabout,Slight,E09000009,12
+2014,Mini-roundabout,Slight,E09000010,12
+2014,Mini-roundabout,Slight,E09000011,24
+2014,Mini-roundabout,Slight,E09000013,12
+2014,Mini-roundabout,Slight,E09000014,6
+2014,Mini-roundabout,Slight,E09000015,12
+2014,Mini-roundabout,Slight,E09000016,6
+2014,Mini-roundabout,Slight,E09000017,12
+2014,Mini-roundabout,Slight,E09000018,24
+2014,Mini-roundabout,Slight,E09000020,6
+2014,Mini-roundabout,Slight,E09000021,6
+2014,Mini-roundabout,Slight,E09000024,3
+2014,Mini-roundabout,Slight,E09000025,6
+2014,Mini-roundabout,Slight,E09000026,6
+2014,Mini-roundabout,Slight,E09000031,12
+2014,More than 4 arms (not roundabout),Slight,E09000001,18
+2014,More than 4 arms (not roundabout),Slight,E09000002,6
+2014,More than 4 arms (not roundabout),Slight,E09000007,18
+2014,More than 4 arms (not roundabout),Slight,E09000009,3
+2014,More than 4 arms (not roundabout),Slight,E09000010,6
+2014,More than 4 arms (not roundabout),Slight,E09000011,12
+2014,More than 4 arms (not roundabout),Slight,E09000013,12
+2014,More than 4 arms (not roundabout),Slight,E09000014,18
+2014,More than 4 arms (not roundabout),Slight,E09000019,3
+2014,More than 4 arms (not roundabout),Slight,E09000020,18
+2014,More than 4 arms (not roundabout),Slight,E09000022,6
+2014,More than 4 arms (not roundabout),Slight,E09000024,9
+2014,More than 4 arms (not roundabout),Slight,E09000027,6
+2014,More than 4 arms (not roundabout),Slight,E09000030,6
+2014,More than 4 arms (not roundabout),Slight,E09000031,6
+2014,More than 4 arms (not roundabout),Slight,E09000032,6
+2014,More than 4 arms (not roundabout),Slight,E09000033,30
+2014,Not at junction,Slight,E09000001,36
+2014,Not at junction,Slight,E09000002,246
+2014,Not at junction,Slight,E09000003,252
+2014,Not at junction,Slight,E09000004,90
+2014,Not at junction,Slight,E09000005,126
+2014,Not at junction,Slight,E09000006,162
+2014,Not at junction,Slight,E09000007,105
+2014,Not at junction,Slight,E09000008,216
+2014,Not at junction,Slight,E09000009,138
+2014,Not at junction,Slight,E09000010,252
+2014,Not at junction,Slight,E09000011,66
+2014,Not at junction,Slight,E09000012,156
+2014,Not at junction,Slight,E09000013,204
+2014,Not at junction,Slight,E09000014,246
+2014,Not at junction,Slight,E09000015,180
+2014,Not at junction,Slight,E09000016,210
+2014,Not at junction,Slight,E09000017,138
+2014,Not at junction,Slight,E09000018,252
+2014,Not at junction,Slight,E09000019,72
+2014,Not at junction,Slight,E09000020,162
+2014,Not at junction,Slight,E09000021,90
+2014,Not at junction,Slight,E09000022,150
+2014,Not at junction,Slight,E09000023,75
+2014,Not at junction,Slight,E09000024,39
+2014,Not at junction,Slight,E09000025,222
+2014,Not at junction,Slight,E09000026,162
+2014,Not at junction,Slight,E09000027,126
+2014,Not at junction,Slight,E09000028,162
+2014,Not at junction,Slight,E09000029,24
+2014,Not at junction,Slight,E09000030,300
+2014,Not at junction,Slight,E09000031,162
+2014,Not at junction,Slight,E09000032,132
+2014,Not at junction,Slight,E09000033,366
+2014,Other junction,Slight,E09000001,18
+2014,Other junction,Slight,E09000003,12
+2014,Other junction,Slight,E09000005,21
+2014,Other junction,Slight,E09000007,6
+2014,Other junction,Slight,E09000008,6
+2014,Other junction,Slight,E09000009,3
+2014,Other junction,Slight,E09000010,30
+2014,Other junction,Slight,E09000012,12
+2014,Other junction,Slight,E09000014,48
+2014,Other junction,Slight,E09000015,24
+2014,Other junction,Slight,E09000017,6
+2014,Other junction,Slight,E09000018,6
+2014,Other junction,Slight,E09000019,6
+2014,Other junction,Slight,E09000020,6
+2014,Other junction,Slight,E09000021,6
+2014,Other junction,Slight,E09000026,6
+2014,Other junction,Slight,E09000031,6
+2014,Other junction,Slight,E09000033,12
+2014,Private drive or entrance,Slight,E09000002,42
+2014,Private drive or entrance,Slight,E09000003,18
+2014,Private drive or entrance,Slight,E09000005,15
+2014,Private drive or entrance,Slight,E09000008,24
+2014,Private drive or entrance,Slight,E09000009,3
+2014,Private drive or entrance,Slight,E09000010,48
+2014,Private drive or entrance,Slight,E09000013,6
+2014,Private drive or entrance,Slight,E09000014,18
+2014,Private drive or entrance,Slight,E09000015,42
+2014,Private drive or entrance,Slight,E09000016,24
+2014,Private drive or entrance,Slight,E09000017,72
+2014,Private drive or entrance,Slight,E09000018,18
+2014,Private drive or entrance,Slight,E09000019,12
+2014,Private drive or entrance,Slight,E09000022,12
+2014,Private drive or entrance,Slight,E09000023,6
+2014,Private drive or entrance,Slight,E09000025,18
+2014,Private drive or entrance,Slight,E09000026,6
+2014,Private drive or entrance,Slight,E09000029,6
+2014,Private drive or entrance,Slight,E09000032,24
+2014,Private drive or entrance,Slight,E09000033,6
+2014,Roundabout,Slight,E09000001,6
+2014,Roundabout,Slight,E09000002,12
+2014,Roundabout,Slight,E09000003,18
+2014,Roundabout,Slight,E09000004,12
+2014,Roundabout,Slight,E09000005,15
+2014,Roundabout,Slight,E09000007,3
+2014,Roundabout,Slight,E09000008,30
+2014,Roundabout,Slight,E09000009,12
+2014,Roundabout,Slight,E09000010,12
+2014,Roundabout,Slight,E09000011,6
+2014,Roundabout,Slight,E09000012,6
+2014,Roundabout,Slight,E09000013,18
+2014,Roundabout,Slight,E09000015,36
+2014,Roundabout,Slight,E09000016,12
+2014,Roundabout,Slight,E09000017,6
+2014,Roundabout,Slight,E09000018,12
+2014,Roundabout,Slight,E09000021,6
+2014,Roundabout,Slight,E09000022,6
+2014,Roundabout,Slight,E09000023,12
+2014,Roundabout,Slight,E09000025,6
+2014,Roundabout,Slight,E09000026,12
+2014,Roundabout,Slight,E09000028,6
+2014,Roundabout,Slight,E09000029,6
+2014,Roundabout,Slight,E09000030,6
+2014,Roundabout,Slight,E09000032,18
+2014,Roundabout,Slight,E09000033,18
+2014,Slip road,Slight,E09000003,6
+2014,Slip road,Slight,E09000005,3
+2014,Slip road,Slight,E09000009,6
+2014,Slip road,Slight,E09000010,36
+2014,Slip road,Slight,E09000013,6
+2014,Slip road,Slight,E09000014,18
+2014,Slip road,Slight,E09000015,6
+2014,Slip road,Slight,E09000018,6
+2014,Slip road,Slight,E09000023,3
+2014,T or staggered junction,Slight,E09000001,258
+2014,T or staggered junction,Slight,E09000002,84
+2014,T or staggered junction,Slight,E09000003,390
+2014,T or staggered junction,Slight,E09000004,204
+2014,T or staggered junction,Slight,E09000005,171
+2014,T or staggered junction,Slight,E09000006,372
+2014,T or staggered junction,Slight,E09000007,228
+2014,T or staggered junction,Slight,E09000008,564
+2014,T or staggered junction,Slight,E09000009,177
+2014,T or staggered junction,Slight,E09000010,300
+2014,T or staggered junction,Slight,E09000011,240
+2014,T or staggered junction,Slight,E09000012,420
+2014,T or staggered junction,Slight,E09000013,288
+2014,T or staggered junction,Slight,E09000014,432
+2014,T or staggered junction,Slight,E09000015,234
+2014,T or staggered junction,Slight,E09000016,90
+2014,T or staggered junction,Slight,E09000017,132
+2014,T or staggered junction,Slight,E09000018,192
+2014,T or staggered junction,Slight,E09000019,135
+2014,T or staggered junction,Slight,E09000020,342
+2014,T or staggered junction,Slight,E09000021,168
+2014,T or staggered junction,Slight,E09000022,546
+2014,T or staggered junction,Slight,E09000023,210
+2014,T or staggered junction,Slight,E09000024,99
+2014,T or staggered junction,Slight,E09000025,474
+2014,T or staggered junction,Slight,E09000026,270
+2014,T or staggered junction,Slight,E09000027,126
+2014,T or staggered junction,Slight,E09000028,462
+2014,T or staggered junction,Slight,E09000029,150
+2014,T or staggered junction,Slight,E09000030,342
+2014,T or staggered junction,Slight,E09000031,378
+2014,T or staggered junction,Slight,E09000032,486
+2014,T or staggered junction,Slight,E09000033,588
+2015,Crossroads,Fatal,E09000015,12
+2015,Crossroads,Fatal,E09000016,6
+2015,Crossroads,Fatal,E09000018,6
+2015,Crossroads,Fatal,E09000019,3
+2015,Crossroads,Fatal,E09000022,6
+2015,Crossroads,Fatal,E09000024,3
+2015,Crossroads,Fatal,E09000031,6
+2015,Crossroads,Fatal,E09000033,6
+2015,Mini-roundabout,Fatal,E09000016,6
+2015,Not at junction,Fatal,E09000003,6
+2015,Not at junction,Fatal,E09000005,3
+2015,Not at junction,Fatal,E09000008,6
+2015,Not at junction,Fatal,E09000009,6
+2015,Not at junction,Fatal,E09000010,6
+2015,Not at junction,Fatal,E09000012,6
+2015,Not at junction,Fatal,E09000016,12
+2015,Not at junction,Fatal,E09000017,12
+2015,Not at junction,Fatal,E09000018,12
+2015,Not at junction,Fatal,E09000022,12
+2015,Not at junction,Fatal,E09000024,6
+2015,Not at junction,Fatal,E09000026,6
+2015,Not at junction,Fatal,E09000028,6
+2015,Not at junction,Fatal,E09000030,6
+2015,Not at junction,Fatal,E09000032,6
+2015,Other junction,Fatal,E09000003,6
+2015,Private drive or entrance,Fatal,E09000018,6
+2015,Roundabout,Fatal,E09000003,6
+2015,T or staggered junction,Fatal,E09000002,6
+2015,T or staggered junction,Fatal,E09000003,6
+2015,T or staggered junction,Fatal,E09000010,18
+2015,T or staggered junction,Fatal,E09000011,18
+2015,T or staggered junction,Fatal,E09000012,6
+2015,T or staggered junction,Fatal,E09000013,6
+2015,T or staggered junction,Fatal,E09000015,6
+2015,T or staggered junction,Fatal,E09000016,12
+2015,T or staggered junction,Fatal,E09000018,6
+2015,T or staggered junction,Fatal,E09000021,12
+2015,T or staggered junction,Fatal,E09000023,3
+2015,T or staggered junction,Fatal,E09000025,6
+2015,T or staggered junction,Fatal,E09000026,6
+2015,T or staggered junction,Fatal,E09000028,12
+2015,T or staggered junction,Fatal,E09000032,6
+2015,Crossroads,Serious,E09000001,30
+2015,Crossroads,Serious,E09000003,6
+2015,Crossroads,Serious,E09000004,6
+2015,Crossroads,Serious,E09000005,9
+2015,Crossroads,Serious,E09000006,6
+2015,Crossroads,Serious,E09000007,15
+2015,Crossroads,Serious,E09000008,18
+2015,Crossroads,Serious,E09000010,12
+2015,Crossroads,Serious,E09000011,12
+2015,Crossroads,Serious,E09000012,30
+2015,Crossroads,Serious,E09000013,6
+2015,Crossroads,Serious,E09000014,6
+2015,Crossroads,Serious,E09000016,6
+2015,Crossroads,Serious,E09000018,6
+2015,Crossroads,Serious,E09000019,9
+2015,Crossroads,Serious,E09000020,18
+2015,Crossroads,Serious,E09000021,6
+2015,Crossroads,Serious,E09000022,24
+2015,Crossroads,Serious,E09000024,6
+2015,Crossroads,Serious,E09000025,24
+2015,Crossroads,Serious,E09000026,6
+2015,Crossroads,Serious,E09000027,6
+2015,Crossroads,Serious,E09000028,6
+2015,Crossroads,Serious,E09000029,6
+2015,Crossroads,Serious,E09000030,12
+2015,Crossroads,Serious,E09000031,6
+2015,Crossroads,Serious,E09000032,24
+2015,Crossroads,Serious,E09000033,42
+2015,Mini-roundabout,Serious,E09000003,6
+2015,Mini-roundabout,Serious,E09000014,6
+2015,Mini-roundabout,Serious,E09000015,6
+2015,Mini-roundabout,Serious,E09000031,12
+2015,More than 4 arms (not roundabout),Serious,E09000001,6
+2015,More than 4 arms (not roundabout),Serious,E09000007,6
+2015,More than 4 arms (not roundabout),Serious,E09000010,6
+2015,More than 4 arms (not roundabout),Serious,E09000018,6
+2015,More than 4 arms (not roundabout),Serious,E09000019,3
+2015,More than 4 arms (not roundabout),Serious,E09000021,6
+2015,More than 4 arms (not roundabout),Serious,E09000033,12
+2015,Not at junction,Serious,E09000001,24
+2015,Not at junction,Serious,E09000002,30
+2015,Not at junction,Serious,E09000003,66
+2015,Not at junction,Serious,E09000004,24
+2015,Not at junction,Serious,E09000005,21
+2015,Not at junction,Serious,E09000006,18
+2015,Not at junction,Serious,E09000007,12
+2015,Not at junction,Serious,E09000008,18
+2015,Not at junction,Serious,E09000009,12
+2015,Not at junction,Serious,E09000010,60
+2015,Not at junction,Serious,E09000012,24
+2015,Not at junction,Serious,E09000013,12
+2015,Not at junction,Serious,E09000014,30
+2015,Not at junction,Serious,E09000015,42
+2015,Not at junction,Serious,E09000016,24
+2015,Not at junction,Serious,E09000017,48
+2015,Not at junction,Serious,E09000018,18
+2015,Not at junction,Serious,E09000019,18
+2015,Not at junction,Serious,E09000020,24
+2015,Not at junction,Serious,E09000021,12
+2015,Not at junction,Serious,E09000022,42
+2015,Not at junction,Serious,E09000023,15
+2015,Not at junction,Serious,E09000024,12
+2015,Not at junction,Serious,E09000025,66
+2015,Not at junction,Serious,E09000026,6
+2015,Not at junction,Serious,E09000028,18
+2015,Not at junction,Serious,E09000029,6
+2015,Not at junction,Serious,E09000030,36
+2015,Not at junction,Serious,E09000031,6
+2015,Not at junction,Serious,E09000032,12
+2015,Not at junction,Serious,E09000033,60
+2015,Other junction,Serious,E09000001,6
+2015,Other junction,Serious,E09000003,18
+2015,Other junction,Serious,E09000007,3
+2015,Other junction,Serious,E09000012,6
+2015,Other junction,Serious,E09000014,6
+2015,Other junction,Serious,E09000015,12
+2015,Other junction,Serious,E09000019,3
+2015,Other junction,Serious,E09000026,6
+2015,Private drive or entrance,Serious,E09000014,6
+2015,Private drive or entrance,Serious,E09000016,6
+2015,Private drive or entrance,Serious,E09000019,3
+2015,Private drive or entrance,Serious,E09000022,6
+2015,Private drive or entrance,Serious,E09000029,6
+2015,Roundabout,Serious,E09000003,6
+2015,Roundabout,Serious,E09000005,3
+2015,Roundabout,Serious,E09000017,6
+2015,Roundabout,Serious,E09000019,3
+2015,Roundabout,Serious,E09000024,3
+2015,Roundabout,Serious,E09000026,6
+2015,Roundabout,Serious,E09000028,6
+2015,Roundabout,Serious,E09000033,12
+2015,Slip road,Serious,E09000003,6
+2015,Slip road,Serious,E09000009,3
+2015,Slip road,Serious,E09000015,6
+2015,Slip road,Serious,E09000017,12
+2015,T or staggered junction,Serious,E09000001,42
+2015,T or staggered junction,Serious,E09000002,12
+2015,T or staggered junction,Serious,E09000003,36
+2015,T or staggered junction,Serious,E09000004,24
+2015,T or staggered junction,Serious,E09000005,15
+2015,T or staggered junction,Serious,E09000006,24
+2015,T or staggered junction,Serious,E09000007,27
+2015,T or staggered junction,Serious,E09000008,36
+2015,T or staggered junction,Serious,E09000009,9
+2015,T or staggered junction,Serious,E09000010,36
+2015,T or staggered junction,Serious,E09000011,42
+2015,T or staggered junction,Serious,E09000012,48
+2015,T or staggered junction,Serious,E09000013,54
+2015,T or staggered junction,Serious,E09000014,48
+2015,T or staggered junction,Serious,E09000015,48
+2015,T or staggered junction,Serious,E09000016,18
+2015,T or staggered junction,Serious,E09000017,6
+2015,T or staggered junction,Serious,E09000018,36
+2015,T or staggered junction,Serious,E09000019,27
+2015,T or staggered junction,Serious,E09000020,48
+2015,T or staggered junction,Serious,E09000021,12
+2015,T or staggered junction,Serious,E09000022,84
+2015,T or staggered junction,Serious,E09000023,21
+2015,T or staggered junction,Serious,E09000024,6
+2015,T or staggered junction,Serious,E09000025,42
+2015,T or staggered junction,Serious,E09000026,36
+2015,T or staggered junction,Serious,E09000027,24
+2015,T or staggered junction,Serious,E09000028,72
+2015,T or staggered junction,Serious,E09000029,18
+2015,T or staggered junction,Serious,E09000030,60
+2015,T or staggered junction,Serious,E09000031,48
+2015,T or staggered junction,Serious,E09000032,54
+2015,T or staggered junction,Serious,E09000033,48
+2015,Crossroads,Slight,E09000001,42
+2015,Crossroads,Slight,E09000002,114
+2015,Crossroads,Slight,E09000003,84
+2015,Crossroads,Slight,E09000004,12
+2015,Crossroads,Slight,E09000005,24
+2015,Crossroads,Slight,E09000006,36
+2015,Crossroads,Slight,E09000007,114
+2015,Crossroads,Slight,E09000008,108
+2015,Crossroads,Slight,E09000009,45
+2015,Crossroads,Slight,E09000010,84
+2015,Crossroads,Slight,E09000011,84
+2015,Crossroads,Slight,E09000012,192
+2015,Crossroads,Slight,E09000013,72
+2015,Crossroads,Slight,E09000014,138
+2015,Crossroads,Slight,E09000015,36
+2015,Crossroads,Slight,E09000016,18
+2015,Crossroads,Slight,E09000017,24
+2015,Crossroads,Slight,E09000018,24
+2015,Crossroads,Slight,E09000019,42
+2015,Crossroads,Slight,E09000020,114
+2015,Crossroads,Slight,E09000021,12
+2015,Crossroads,Slight,E09000022,204
+2015,Crossroads,Slight,E09000023,48
+2015,Crossroads,Slight,E09000024,30
+2015,Crossroads,Slight,E09000025,162
+2015,Crossroads,Slight,E09000026,36
+2015,Crossroads,Slight,E09000027,24
+2015,Crossroads,Slight,E09000028,126
+2015,Crossroads,Slight,E09000029,48
+2015,Crossroads,Slight,E09000030,246
+2015,Crossroads,Slight,E09000031,60
+2015,Crossroads,Slight,E09000032,108
+2015,Crossroads,Slight,E09000033,468
+2015,Mini-roundabout,Slight,E09000002,6
+2015,Mini-roundabout,Slight,E09000003,12
+2015,Mini-roundabout,Slight,E09000006,6
+2015,Mini-roundabout,Slight,E09000008,6
+2015,Mini-roundabout,Slight,E09000009,6
+2015,Mini-roundabout,Slight,E09000010,24
+2015,Mini-roundabout,Slight,E09000011,12
+2015,Mini-roundabout,Slight,E09000014,6
+2015,Mini-roundabout,Slight,E09000015,6
+2015,Mini-roundabout,Slight,E09000016,12
+2015,Mini-roundabout,Slight,E09000017,24
+2015,Mini-roundabout,Slight,E09000018,6
+2015,Mini-roundabout,Slight,E09000019,3
+2015,Mini-roundabout,Slight,E09000020,6
+2015,Mini-roundabout,Slight,E09000021,6
+2015,Mini-roundabout,Slight,E09000022,6
+2015,Mini-roundabout,Slight,E09000023,3
+2015,Mini-roundabout,Slight,E09000024,3
+2015,Mini-roundabout,Slight,E09000025,6
+2015,Mini-roundabout,Slight,E09000026,12
+2015,Mini-roundabout,Slight,E09000029,6
+2015,Mini-roundabout,Slight,E09000031,6
+2015,Mini-roundabout,Slight,E09000032,18
+2015,Mini-roundabout,Slight,E09000033,12
+2015,More than 4 arms (not roundabout),Slight,E09000001,18
+2015,More than 4 arms (not roundabout),Slight,E09000007,3
+2015,More than 4 arms (not roundabout),Slight,E09000008,18
+2015,More than 4 arms (not roundabout),Slight,E09000009,12
+2015,More than 4 arms (not roundabout),Slight,E09000011,6
+2015,More than 4 arms (not roundabout),Slight,E09000012,6
+2015,More than 4 arms (not roundabout),Slight,E09000015,6
+2015,More than 4 arms (not roundabout),Slight,E09000018,6
+2015,More than 4 arms (not roundabout),Slight,E09000022,12
+2015,More than 4 arms (not roundabout),Slight,E09000024,9
+2015,More than 4 arms (not roundabout),Slight,E09000025,6
+2015,More than 4 arms (not roundabout),Slight,E09000027,6
+2015,More than 4 arms (not roundabout),Slight,E09000033,42
+2015,Not at junction,Slight,E09000001,24
+2015,Not at junction,Slight,E09000002,228
+2015,Not at junction,Slight,E09000003,264
+2015,Not at junction,Slight,E09000004,126
+2015,Not at junction,Slight,E09000005,114
+2015,Not at junction,Slight,E09000006,186
+2015,Not at junction,Slight,E09000007,126
+2015,Not at junction,Slight,E09000008,150
+2015,Not at junction,Slight,E09000009,147
+2015,Not at junction,Slight,E09000010,210
+2015,Not at junction,Slight,E09000011,192
+2015,Not at junction,Slight,E09000012,216
+2015,Not at junction,Slight,E09000013,120
+2015,Not at junction,Slight,E09000014,252
+2015,Not at junction,Slight,E09000015,138
+2015,Not at junction,Slight,E09000016,180
+2015,Not at junction,Slight,E09000017,222
+2015,Not at junction,Slight,E09000018,216
+2015,Not at junction,Slight,E09000019,105
+2015,Not at junction,Slight,E09000020,156
+2015,Not at junction,Slight,E09000021,96
+2015,Not at junction,Slight,E09000022,168
+2015,Not at junction,Slight,E09000023,84
+2015,Not at junction,Slight,E09000024,57
+2015,Not at junction,Slight,E09000025,312
+2015,Not at junction,Slight,E09000026,198
+2015,Not at junction,Slight,E09000027,144
+2015,Not at junction,Slight,E09000028,180
+2015,Not at junction,Slight,E09000029,30
+2015,Not at junction,Slight,E09000030,300
+2015,Not at junction,Slight,E09000031,144
+2015,Not at junction,Slight,E09000032,222
+2015,Not at junction,Slight,E09000033,372
+2015,Other junction,Slight,E09000003,18
+2015,Other junction,Slight,E09000005,24
+2015,Other junction,Slight,E09000007,3
+2015,Other junction,Slight,E09000010,12
+2015,Other junction,Slight,E09000012,6
+2015,Other junction,Slight,E09000014,12
+2015,Other junction,Slight,E09000015,6
+2015,Other junction,Slight,E09000017,12
+2015,Other junction,Slight,E09000019,15
+2015,Other junction,Slight,E09000024,3
+2015,Private drive or entrance,Slight,E09000003,18
+2015,Private drive or entrance,Slight,E09000005,6
+2015,Private drive or entrance,Slight,E09000006,6
+2015,Private drive or entrance,Slight,E09000007,3
+2015,Private drive or entrance,Slight,E09000008,18
+2015,Private drive or entrance,Slight,E09000009,9
+2015,Private drive or entrance,Slight,E09000010,12
+2015,Private drive or entrance,Slight,E09000011,12
+2015,Private drive or entrance,Slight,E09000013,6
+2015,Private drive or entrance,Slight,E09000014,18
+2015,Private drive or entrance,Slight,E09000015,6
+2015,Private drive or entrance,Slight,E09000016,12
+2015,Private drive or entrance,Slight,E09000017,42
+2015,Private drive or entrance,Slight,E09000018,12
+2015,Private drive or entrance,Slight,E09000019,3
+2015,Private drive or entrance,Slight,E09000022,12
+2015,Private drive or entrance,Slight,E09000024,3
+2015,Private drive or entrance,Slight,E09000025,6
+2015,Private drive or entrance,Slight,E09000026,12
+2015,Private drive or entrance,Slight,E09000027,6
+2015,Private drive or entrance,Slight,E09000028,6
+2015,Private drive or entrance,Slight,E09000029,6
+2015,Private drive or entrance,Slight,E09000030,12
+2015,Private drive or entrance,Slight,E09000031,18
+2015,Private drive or entrance,Slight,E09000032,18
+2015,Private drive or entrance,Slight,E09000033,42
+2015,Roundabout,Slight,E09000003,6
+2015,Roundabout,Slight,E09000004,12
+2015,Roundabout,Slight,E09000005,12
+2015,Roundabout,Slight,E09000006,12
+2015,Roundabout,Slight,E09000008,18
+2015,Roundabout,Slight,E09000009,3
+2015,Roundabout,Slight,E09000010,12
+2015,Roundabout,Slight,E09000011,12
+2015,Roundabout,Slight,E09000012,6
+2015,Roundabout,Slight,E09000013,6
+2015,Roundabout,Slight,E09000015,12
+2015,Roundabout,Slight,E09000016,6
+2015,Roundabout,Slight,E09000017,18
+2015,Roundabout,Slight,E09000019,6
+2015,Roundabout,Slight,E09000021,6
+2015,Roundabout,Slight,E09000023,3
+2015,Roundabout,Slight,E09000025,12
+2015,Roundabout,Slight,E09000026,12
+2015,Roundabout,Slight,E09000028,18
+2015,Roundabout,Slight,E09000030,6
+2015,Roundabout,Slight,E09000031,12
+2015,Roundabout,Slight,E09000033,18
+2015,Slip road,Slight,E09000002,6
+2015,Slip road,Slight,E09000005,6
+2015,Slip road,Slight,E09000009,6
+2015,Slip road,Slight,E09000010,6
+2015,Slip road,Slight,E09000015,6
+2015,Slip road,Slight,E09000017,6
+2015,Slip road,Slight,E09000018,6
+2015,Slip road,Slight,E09000024,3
+2015,T or staggered junction,Slight,E09000001,288
+2015,T or staggered junction,Slight,E09000002,126
+2015,T or staggered junction,Slight,E09000003,390
+2015,T or staggered junction,Slight,E09000004,132
+2015,T or staggered junction,Slight,E09000005,165
+2015,T or staggered junction,Slight,E09000006,282
+2015,T or staggered junction,Slight,E09000007,216
+2015,T or staggered junction,Slight,E09000008,480
+2015,T or staggered junction,Slight,E09000009,183
+2015,T or staggered junction,Slight,E09000010,282
+2015,T or staggered junction,Slight,E09000011,192
+2015,T or staggered junction,Slight,E09000012,390
+2015,T or staggered junction,Slight,E09000013,336
+2015,T or staggered junction,Slight,E09000014,474
+2015,T or staggered junction,Slight,E09000015,180
+2015,T or staggered junction,Slight,E09000016,108
+2015,T or staggered junction,Slight,E09000017,198
+2015,T or staggered junction,Slight,E09000018,228
+2015,T or staggered junction,Slight,E09000019,162
+2015,T or staggered junction,Slight,E09000020,270
+2015,T or staggered junction,Slight,E09000021,90
+2015,T or staggered junction,Slight,E09000022,474
+2015,T or staggered junction,Slight,E09000023,189
+2015,T or staggered junction,Slight,E09000024,93
+2015,T or staggered junction,Slight,E09000025,480
+2015,T or staggered junction,Slight,E09000026,282
+2015,T or staggered junction,Slight,E09000027,102
+2015,T or staggered junction,Slight,E09000028,408
+2015,T or staggered junction,Slight,E09000029,234
+2015,T or staggered junction,Slight,E09000030,390
+2015,T or staggered junction,Slight,E09000031,204
+2015,T or staggered junction,Slight,E09000032,342
+2015,T or staggered junction,Slight,E09000033,642
+2016,Crossroads,Fatal,E09000008,6
+2016,Crossroads,Fatal,E09000011,6
+2016,Crossroads,Fatal,E09000018,6
+2016,Crossroads,Fatal,E09000020,6
+2016,Crossroads,Fatal,E09000033,12
+2016,Not at junction,Fatal,E09000004,6
+2016,Not at junction,Fatal,E09000006,6
+2016,Not at junction,Fatal,E09000008,6
+2016,Not at junction,Fatal,E09000009,3
+2016,Not at junction,Fatal,E09000015,6
+2016,Not at junction,Fatal,E09000016,18
+2016,Not at junction,Fatal,E09000018,6
+2016,Not at junction,Fatal,E09000022,6
+2016,Not at junction,Fatal,E09000027,6
+2016,Not at junction,Fatal,E09000029,6
+2016,Not at junction,Fatal,E09000030,12
+2016,Other junction,Fatal,E09000033,6
+2016,Roundabout,Fatal,E09000026,6
+2016,Roundabout,Fatal,E09000028,6
+2016,T or staggered junction,Fatal,E09000001,6
+2016,T or staggered junction,Fatal,E09000005,3
+2016,T or staggered junction,Fatal,E09000006,24
+2016,T or staggered junction,Fatal,E09000009,3
+2016,T or staggered junction,Fatal,E09000010,6
+2016,T or staggered junction,Fatal,E09000013,12
+2016,T or staggered junction,Fatal,E09000015,6
+2016,T or staggered junction,Fatal,E09000016,6
+2016,T or staggered junction,Fatal,E09000020,6
+2016,T or staggered junction,Fatal,E09000023,6
+2016,T or staggered junction,Fatal,E09000024,3
+2016,T or staggered junction,Fatal,E09000025,6
+2016,T or staggered junction,Fatal,E09000026,18
+2016,T or staggered junction,Fatal,E09000033,6
+2016,Crossroads,Serious,E09000001,24
+2016,Crossroads,Serious,E09000002,6
+2016,Crossroads,Serious,E09000003,6
+2016,Crossroads,Serious,E09000005,9
+2016,Crossroads,Serious,E09000006,6
+2016,Crossroads,Serious,E09000007,21
+2016,Crossroads,Serious,E09000009,12
+2016,Crossroads,Serious,E09000010,6
+2016,Crossroads,Serious,E09000011,6
+2016,Crossroads,Serious,E09000012,18
+2016,Crossroads,Serious,E09000013,12
+2016,Crossroads,Serious,E09000014,18
+2016,Crossroads,Serious,E09000015,6
+2016,Crossroads,Serious,E09000016,6
+2016,Crossroads,Serious,E09000017,6
+2016,Crossroads,Serious,E09000018,6
+2016,Crossroads,Serious,E09000019,12
+2016,Crossroads,Serious,E09000020,18
+2016,Crossroads,Serious,E09000022,12
+2016,Crossroads,Serious,E09000023,3
+2016,Crossroads,Serious,E09000024,6
+2016,Crossroads,Serious,E09000025,24
+2016,Crossroads,Serious,E09000026,6
+2016,Crossroads,Serious,E09000027,6
+2016,Crossroads,Serious,E09000028,12
+2016,Crossroads,Serious,E09000029,12
+2016,Crossroads,Serious,E09000030,18
+2016,Crossroads,Serious,E09000031,6
+2016,Crossroads,Serious,E09000032,12
+2016,Crossroads,Serious,E09000033,72
+2016,Mini-roundabout,Serious,E09000010,6
+2016,Mini-roundabout,Serious,E09000017,6
+2016,Mini-roundabout,Serious,E09000029,6
+2016,More than 4 arms (not roundabout),Serious,E09000005,9
+2016,More than 4 arms (not roundabout),Serious,E09000007,6
+2016,More than 4 arms (not roundabout),Serious,E09000025,6
+2016,More than 4 arms (not roundabout),Serious,E09000028,6
+2016,More than 4 arms (not roundabout),Serious,E09000031,6
+2016,More than 4 arms (not roundabout),Serious,E09000033,6
+2016,Not at junction,Serious,E09000002,36
+2016,Not at junction,Serious,E09000003,36
+2016,Not at junction,Serious,E09000004,36
+2016,Not at junction,Serious,E09000005,24
+2016,Not at junction,Serious,E09000006,12
+2016,Not at junction,Serious,E09000007,21
+2016,Not at junction,Serious,E09000008,54
+2016,Not at junction,Serious,E09000009,39
+2016,Not at junction,Serious,E09000010,48
+2016,Not at junction,Serious,E09000011,6
+2016,Not at junction,Serious,E09000012,30
+2016,Not at junction,Serious,E09000013,42
+2016,Not at junction,Serious,E09000014,60
+2016,Not at junction,Serious,E09000015,48
+2016,Not at junction,Serious,E09000016,54
+2016,Not at junction,Serious,E09000017,54
+2016,Not at junction,Serious,E09000018,24
+2016,Not at junction,Serious,E09000019,9
+2016,Not at junction,Serious,E09000020,24
+2016,Not at junction,Serious,E09000021,6
+2016,Not at junction,Serious,E09000022,48
+2016,Not at junction,Serious,E09000023,21
+2016,Not at junction,Serious,E09000024,15
+2016,Not at junction,Serious,E09000025,42
+2016,Not at junction,Serious,E09000026,48
+2016,Not at junction,Serious,E09000027,24
+2016,Not at junction,Serious,E09000028,36
+2016,Not at junction,Serious,E09000029,12
+2016,Not at junction,Serious,E09000030,78
+2016,Not at junction,Serious,E09000031,6
+2016,Not at junction,Serious,E09000032,24
+2016,Not at junction,Serious,E09000033,48
+2016,Other junction,Serious,E09000004,6
+2016,Other junction,Serious,E09000005,9
+2016,Other junction,Serious,E09000006,6
+2016,Other junction,Serious,E09000007,3
+2016,Other junction,Serious,E09000012,30
+2016,Other junction,Serious,E09000014,6
+2016,Other junction,Serious,E09000015,6
+2016,Other junction,Serious,E09000017,12
+2016,Other junction,Serious,E09000019,9
+2016,Other junction,Serious,E09000021,6
+2016,Other junction,Serious,E09000022,6
+2016,Other junction,Serious,E09000023,3
+2016,Other junction,Serious,E09000024,12
+2016,Other junction,Serious,E09000031,6
+2016,Private drive or entrance,Serious,E09000003,6
+2016,Private drive or entrance,Serious,E09000009,3
+2016,Private drive or entrance,Serious,E09000011,6
+2016,Private drive or entrance,Serious,E09000015,6
+2016,Private drive or entrance,Serious,E09000019,3
+2016,Private drive or entrance,Serious,E09000022,6
+2016,Private drive or entrance,Serious,E09000029,6
+2016,Roundabout,Serious,E09000005,3
+2016,Roundabout,Serious,E09000009,3
+2016,Roundabout,Serious,E09000010,6
+2016,Roundabout,Serious,E09000014,6
+2016,Roundabout,Serious,E09000016,24
+2016,Roundabout,Serious,E09000018,6
+2016,Slip road,Serious,E09000008,6
+2016,Slip road,Serious,E09000010,6
+2016,Slip road,Serious,E09000013,6
+2016,Slip road,Serious,E09000026,6
+2016,Slip road,Serious,E09000030,6
+2016,Slip road,Serious,E09000032,6
+2016,T or staggered junction,Serious,E09000001,60
+2016,T or staggered junction,Serious,E09000002,6
+2016,T or staggered junction,Serious,E09000003,54
+2016,T or staggered junction,Serious,E09000004,24
+2016,T or staggered junction,Serious,E09000005,27
+2016,T or staggered junction,Serious,E09000006,36
+2016,T or staggered junction,Serious,E09000007,39
+2016,T or staggered junction,Serious,E09000008,30
+2016,T or staggered junction,Serious,E09000009,42
+2016,T or staggered junction,Serious,E09000010,48
+2016,T or staggered junction,Serious,E09000011,12
+2016,T or staggered junction,Serious,E09000012,84
+2016,T or staggered junction,Serious,E09000013,108
+2016,T or staggered junction,Serious,E09000014,54
+2016,T or staggered junction,Serious,E09000015,48
+2016,T or staggered junction,Serious,E09000016,30
+2016,T or staggered junction,Serious,E09000017,24
+2016,T or staggered junction,Serious,E09000018,24
+2016,T or staggered junction,Serious,E09000019,27
+2016,T or staggered junction,Serious,E09000020,48
+2016,T or staggered junction,Serious,E09000021,6
+2016,T or staggered junction,Serious,E09000022,114
+2016,T or staggered junction,Serious,E09000023,18
+2016,T or staggered junction,Serious,E09000024,3
+2016,T or staggered junction,Serious,E09000025,72
+2016,T or staggered junction,Serious,E09000026,60
+2016,T or staggered junction,Serious,E09000027,30
+2016,T or staggered junction,Serious,E09000028,54
+2016,T or staggered junction,Serious,E09000029,36
+2016,T or staggered junction,Serious,E09000030,24
+2016,T or staggered junction,Serious,E09000031,36
+2016,T or staggered junction,Serious,E09000032,54
+2016,T or staggered junction,Serious,E09000033,132
+2016,Crossroads,Slight,E09000001,48
+2016,Crossroads,Slight,E09000002,96
+2016,Crossroads,Slight,E09000003,84
+2016,Crossroads,Slight,E09000004,30
+2016,Crossroads,Slight,E09000005,36
+2016,Crossroads,Slight,E09000006,72
+2016,Crossroads,Slight,E09000007,66
+2016,Crossroads,Slight,E09000008,66
+2016,Crossroads,Slight,E09000009,42
+2016,Crossroads,Slight,E09000010,54
+2016,Crossroads,Slight,E09000011,18
+2016,Crossroads,Slight,E09000012,150
+2016,Crossroads,Slight,E09000013,54
+2016,Crossroads,Slight,E09000014,84
+2016,Crossroads,Slight,E09000015,30
+2016,Crossroads,Slight,E09000016,6
+2016,Crossroads,Slight,E09000017,48
+2016,Crossroads,Slight,E09000018,90
+2016,Crossroads,Slight,E09000019,51
+2016,Crossroads,Slight,E09000020,144
+2016,Crossroads,Slight,E09000021,6
+2016,Crossroads,Slight,E09000022,180
+2016,Crossroads,Slight,E09000023,33
+2016,Crossroads,Slight,E09000024,9
+2016,Crossroads,Slight,E09000025,96
+2016,Crossroads,Slight,E09000026,48
+2016,Crossroads,Slight,E09000027,12
+2016,Crossroads,Slight,E09000028,60
+2016,Crossroads,Slight,E09000029,30
+2016,Crossroads,Slight,E09000030,132
+2016,Crossroads,Slight,E09000031,60
+2016,Crossroads,Slight,E09000032,126
+2016,Crossroads,Slight,E09000033,354
+2016,Mini-roundabout,Slight,E09000002,12
+2016,Mini-roundabout,Slight,E09000003,18
+2016,Mini-roundabout,Slight,E09000006,6
+2016,Mini-roundabout,Slight,E09000007,3
+2016,Mini-roundabout,Slight,E09000008,6
+2016,Mini-roundabout,Slight,E09000009,9
+2016,Mini-roundabout,Slight,E09000010,6
+2016,Mini-roundabout,Slight,E09000011,6
+2016,Mini-roundabout,Slight,E09000012,6
+2016,Mini-roundabout,Slight,E09000013,24
+2016,Mini-roundabout,Slight,E09000015,6
+2016,Mini-roundabout,Slight,E09000017,6
+2016,Mini-roundabout,Slight,E09000018,12
+2016,Mini-roundabout,Slight,E09000023,9
+2016,Mini-roundabout,Slight,E09000024,3
+2016,Mini-roundabout,Slight,E09000026,12
+2016,Mini-roundabout,Slight,E09000028,6
+2016,Mini-roundabout,Slight,E09000030,6
+2016,Mini-roundabout,Slight,E09000031,24
+2016,Mini-roundabout,Slight,E09000033,6
+2016,More than 4 arms (not roundabout),Slight,E09000002,12
+2016,More than 4 arms (not roundabout),Slight,E09000004,6
+2016,More than 4 arms (not roundabout),Slight,E09000005,6
+2016,More than 4 arms (not roundabout),Slight,E09000007,9
+2016,More than 4 arms (not roundabout),Slight,E09000008,24
+2016,More than 4 arms (not roundabout),Slight,E09000009,6
+2016,More than 4 arms (not roundabout),Slight,E09000010,6
+2016,More than 4 arms (not roundabout),Slight,E09000013,30
+2016,More than 4 arms (not roundabout),Slight,E09000018,18
+2016,More than 4 arms (not roundabout),Slight,E09000019,6
+2016,More than 4 arms (not roundabout),Slight,E09000020,12
+2016,More than 4 arms (not roundabout),Slight,E09000021,6
+2016,More than 4 arms (not roundabout),Slight,E09000022,18
+2016,More than 4 arms (not roundabout),Slight,E09000023,3
+2016,More than 4 arms (not roundabout),Slight,E09000024,12
+2016,More than 4 arms (not roundabout),Slight,E09000025,6
+2016,More than 4 arms (not roundabout),Slight,E09000028,6
+2016,More than 4 arms (not roundabout),Slight,E09000031,6
+2016,More than 4 arms (not roundabout),Slight,E09000032,12
+2016,More than 4 arms (not roundabout),Slight,E09000033,12
+2016,Not at junction,Slight,E09000001,24
+2016,Not at junction,Slight,E09000002,120
+2016,Not at junction,Slight,E09000003,282
+2016,Not at junction,Slight,E09000004,144
+2016,Not at junction,Slight,E09000005,108
+2016,Not at junction,Slight,E09000006,192
+2016,Not at junction,Slight,E09000007,105
+2016,Not at junction,Slight,E09000008,204
+2016,Not at junction,Slight,E09000009,147
+2016,Not at junction,Slight,E09000010,192
+2016,Not at junction,Slight,E09000011,180
+2016,Not at junction,Slight,E09000012,180
+2016,Not at junction,Slight,E09000013,96
+2016,Not at junction,Slight,E09000014,216
+2016,Not at junction,Slight,E09000015,114
+2016,Not at junction,Slight,E09000016,168
+2016,Not at junction,Slight,E09000017,168
+2016,Not at junction,Slight,E09000018,282
+2016,Not at junction,Slight,E09000019,84
+2016,Not at junction,Slight,E09000020,192
+2016,Not at junction,Slight,E09000021,54
+2016,Not at junction,Slight,E09000022,204
+2016,Not at junction,Slight,E09000023,108
+2016,Not at junction,Slight,E09000024,72
+2016,Not at junction,Slight,E09000025,204
+2016,Not at junction,Slight,E09000026,246
+2016,Not at junction,Slight,E09000027,96
+2016,Not at junction,Slight,E09000028,234
+2016,Not at junction,Slight,E09000029,42
+2016,Not at junction,Slight,E09000030,210
+2016,Not at junction,Slight,E09000031,204
+2016,Not at junction,Slight,E09000032,162
+2016,Not at junction,Slight,E09000033,306
+2016,Other junction,Slight,E09000002,6
+2016,Other junction,Slight,E09000003,36
+2016,Other junction,Slight,E09000004,18
+2016,Other junction,Slight,E09000005,30
+2016,Other junction,Slight,E09000006,12
+2016,Other junction,Slight,E09000007,15
+2016,Other junction,Slight,E09000008,24
+2016,Other junction,Slight,E09000009,12
+2016,Other junction,Slight,E09000010,48
+2016,Other junction,Slight,E09000011,6
+2016,Other junction,Slight,E09000012,36
+2016,Other junction,Slight,E09000013,18
+2016,Other junction,Slight,E09000014,66
+2016,Other junction,Slight,E09000015,30
+2016,Other junction,Slight,E09000016,12
+2016,Other junction,Slight,E09000017,18
+2016,Other junction,Slight,E09000018,30
+2016,Other junction,Slight,E09000019,21
+2016,Other junction,Slight,E09000020,12
+2016,Other junction,Slight,E09000021,12
+2016,Other junction,Slight,E09000022,60
+2016,Other junction,Slight,E09000023,6
+2016,Other junction,Slight,E09000024,9
+2016,Other junction,Slight,E09000025,24
+2016,Other junction,Slight,E09000026,24
+2016,Other junction,Slight,E09000027,24
+2016,Other junction,Slight,E09000028,12
+2016,Other junction,Slight,E09000029,18
+2016,Other junction,Slight,E09000030,6
+2016,Other junction,Slight,E09000031,30
+2016,Other junction,Slight,E09000032,18
+2016,Other junction,Slight,E09000033,30
+2016,Private drive or entrance,Slight,E09000003,24
+2016,Private drive or entrance,Slight,E09000005,6
+2016,Private drive or entrance,Slight,E09000007,3
+2016,Private drive or entrance,Slight,E09000009,12
+2016,Private drive or entrance,Slight,E09000010,18
+2016,Private drive or entrance,Slight,E09000014,24
+2016,Private drive or entrance,Slight,E09000015,24
+2016,Private drive or entrance,Slight,E09000016,12
+2016,Private drive or entrance,Slight,E09000017,30
+2016,Private drive or entrance,Slight,E09000018,18
+2016,Private drive or entrance,Slight,E09000019,6
+2016,Private drive or entrance,Slight,E09000021,6
+2016,Private drive or entrance,Slight,E09000022,6
+2016,Private drive or entrance,Slight,E09000023,3
+2016,Private drive or entrance,Slight,E09000024,3
+2016,Private drive or entrance,Slight,E09000026,12
+2016,Private drive or entrance,Slight,E09000028,18
+2016,Private drive or entrance,Slight,E09000029,18
+2016,Private drive or entrance,Slight,E09000030,6
+2016,Private drive or entrance,Slight,E09000031,12
+2016,Private drive or entrance,Slight,E09000032,18
+2016,Private drive or entrance,Slight,E09000033,6
+2016,Roundabout,Slight,E09000001,6
+2016,Roundabout,Slight,E09000003,18
+2016,Roundabout,Slight,E09000004,36
+2016,Roundabout,Slight,E09000005,9
+2016,Roundabout,Slight,E09000007,9
+2016,Roundabout,Slight,E09000008,60
+2016,Roundabout,Slight,E09000009,21
+2016,Roundabout,Slight,E09000010,12
+2016,Roundabout,Slight,E09000011,6
+2016,Roundabout,Slight,E09000012,24
+2016,Roundabout,Slight,E09000013,30
+2016,Roundabout,Slight,E09000014,6
+2016,Roundabout,Slight,E09000015,12
+2016,Roundabout,Slight,E09000016,18
+2016,Roundabout,Slight,E09000017,6
+2016,Roundabout,Slight,E09000018,12
+2016,Roundabout,Slight,E09000019,3
+2016,Roundabout,Slight,E09000020,6
+2016,Roundabout,Slight,E09000021,18
+2016,Roundabout,Slight,E09000024,6
+2016,Roundabout,Slight,E09000026,24
+2016,Roundabout,Slight,E09000027,12
+2016,Roundabout,Slight,E09000028,12
+2016,Roundabout,Slight,E09000029,12
+2016,Roundabout,Slight,E09000030,6
+2016,Roundabout,Slight,E09000033,24
+2016,Slip road,Slight,E09000003,6
+2016,Slip road,Slight,E09000008,6
+2016,Slip road,Slight,E09000010,12
+2016,Slip road,Slight,E09000011,6
+2016,Slip road,Slight,E09000012,12
+2016,Slip road,Slight,E09000014,6
+2016,Slip road,Slight,E09000015,6
+2016,Slip road,Slight,E09000019,3
+2016,Slip road,Slight,E09000020,6
+2016,Slip road,Slight,E09000023,3
+2016,Slip road,Slight,E09000024,3
+2016,Slip road,Slight,E09000025,6
+2016,Slip road,Slight,E09000030,6
+2016,Slip road,Slight,E09000031,6
+2016,Slip road,Slight,E09000032,6
+2016,T or staggered junction,Slight,E09000001,204
+2016,T or staggered junction,Slight,E09000002,138
+2016,T or staggered junction,Slight,E09000003,288
+2016,T or staggered junction,Slight,E09000004,222
+2016,T or staggered junction,Slight,E09000005,207
+2016,T or staggered junction,Slight,E09000006,246
+2016,T or staggered junction,Slight,E09000007,132
+2016,T or staggered junction,Slight,E09000008,372
+2016,T or staggered junction,Slight,E09000009,246
+2016,T or staggered junction,Slight,E09000010,312
+2016,T or staggered junction,Slight,E09000011,168
+2016,T or staggered junction,Slight,E09000012,372
+2016,T or staggered junction,Slight,E09000013,288
+2016,T or staggered junction,Slight,E09000014,396
+2016,T or staggered junction,Slight,E09000015,156
+2016,T or staggered junction,Slight,E09000016,132
+2016,T or staggered junction,Slight,E09000017,168
+2016,T or staggered junction,Slight,E09000018,264
+2016,T or staggered junction,Slight,E09000019,156
+2016,T or staggered junction,Slight,E09000020,270
+2016,T or staggered junction,Slight,E09000021,90
+2016,T or staggered junction,Slight,E09000022,474
+2016,T or staggered junction,Slight,E09000023,168
+2016,T or staggered junction,Slight,E09000024,111
+2016,T or staggered junction,Slight,E09000025,432
+2016,T or staggered junction,Slight,E09000026,252
+2016,T or staggered junction,Slight,E09000027,168
+2016,T or staggered junction,Slight,E09000028,402
+2016,T or staggered junction,Slight,E09000029,126
+2016,T or staggered junction,Slight,E09000030,390
+2016,T or staggered junction,Slight,E09000031,276
+2016,T or staggered junction,Slight,E09000032,378
+2016,T or staggered junction,Slight,E09000033,666
+2017,Crossroads,Fatal,E09000003,6
+2017,Crossroads,Fatal,E09000005,3
+2017,Crossroads,Fatal,E09000022,6
+2017,Crossroads,Fatal,E09000027,6
+2017,Crossroads,Fatal,E09000030,6
+2017,Crossroads,Fatal,E09000031,6
+2017,Crossroads,Fatal,E09000032,6
+2017,Crossroads,Fatal,E09000033,6
+2017,More than 4 arms (not roundabout),Fatal,E09000013,6
+2017,More than 4 arms (not roundabout),Fatal,E09000022,24
+2017,Not at junction,Fatal,E09000001,6
+2017,Not at junction,Fatal,E09000002,6
+2017,Not at junction,Fatal,E09000003,12
+2017,Not at junction,Fatal,E09000005,3
+2017,Not at junction,Fatal,E09000007,3
+2017,Not at junction,Fatal,E09000009,3
+2017,Not at junction,Fatal,E09000010,18
+2017,Not at junction,Fatal,E09000016,12
+2017,Not at junction,Fatal,E09000020,12
+2017,Not at junction,Fatal,E09000023,9
+2017,Not at junction,Fatal,E09000026,6
+2017,Not at junction,Fatal,E09000028,6
+2017,Not at junction,Fatal,E09000031,6
+2017,Other junction,Fatal,E09000008,6
+2017,Other junction,Fatal,E09000026,6
+2017,Private drive or entrance,Fatal,E09000030,6
+2017,Roundabout,Fatal,E09000008,42
+2017,T or staggered junction,Fatal,E09000003,12
+2017,T or staggered junction,Fatal,E09000004,6
+2017,T or staggered junction,Fatal,E09000009,3
+2017,T or staggered junction,Fatal,E09000014,6
+2017,T or staggered junction,Fatal,E09000015,12
+2017,T or staggered junction,Fatal,E09000019,3
+2017,T or staggered junction,Fatal,E09000026,12
+2017,T or staggered junction,Fatal,E09000028,6
+2017,T or staggered junction,Fatal,E09000029,6
+2017,T or staggered junction,Fatal,E09000031,6
+2017,T or staggered junction,Fatal,E09000032,6
+2017,Crossroads,Serious,E09000001,6
+2017,Crossroads,Serious,E09000002,6
+2017,Crossroads,Serious,E09000003,36
+2017,Crossroads,Serious,E09000004,12
+2017,Crossroads,Serious,E09000005,12
+2017,Crossroads,Serious,E09000006,18
+2017,Crossroads,Serious,E09000007,18
+2017,Crossroads,Serious,E09000008,24
+2017,Crossroads,Serious,E09000009,6
+2017,Crossroads,Serious,E09000010,30
+2017,Crossroads,Serious,E09000011,12
+2017,Crossroads,Serious,E09000012,48
+2017,Crossroads,Serious,E09000013,18
+2017,Crossroads,Serious,E09000014,36
+2017,Crossroads,Serious,E09000015,12
+2017,Crossroads,Serious,E09000016,12
+2017,Crossroads,Serious,E09000017,6
+2017,Crossroads,Serious,E09000018,18
+2017,Crossroads,Serious,E09000019,27
+2017,Crossroads,Serious,E09000020,42
+2017,Crossroads,Serious,E09000022,54
+2017,Crossroads,Serious,E09000023,9
+2017,Crossroads,Serious,E09000024,3
+2017,Crossroads,Serious,E09000025,72
+2017,Crossroads,Serious,E09000026,6
+2017,Crossroads,Serious,E09000027,6
+2017,Crossroads,Serious,E09000028,18
+2017,Crossroads,Serious,E09000029,36
+2017,Crossroads,Serious,E09000030,36
+2017,Crossroads,Serious,E09000031,18
+2017,Crossroads,Serious,E09000032,48
+2017,Crossroads,Serious,E09000033,174
+2017,Mini-roundabout,Serious,E09000003,6
+2017,Mini-roundabout,Serious,E09000006,6
+2017,Mini-roundabout,Serious,E09000009,3
+2017,Mini-roundabout,Serious,E09000020,6
+2017,Mini-roundabout,Serious,E09000026,6
+2017,More than 4 arms (not roundabout),Serious,E09000002,12
+2017,More than 4 arms (not roundabout),Serious,E09000003,6
+2017,More than 4 arms (not roundabout),Serious,E09000006,6
+2017,More than 4 arms (not roundabout),Serious,E09000009,6
+2017,More than 4 arms (not roundabout),Serious,E09000013,18
+2017,More than 4 arms (not roundabout),Serious,E09000014,12
+2017,More than 4 arms (not roundabout),Serious,E09000022,18
+2017,More than 4 arms (not roundabout),Serious,E09000023,3
+2017,More than 4 arms (not roundabout),Serious,E09000030,12
+2017,More than 4 arms (not roundabout),Serious,E09000031,6
+2017,More than 4 arms (not roundabout),Serious,E09000032,6
+2017,Not at junction,Serious,E09000001,12
+2017,Not at junction,Serious,E09000002,42
+2017,Not at junction,Serious,E09000003,72
+2017,Not at junction,Serious,E09000004,30
+2017,Not at junction,Serious,E09000005,36
+2017,Not at junction,Serious,E09000006,24
+2017,Not at junction,Serious,E09000007,21
+2017,Not at junction,Serious,E09000008,36
+2017,Not at junction,Serious,E09000009,30
+2017,Not at junction,Serious,E09000010,42
+2017,Not at junction,Serious,E09000011,36
+2017,Not at junction,Serious,E09000012,42
+2017,Not at junction,Serious,E09000013,36
+2017,Not at junction,Serious,E09000014,84
+2017,Not at junction,Serious,E09000015,84
+2017,Not at junction,Serious,E09000016,48
+2017,Not at junction,Serious,E09000017,84
+2017,Not at junction,Serious,E09000018,78
+2017,Not at junction,Serious,E09000019,18
+2017,Not at junction,Serious,E09000020,36
+2017,Not at junction,Serious,E09000021,24
+2017,Not at junction,Serious,E09000022,78
+2017,Not at junction,Serious,E09000023,33
+2017,Not at junction,Serious,E09000024,21
+2017,Not at junction,Serious,E09000025,72
+2017,Not at junction,Serious,E09000026,60
+2017,Not at junction,Serious,E09000027,6
+2017,Not at junction,Serious,E09000028,30
+2017,Not at junction,Serious,E09000029,24
+2017,Not at junction,Serious,E09000030,72
+2017,Not at junction,Serious,E09000031,36
+2017,Not at junction,Serious,E09000032,48
+2017,Not at junction,Serious,E09000033,54
+2017,Other junction,Serious,E09000003,30
+2017,Other junction,Serious,E09000004,6
+2017,Other junction,Serious,E09000005,6
+2017,Other junction,Serious,E09000006,6
+2017,Other junction,Serious,E09000007,9
+2017,Other junction,Serious,E09000009,9
+2017,Other junction,Serious,E09000010,12
+2017,Other junction,Serious,E09000012,18
+2017,Other junction,Serious,E09000013,6
+2017,Other junction,Serious,E09000014,24
+2017,Other junction,Serious,E09000017,24
+2017,Other junction,Serious,E09000018,18
+2017,Other junction,Serious,E09000019,6
+2017,Other junction,Serious,E09000020,12
+2017,Other junction,Serious,E09000021,12
+2017,Other junction,Serious,E09000022,12
+2017,Other junction,Serious,E09000023,9
+2017,Other junction,Serious,E09000025,24
+2017,Other junction,Serious,E09000026,6
+2017,Other junction,Serious,E09000027,6
+2017,Other junction,Serious,E09000028,6
+2017,Other junction,Serious,E09000030,6
+2017,Other junction,Serious,E09000031,48
+2017,Other junction,Serious,E09000032,6
+2017,Other junction,Serious,E09000033,42
+2017,Private drive or entrance,Serious,E09000003,6
+2017,Private drive or entrance,Serious,E09000005,3
+2017,Private drive or entrance,Serious,E09000007,3
+2017,Private drive or entrance,Serious,E09000008,6
+2017,Private drive or entrance,Serious,E09000010,6
+2017,Private drive or entrance,Serious,E09000016,6
+2017,Private drive or entrance,Serious,E09000017,12
+2017,Private drive or entrance,Serious,E09000018,6
+2017,Private drive or entrance,Serious,E09000019,3
+2017,Private drive or entrance,Serious,E09000022,6
+2017,Private drive or entrance,Serious,E09000023,3
+2017,Private drive or entrance,Serious,E09000028,12
+2017,Private drive or entrance,Serious,E09000033,6
+2017,Roundabout,Serious,E09000002,12
+2017,Roundabout,Serious,E09000004,6
+2017,Roundabout,Serious,E09000005,15
+2017,Roundabout,Serious,E09000008,6
+2017,Roundabout,Serious,E09000009,3
+2017,Roundabout,Serious,E09000011,12
+2017,Roundabout,Serious,E09000012,6
+2017,Roundabout,Serious,E09000014,6
+2017,Roundabout,Serious,E09000016,6
+2017,Roundabout,Serious,E09000017,24
+2017,Roundabout,Serious,E09000018,6
+2017,Roundabout,Serious,E09000019,3
+2017,Roundabout,Serious,E09000022,6
+2017,Roundabout,Serious,E09000023,3
+2017,Roundabout,Serious,E09000024,3
+2017,Roundabout,Serious,E09000026,12
+2017,Roundabout,Serious,E09000028,24
+2017,Roundabout,Serious,E09000030,18
+2017,Roundabout,Serious,E09000031,6
+2017,Roundabout,Serious,E09000033,24
+2017,Slip road,Serious,E09000003,6
+2017,Slip road,Serious,E09000004,6
+2017,Slip road,Serious,E09000010,6
+2017,Slip road,Serious,E09000016,6
+2017,Slip road,Serious,E09000021,6
+2017,Slip road,Serious,E09000025,6
+2017,Slip road,Serious,E09000028,6
+2017,Slip road,Serious,E09000030,6
+2017,Slip road,Serious,E09000033,12
+2017,T or staggered junction,Serious,E09000001,12
+2017,T or staggered junction,Serious,E09000002,42
+2017,T or staggered junction,Serious,E09000003,138
+2017,T or staggered junction,Serious,E09000004,54
+2017,T or staggered junction,Serious,E09000005,60
+2017,T or staggered junction,Serious,E09000006,84
+2017,T or staggered junction,Serious,E09000007,81
+2017,T or staggered junction,Serious,E09000008,90
+2017,T or staggered junction,Serious,E09000009,72
+2017,T or staggered junction,Serious,E09000010,72
+2017,T or staggered junction,Serious,E09000011,54
+2017,T or staggered junction,Serious,E09000012,132
+2017,T or staggered junction,Serious,E09000013,66
+2017,T or staggered junction,Serious,E09000014,66
+2017,T or staggered junction,Serious,E09000015,48
+2017,T or staggered junction,Serious,E09000016,36
+2017,T or staggered junction,Serious,E09000017,84
+2017,T or staggered junction,Serious,E09000018,72
+2017,T or staggered junction,Serious,E09000019,66
+2017,T or staggered junction,Serious,E09000020,108
+2017,T or staggered junction,Serious,E09000021,42
+2017,T or staggered junction,Serious,E09000022,114
+2017,T or staggered junction,Serious,E09000023,54
+2017,T or staggered junction,Serious,E09000024,27
+2017,T or staggered junction,Serious,E09000025,216
+2017,T or staggered junction,Serious,E09000026,72
+2017,T or staggered junction,Serious,E09000027,48
+2017,T or staggered junction,Serious,E09000028,138
+2017,T or staggered junction,Serious,E09000029,78
+2017,T or staggered junction,Serious,E09000030,114
+2017,T or staggered junction,Serious,E09000031,114
+2017,T or staggered junction,Serious,E09000032,102
+2017,T or staggered junction,Serious,E09000033,210
+2017,Crossroads,Slight,E09000001,18
+2017,Crossroads,Slight,E09000002,78
+2017,Crossroads,Slight,E09000003,132
+2017,Crossroads,Slight,E09000004,6
+2017,Crossroads,Slight,E09000005,54
+2017,Crossroads,Slight,E09000006,108
+2017,Crossroads,Slight,E09000007,102
+2017,Crossroads,Slight,E09000008,90
+2017,Crossroads,Slight,E09000009,57
+2017,Crossroads,Slight,E09000010,60
+2017,Crossroads,Slight,E09000011,96
+2017,Crossroads,Slight,E09000012,138
+2017,Crossroads,Slight,E09000013,66
+2017,Crossroads,Slight,E09000014,96
+2017,Crossroads,Slight,E09000015,36
+2017,Crossroads,Slight,E09000016,6
+2017,Crossroads,Slight,E09000017,42
+2017,Crossroads,Slight,E09000018,102
+2017,Crossroads,Slight,E09000019,66
+2017,Crossroads,Slight,E09000020,120
+2017,Crossroads,Slight,E09000021,18
+2017,Crossroads,Slight,E09000022,150
+2017,Crossroads,Slight,E09000023,39
+2017,Crossroads,Slight,E09000024,27
+2017,Crossroads,Slight,E09000025,84
+2017,Crossroads,Slight,E09000026,42
+2017,Crossroads,Slight,E09000027,18
+2017,Crossroads,Slight,E09000028,102
+2017,Crossroads,Slight,E09000029,42
+2017,Crossroads,Slight,E09000030,126
+2017,Crossroads,Slight,E09000031,90
+2017,Crossroads,Slight,E09000032,162
+2017,Crossroads,Slight,E09000033,468
+2017,Mini-roundabout,Slight,E09000002,12
+2017,Mini-roundabout,Slight,E09000003,6
+2017,Mini-roundabout,Slight,E09000004,12
+2017,Mini-roundabout,Slight,E09000005,3
+2017,Mini-roundabout,Slight,E09000006,12
+2017,Mini-roundabout,Slight,E09000008,6
+2017,Mini-roundabout,Slight,E09000010,12
+2017,Mini-roundabout,Slight,E09000013,36
+2017,Mini-roundabout,Slight,E09000014,12
+2017,Mini-roundabout,Slight,E09000016,6
+2017,Mini-roundabout,Slight,E09000017,6
+2017,Mini-roundabout,Slight,E09000018,18
+2017,Mini-roundabout,Slight,E09000020,6
+2017,Mini-roundabout,Slight,E09000021,6
+2017,Mini-roundabout,Slight,E09000023,3
+2017,Mini-roundabout,Slight,E09000025,24
+2017,Mini-roundabout,Slight,E09000027,6
+2017,Mini-roundabout,Slight,E09000028,6
+2017,Mini-roundabout,Slight,E09000029,12
+2017,Mini-roundabout,Slight,E09000030,12
+2017,Mini-roundabout,Slight,E09000032,24
+2017,Mini-roundabout,Slight,E09000033,12
+2017,More than 4 arms (not roundabout),Slight,E09000001,12
+2017,More than 4 arms (not roundabout),Slight,E09000002,12
+2017,More than 4 arms (not roundabout),Slight,E09000003,18
+2017,More than 4 arms (not roundabout),Slight,E09000004,6
+2017,More than 4 arms (not roundabout),Slight,E09000005,21
+2017,More than 4 arms (not roundabout),Slight,E09000006,24
+2017,More than 4 arms (not roundabout),Slight,E09000007,42
+2017,More than 4 arms (not roundabout),Slight,E09000008,84
+2017,More than 4 arms (not roundabout),Slight,E09000009,18
+2017,More than 4 arms (not roundabout),Slight,E09000010,18
+2017,More than 4 arms (not roundabout),Slight,E09000011,12
+2017,More than 4 arms (not roundabout),Slight,E09000012,30
+2017,More than 4 arms (not roundabout),Slight,E09000013,6
+2017,More than 4 arms (not roundabout),Slight,E09000014,36
+2017,More than 4 arms (not roundabout),Slight,E09000015,12
+2017,More than 4 arms (not roundabout),Slight,E09000016,12
+2017,More than 4 arms (not roundabout),Slight,E09000017,6
+2017,More than 4 arms (not roundabout),Slight,E09000018,18
+2017,More than 4 arms (not roundabout),Slight,E09000019,27
+2017,More than 4 arms (not roundabout),Slight,E09000020,12
+2017,More than 4 arms (not roundabout),Slight,E09000021,6
+2017,More than 4 arms (not roundabout),Slight,E09000022,48
+2017,More than 4 arms (not roundabout),Slight,E09000023,12
+2017,More than 4 arms (not roundabout),Slight,E09000024,3
+2017,More than 4 arms (not roundabout),Slight,E09000025,48
+2017,More than 4 arms (not roundabout),Slight,E09000026,18
+2017,More than 4 arms (not roundabout),Slight,E09000027,18
+2017,More than 4 arms (not roundabout),Slight,E09000028,42
+2017,More than 4 arms (not roundabout),Slight,E09000030,18
+2017,More than 4 arms (not roundabout),Slight,E09000031,24
+2017,More than 4 arms (not roundabout),Slight,E09000032,12
+2017,More than 4 arms (not roundabout),Slight,E09000033,60
+2017,Not at junction,Slight,E09000001,18
+2017,Not at junction,Slight,E09000002,192
+2017,Not at junction,Slight,E09000003,306
+2017,Not at junction,Slight,E09000004,138
+2017,Not at junction,Slight,E09000005,117
+2017,Not at junction,Slight,E09000006,252
+2017,Not at junction,Slight,E09000007,135
+2017,Not at junction,Slight,E09000008,390
+2017,Not at junction,Slight,E09000009,126
+2017,Not at junction,Slight,E09000010,348
+2017,Not at junction,Slight,E09000011,198
+2017,Not at junction,Slight,E09000012,210
+2017,Not at junction,Slight,E09000013,144
+2017,Not at junction,Slight,E09000014,216
+2017,Not at junction,Slight,E09000015,108
+2017,Not at junction,Slight,E09000016,174
+2017,Not at junction,Slight,E09000017,252
+2017,Not at junction,Slight,E09000018,216
+2017,Not at junction,Slight,E09000019,81
+2017,Not at junction,Slight,E09000020,102
+2017,Not at junction,Slight,E09000021,102
+2017,Not at junction,Slight,E09000022,252
+2017,Not at junction,Slight,E09000023,114
+2017,Not at junction,Slight,E09000024,96
+2017,Not at junction,Slight,E09000025,264
+2017,Not at junction,Slight,E09000026,138
+2017,Not at junction,Slight,E09000027,120
+2017,Not at junction,Slight,E09000028,174
+2017,Not at junction,Slight,E09000029,144
+2017,Not at junction,Slight,E09000030,264
+2017,Not at junction,Slight,E09000031,138
+2017,Not at junction,Slight,E09000032,204
+2017,Not at junction,Slight,E09000033,306
+2017,Other junction,Slight,E09000002,30
+2017,Other junction,Slight,E09000003,90
+2017,Other junction,Slight,E09000004,42
+2017,Other junction,Slight,E09000005,33
+2017,Other junction,Slight,E09000006,78
+2017,Other junction,Slight,E09000007,54
+2017,Other junction,Slight,E09000008,84
+2017,Other junction,Slight,E09000009,45
+2017,Other junction,Slight,E09000010,72
+2017,Other junction,Slight,E09000011,60
+2017,Other junction,Slight,E09000012,126
+2017,Other junction,Slight,E09000013,60
+2017,Other junction,Slight,E09000014,48
+2017,Other junction,Slight,E09000015,30
+2017,Other junction,Slight,E09000016,6
+2017,Other junction,Slight,E09000017,54
+2017,Other junction,Slight,E09000018,66
+2017,Other junction,Slight,E09000019,27
+2017,Other junction,Slight,E09000020,48
+2017,Other junction,Slight,E09000021,30
+2017,Other junction,Slight,E09000022,162
+2017,Other junction,Slight,E09000023,48
+2017,Other junction,Slight,E09000024,24
+2017,Other junction,Slight,E09000025,66
+2017,Other junction,Slight,E09000026,84
+2017,Other junction,Slight,E09000027,42
+2017,Other junction,Slight,E09000028,42
+2017,Other junction,Slight,E09000029,54
+2017,Other junction,Slight,E09000030,66
+2017,Other junction,Slight,E09000031,42
+2017,Other junction,Slight,E09000032,78
+2017,Other junction,Slight,E09000033,144
+2017,Private drive or entrance,Slight,E09000002,12
+2017,Private drive or entrance,Slight,E09000003,18
+2017,Private drive or entrance,Slight,E09000005,6
+2017,Private drive or entrance,Slight,E09000006,12
+2017,Private drive or entrance,Slight,E09000007,3
+2017,Private drive or entrance,Slight,E09000008,42
+2017,Private drive or entrance,Slight,E09000009,30
+2017,Private drive or entrance,Slight,E09000010,18
+2017,Private drive or entrance,Slight,E09000011,12
+2017,Private drive or entrance,Slight,E09000012,12
+2017,Private drive or entrance,Slight,E09000013,6
+2017,Private drive or entrance,Slight,E09000014,6
+2017,Private drive or entrance,Slight,E09000015,36
+2017,Private drive or entrance,Slight,E09000016,18
+2017,Private drive or entrance,Slight,E09000017,30
+2017,Private drive or entrance,Slight,E09000018,18
+2017,Private drive or entrance,Slight,E09000019,6
+2017,Private drive or entrance,Slight,E09000021,6
+2017,Private drive or entrance,Slight,E09000022,36
+2017,Private drive or entrance,Slight,E09000023,6
+2017,Private drive or entrance,Slight,E09000024,6
+2017,Private drive or entrance,Slight,E09000025,6
+2017,Private drive or entrance,Slight,E09000027,6
+2017,Private drive or entrance,Slight,E09000028,24
+2017,Private drive or entrance,Slight,E09000029,6
+2017,Private drive or entrance,Slight,E09000030,18
+2017,Private drive or entrance,Slight,E09000032,6
+2017,Private drive or entrance,Slight,E09000033,18
+2017,Roundabout,Slight,E09000002,6
+2017,Roundabout,Slight,E09000003,24
+2017,Roundabout,Slight,E09000004,48
+2017,Roundabout,Slight,E09000005,3
+2017,Roundabout,Slight,E09000006,42
+2017,Roundabout,Slight,E09000007,3
+2017,Roundabout,Slight,E09000008,36
+2017,Roundabout,Slight,E09000009,27
+2017,Roundabout,Slight,E09000010,24
+2017,Roundabout,Slight,E09000011,24
+2017,Roundabout,Slight,E09000012,12
+2017,Roundabout,Slight,E09000013,24
+2017,Roundabout,Slight,E09000014,54
+2017,Roundabout,Slight,E09000015,48
+2017,Roundabout,Slight,E09000016,12
+2017,Roundabout,Slight,E09000017,30
+2017,Roundabout,Slight,E09000018,24
+2017,Roundabout,Slight,E09000019,12
+2017,Roundabout,Slight,E09000020,30
+2017,Roundabout,Slight,E09000021,6
+2017,Roundabout,Slight,E09000022,12
+2017,Roundabout,Slight,E09000023,15
+2017,Roundabout,Slight,E09000024,12
+2017,Roundabout,Slight,E09000025,30
+2017,Roundabout,Slight,E09000026,30
+2017,Roundabout,Slight,E09000027,12
+2017,Roundabout,Slight,E09000028,36
+2017,Roundabout,Slight,E09000029,6
+2017,Roundabout,Slight,E09000030,36
+2017,Roundabout,Slight,E09000031,6
+2017,Roundabout,Slight,E09000032,24
+2017,Roundabout,Slight,E09000033,60
+2017,Slip road,Slight,E09000003,6
+2017,Slip road,Slight,E09000004,6
+2017,Slip road,Slight,E09000005,12
+2017,Slip road,Slight,E09000007,3
+2017,Slip road,Slight,E09000008,12
+2017,Slip road,Slight,E09000009,12
+2017,Slip road,Slight,E09000010,12
+2017,Slip road,Slight,E09000013,18
+2017,Slip road,Slight,E09000014,30
+2017,Slip road,Slight,E09000015,6
+2017,Slip road,Slight,E09000017,18
+2017,Slip road,Slight,E09000018,18
+2017,Slip road,Slight,E09000021,6
+2017,Slip road,Slight,E09000022,6
+2017,Slip road,Slight,E09000023,9
+2017,Slip road,Slight,E09000026,6
+2017,Slip road,Slight,E09000027,6
+2017,Slip road,Slight,E09000029,18
+2017,Slip road,Slight,E09000030,12
+2017,Slip road,Slight,E09000031,6
+2017,Slip road,Slight,E09000032,12
+2017,Slip road,Slight,E09000033,12
+2017,T or staggered junction,Slight,E09000001,132
+2017,T or staggered junction,Slight,E09000002,174
+2017,T or staggered junction,Slight,E09000003,456
+2017,T or staggered junction,Slight,E09000004,252
+2017,T or staggered junction,Slight,E09000005,222
+2017,T or staggered junction,Slight,E09000006,318
+2017,T or staggered junction,Slight,E09000007,216
+2017,T or staggered junction,Slight,E09000008,444
+2017,T or staggered junction,Slight,E09000009,186
+2017,T or staggered junction,Slight,E09000010,258
+2017,T or staggered junction,Slight,E09000011,246
+2017,T or staggered junction,Slight,E09000012,546
+2017,T or staggered junction,Slight,E09000013,318
+2017,T or staggered junction,Slight,E09000014,420
+2017,T or staggered junction,Slight,E09000015,240
+2017,T or staggered junction,Slight,E09000016,168
+2017,T or staggered junction,Slight,E09000017,192
+2017,T or staggered junction,Slight,E09000018,282
+2017,T or staggered junction,Slight,E09000019,213
+2017,T or staggered junction,Slight,E09000020,282
+2017,T or staggered junction,Slight,E09000021,36
+2017,T or staggered junction,Slight,E09000022,396
+2017,T or staggered junction,Slight,E09000023,174
+2017,T or staggered junction,Slight,E09000024,99
+2017,T or staggered junction,Slight,E09000025,270
+2017,T or staggered junction,Slight,E09000026,372
+2017,T or staggered junction,Slight,E09000027,102
+2017,T or staggered junction,Slight,E09000028,480
+2017,T or staggered junction,Slight,E09000029,162
+2017,T or staggered junction,Slight,E09000030,372
+2017,T or staggered junction,Slight,E09000031,288
+2017,T or staggered junction,Slight,E09000032,426
+2017,T or staggered junction,Slight,E09000033,630
+2018,Crossroads,Fatal,E09000010,6
+2018,Crossroads,Fatal,E09000014,6
+2018,Crossroads,Fatal,E09000031,6
+2018,More than 4 arms (not roundabout),Fatal,E09000023,3
+2018,More than 4 arms (not roundabout),Fatal,E09000033,6
+2018,Not at junction,Fatal,E09000005,3
+2018,Not at junction,Fatal,E09000006,6
+2018,Not at junction,Fatal,E09000009,3
+2018,Not at junction,Fatal,E09000010,6
+2018,Not at junction,Fatal,E09000013,6
+2018,Not at junction,Fatal,E09000017,6
+2018,Not at junction,Fatal,E09000025,12
+2018,Not at junction,Fatal,E09000027,6
+2018,Not at junction,Fatal,E09000032,12
+2018,Other junction,Fatal,E09000009,3
+2018,Other junction,Fatal,E09000010,6
+2018,Other junction,Fatal,E09000020,6
+2018,Other junction,Fatal,E09000022,6
+2018,Other junction,Fatal,E09000024,3
+2018,Other junction,Fatal,E09000032,6
+2018,Other junction,Fatal,E09000033,6
+2018,Roundabout,Fatal,E09000018,6
+2018,T or staggered junction,Fatal,E09000004,6
+2018,T or staggered junction,Fatal,E09000005,6
+2018,T or staggered junction,Fatal,E09000006,6
+2018,T or staggered junction,Fatal,E09000007,3
+2018,T or staggered junction,Fatal,E09000008,6
+2018,T or staggered junction,Fatal,E09000009,3
+2018,T or staggered junction,Fatal,E09000010,6
+2018,T or staggered junction,Fatal,E09000011,6
+2018,T or staggered junction,Fatal,E09000021,6
+2018,T or staggered junction,Fatal,E09000024,3
+2018,T or staggered junction,Fatal,E09000028,6
+2018,Crossroads,Serious,E09000001,6
+2018,Crossroads,Serious,E09000002,6
+2018,Crossroads,Serious,E09000003,18
+2018,Crossroads,Serious,E09000004,6
+2018,Crossroads,Serious,E09000005,21
+2018,Crossroads,Serious,E09000006,12
+2018,Crossroads,Serious,E09000007,42
+2018,Crossroads,Serious,E09000008,6
+2018,Crossroads,Serious,E09000009,15
+2018,Crossroads,Serious,E09000010,36
+2018,Crossroads,Serious,E09000011,12
+2018,Crossroads,Serious,E09000012,48
+2018,Crossroads,Serious,E09000014,42
+2018,Crossroads,Serious,E09000015,6
+2018,Crossroads,Serious,E09000016,18
+2018,Crossroads,Serious,E09000017,18
+2018,Crossroads,Serious,E09000018,18
+2018,Crossroads,Serious,E09000019,12
+2018,Crossroads,Serious,E09000020,84
+2018,Crossroads,Serious,E09000022,60
+2018,Crossroads,Serious,E09000023,9
+2018,Crossroads,Serious,E09000024,3
+2018,Crossroads,Serious,E09000025,24
+2018,Crossroads,Serious,E09000026,24
+2018,Crossroads,Serious,E09000027,12
+2018,Crossroads,Serious,E09000028,42
+2018,Crossroads,Serious,E09000029,6
+2018,Crossroads,Serious,E09000030,30
+2018,Crossroads,Serious,E09000033,144
+2018,Mini-roundabout,Serious,E09000003,6
+2018,Mini-roundabout,Serious,E09000006,12
+2018,Mini-roundabout,Serious,E09000009,6
+2018,Mini-roundabout,Serious,E09000010,6
+2018,Mini-roundabout,Serious,E09000011,6
+2018,Mini-roundabout,Serious,E09000017,18
+2018,Mini-roundabout,Serious,E09000018,6
+2018,Mini-roundabout,Serious,E09000023,3
+2018,Mini-roundabout,Serious,E09000024,3
+2018,Mini-roundabout,Serious,E09000026,6
+2018,Mini-roundabout,Serious,E09000029,6
+2018,Mini-roundabout,Serious,E09000031,6
+2018,More than 4 arms (not roundabout),Serious,E09000001,12
+2018,More than 4 arms (not roundabout),Serious,E09000003,6
+2018,More than 4 arms (not roundabout),Serious,E09000005,3
+2018,More than 4 arms (not roundabout),Serious,E09000006,12
+2018,More than 4 arms (not roundabout),Serious,E09000007,3
+2018,More than 4 arms (not roundabout),Serious,E09000008,12
+2018,More than 4 arms (not roundabout),Serious,E09000009,3
+2018,More than 4 arms (not roundabout),Serious,E09000010,6
+2018,More than 4 arms (not roundabout),Serious,E09000012,24
+2018,More than 4 arms (not roundabout),Serious,E09000013,6
+2018,More than 4 arms (not roundabout),Serious,E09000014,24
+2018,More than 4 arms (not roundabout),Serious,E09000015,6
+2018,More than 4 arms (not roundabout),Serious,E09000017,6
+2018,More than 4 arms (not roundabout),Serious,E09000020,6
+2018,More than 4 arms (not roundabout),Serious,E09000022,6
+2018,More than 4 arms (not roundabout),Serious,E09000023,6
+2018,More than 4 arms (not roundabout),Serious,E09000026,18
+2018,More than 4 arms (not roundabout),Serious,E09000028,12
+2018,More than 4 arms (not roundabout),Serious,E09000030,24
+2018,More than 4 arms (not roundabout),Serious,E09000032,12
+2018,More than 4 arms (not roundabout),Serious,E09000033,24
+2018,Not at junction,Serious,E09000001,36
+2018,Not at junction,Serious,E09000002,78
+2018,Not at junction,Serious,E09000003,60
+2018,Not at junction,Serious,E09000004,48
+2018,Not at junction,Serious,E09000005,39
+2018,Not at junction,Serious,E09000006,54
+2018,Not at junction,Serious,E09000007,21
+2018,Not at junction,Serious,E09000008,108
+2018,Not at junction,Serious,E09000009,45
+2018,Not at junction,Serious,E09000010,102
+2018,Not at junction,Serious,E09000011,60
+2018,Not at junction,Serious,E09000012,66
+2018,Not at junction,Serious,E09000013,72
+2018,Not at junction,Serious,E09000014,48
+2018,Not at junction,Serious,E09000015,30
+2018,Not at junction,Serious,E09000016,36
+2018,Not at junction,Serious,E09000017,72
+2018,Not at junction,Serious,E09000018,60
+2018,Not at junction,Serious,E09000019,24
+2018,Not at junction,Serious,E09000020,24
+2018,Not at junction,Serious,E09000021,36
+2018,Not at junction,Serious,E09000022,96
+2018,Not at junction,Serious,E09000023,27
+2018,Not at junction,Serious,E09000024,15
+2018,Not at junction,Serious,E09000025,48
+2018,Not at junction,Serious,E09000026,24
+2018,Not at junction,Serious,E09000027,48
+2018,Not at junction,Serious,E09000028,84
+2018,Not at junction,Serious,E09000029,12
+2018,Not at junction,Serious,E09000030,60
+2018,Not at junction,Serious,E09000031,54
+2018,Not at junction,Serious,E09000032,78
+2018,Not at junction,Serious,E09000033,108
+2018,Other junction,Serious,E09000002,6
+2018,Other junction,Serious,E09000005,15
+2018,Other junction,Serious,E09000007,6
+2018,Other junction,Serious,E09000008,6
+2018,Other junction,Serious,E09000010,12
+2018,Other junction,Serious,E09000011,18
+2018,Other junction,Serious,E09000012,18
+2018,Other junction,Serious,E09000013,18
+2018,Other junction,Serious,E09000014,6
+2018,Other junction,Serious,E09000015,6
+2018,Other junction,Serious,E09000016,12
+2018,Other junction,Serious,E09000017,18
+2018,Other junction,Serious,E09000019,3
+2018,Other junction,Serious,E09000020,18
+2018,Other junction,Serious,E09000021,6
+2018,Other junction,Serious,E09000022,48
+2018,Other junction,Serious,E09000024,3
+2018,Other junction,Serious,E09000025,24
+2018,Other junction,Serious,E09000026,24
+2018,Other junction,Serious,E09000027,6
+2018,Other junction,Serious,E09000028,12
+2018,Other junction,Serious,E09000029,18
+2018,Other junction,Serious,E09000030,30
+2018,Other junction,Serious,E09000031,12
+2018,Other junction,Serious,E09000032,30
+2018,Other junction,Serious,E09000033,18
+2018,Private drive or entrance,Serious,E09000003,6
+2018,Private drive or entrance,Serious,E09000010,6
+2018,Private drive or entrance,Serious,E09000016,6
+2018,Private drive or entrance,Serious,E09000017,6
+2018,Private drive or entrance,Serious,E09000020,6
+2018,Private drive or entrance,Serious,E09000030,12
+2018,Roundabout,Serious,E09000002,6
+2018,Roundabout,Serious,E09000003,18
+2018,Roundabout,Serious,E09000008,12
+2018,Roundabout,Serious,E09000009,3
+2018,Roundabout,Serious,E09000013,6
+2018,Roundabout,Serious,E09000015,12
+2018,Roundabout,Serious,E09000016,6
+2018,Roundabout,Serious,E09000017,6
+2018,Roundabout,Serious,E09000018,6
+2018,Roundabout,Serious,E09000020,6
+2018,Roundabout,Serious,E09000021,6
+2018,Roundabout,Serious,E09000022,6
+2018,Roundabout,Serious,E09000023,3
+2018,Roundabout,Serious,E09000024,3
+2018,Roundabout,Serious,E09000025,6
+2018,Roundabout,Serious,E09000026,6
+2018,Roundabout,Serious,E09000027,6
+2018,Roundabout,Serious,E09000028,6
+2018,Roundabout,Serious,E09000030,6
+2018,Roundabout,Serious,E09000033,24
+2018,Slip road,Serious,E09000005,3
+2018,Slip road,Serious,E09000009,3
+2018,Slip road,Serious,E09000015,12
+2018,Slip road,Serious,E09000018,6
+2018,Slip road,Serious,E09000019,3
+2018,Slip road,Serious,E09000021,12
+2018,Slip road,Serious,E09000025,18
+2018,Slip road,Serious,E09000026,6
+2018,Slip road,Serious,E09000028,12
+2018,Slip road,Serious,E09000030,6
+2018,T or staggered junction,Serious,E09000001,54
+2018,T or staggered junction,Serious,E09000002,72
+2018,T or staggered junction,Serious,E09000003,120
+2018,T or staggered junction,Serious,E09000004,54
+2018,T or staggered junction,Serious,E09000005,48
+2018,T or staggered junction,Serious,E09000006,72
+2018,T or staggered junction,Serious,E09000007,66
+2018,T or staggered junction,Serious,E09000008,72
+2018,T or staggered junction,Serious,E09000009,57
+2018,T or staggered junction,Serious,E09000010,66
+2018,T or staggered junction,Serious,E09000011,36
+2018,T or staggered junction,Serious,E09000012,132
+2018,T or staggered junction,Serious,E09000013,60
+2018,T or staggered junction,Serious,E09000014,126
+2018,T or staggered junction,Serious,E09000015,48
+2018,T or staggered junction,Serious,E09000016,30
+2018,T or staggered junction,Serious,E09000017,48
+2018,T or staggered junction,Serious,E09000018,78
+2018,T or staggered junction,Serious,E09000019,54
+2018,T or staggered junction,Serious,E09000020,96
+2018,T or staggered junction,Serious,E09000021,12
+2018,T or staggered junction,Serious,E09000022,72
+2018,T or staggered junction,Serious,E09000023,24
+2018,T or staggered junction,Serious,E09000024,24
+2018,T or staggered junction,Serious,E09000025,48
+2018,T or staggered junction,Serious,E09000026,84
+2018,T or staggered junction,Serious,E09000027,42
+2018,T or staggered junction,Serious,E09000028,102
+2018,T or staggered junction,Serious,E09000029,12
+2018,T or staggered junction,Serious,E09000030,84
+2018,T or staggered junction,Serious,E09000031,78
+2018,T or staggered junction,Serious,E09000032,72
+2018,T or staggered junction,Serious,E09000033,180
+2018,Crossroads,Slight,E09000001,42
+2018,Crossroads,Slight,E09000002,42
+2018,Crossroads,Slight,E09000003,102
+2018,Crossroads,Slight,E09000004,42
+2018,Crossroads,Slight,E09000005,39
+2018,Crossroads,Slight,E09000006,60
+2018,Crossroads,Slight,E09000007,66
+2018,Crossroads,Slight,E09000008,42
+2018,Crossroads,Slight,E09000009,27
+2018,Crossroads,Slight,E09000010,36
+2018,Crossroads,Slight,E09000011,30
+2018,Crossroads,Slight,E09000012,42
+2018,Crossroads,Slight,E09000013,78
+2018,Crossroads,Slight,E09000014,132
+2018,Crossroads,Slight,E09000015,30
+2018,Crossroads,Slight,E09000016,42
+2018,Crossroads,Slight,E09000017,36
+2018,Crossroads,Slight,E09000018,42
+2018,Crossroads,Slight,E09000019,54
+2018,Crossroads,Slight,E09000020,132
+2018,Crossroads,Slight,E09000021,24
+2018,Crossroads,Slight,E09000022,156
+2018,Crossroads,Slight,E09000023,42
+2018,Crossroads,Slight,E09000024,12
+2018,Crossroads,Slight,E09000025,108
+2018,Crossroads,Slight,E09000026,78
+2018,Crossroads,Slight,E09000027,36
+2018,Crossroads,Slight,E09000028,96
+2018,Crossroads,Slight,E09000029,30
+2018,Crossroads,Slight,E09000030,90
+2018,Crossroads,Slight,E09000031,36
+2018,Crossroads,Slight,E09000032,120
+2018,Crossroads,Slight,E09000033,336
+2018,Mini-roundabout,Slight,E09000002,12
+2018,Mini-roundabout,Slight,E09000003,12
+2018,Mini-roundabout,Slight,E09000004,18
+2018,Mini-roundabout,Slight,E09000005,6
+2018,Mini-roundabout,Slight,E09000006,12
+2018,Mini-roundabout,Slight,E09000009,6
+2018,Mini-roundabout,Slight,E09000011,12
+2018,Mini-roundabout,Slight,E09000012,6
+2018,Mini-roundabout,Slight,E09000013,12
+2018,Mini-roundabout,Slight,E09000015,6
+2018,Mini-roundabout,Slight,E09000017,6
+2018,Mini-roundabout,Slight,E09000018,24
+2018,Mini-roundabout,Slight,E09000019,3
+2018,Mini-roundabout,Slight,E09000020,6
+2018,Mini-roundabout,Slight,E09000021,6
+2018,Mini-roundabout,Slight,E09000022,12
+2018,Mini-roundabout,Slight,E09000024,6
+2018,Mini-roundabout,Slight,E09000025,12
+2018,Mini-roundabout,Slight,E09000026,12
+2018,Mini-roundabout,Slight,E09000029,6
+2018,Mini-roundabout,Slight,E09000030,6
+2018,Mini-roundabout,Slight,E09000032,18
+2018,Mini-roundabout,Slight,E09000033,18
+2018,More than 4 arms (not roundabout),Slight,E09000001,12
+2018,More than 4 arms (not roundabout),Slight,E09000002,18
+2018,More than 4 arms (not roundabout),Slight,E09000003,48
+2018,More than 4 arms (not roundabout),Slight,E09000004,30
+2018,More than 4 arms (not roundabout),Slight,E09000005,15
+2018,More than 4 arms (not roundabout),Slight,E09000006,6
+2018,More than 4 arms (not roundabout),Slight,E09000007,21
+2018,More than 4 arms (not roundabout),Slight,E09000008,24
+2018,More than 4 arms (not roundabout),Slight,E09000009,18
+2018,More than 4 arms (not roundabout),Slight,E09000010,24
+2018,More than 4 arms (not roundabout),Slight,E09000011,24
+2018,More than 4 arms (not roundabout),Slight,E09000012,24
+2018,More than 4 arms (not roundabout),Slight,E09000013,6
+2018,More than 4 arms (not roundabout),Slight,E09000014,30
+2018,More than 4 arms (not roundabout),Slight,E09000015,6
+2018,More than 4 arms (not roundabout),Slight,E09000016,6
+2018,More than 4 arms (not roundabout),Slight,E09000017,12
+2018,More than 4 arms (not roundabout),Slight,E09000018,18
+2018,More than 4 arms (not roundabout),Slight,E09000019,15
+2018,More than 4 arms (not roundabout),Slight,E09000020,6
+2018,More than 4 arms (not roundabout),Slight,E09000021,12
+2018,More than 4 arms (not roundabout),Slight,E09000022,54
+2018,More than 4 arms (not roundabout),Slight,E09000023,12
+2018,More than 4 arms (not roundabout),Slight,E09000024,9
+2018,More than 4 arms (not roundabout),Slight,E09000025,30
+2018,More than 4 arms (not roundabout),Slight,E09000026,42
+2018,More than 4 arms (not roundabout),Slight,E09000028,6
+2018,More than 4 arms (not roundabout),Slight,E09000030,36
+2018,More than 4 arms (not roundabout),Slight,E09000031,24
+2018,More than 4 arms (not roundabout),Slight,E09000032,30
+2018,More than 4 arms (not roundabout),Slight,E09000033,36
+2018,Not at junction,Slight,E09000001,18
+2018,Not at junction,Slight,E09000002,120
+2018,Not at junction,Slight,E09000003,210
+2018,Not at junction,Slight,E09000004,114
+2018,Not at junction,Slight,E09000005,108
+2018,Not at junction,Slight,E09000006,204
+2018,Not at junction,Slight,E09000007,141
+2018,Not at junction,Slight,E09000008,336
+2018,Not at junction,Slight,E09000009,129
+2018,Not at junction,Slight,E09000010,222
+2018,Not at junction,Slight,E09000011,162
+2018,Not at junction,Slight,E09000012,240
+2018,Not at junction,Slight,E09000013,150
+2018,Not at junction,Slight,E09000014,108
+2018,Not at junction,Slight,E09000015,204
+2018,Not at junction,Slight,E09000016,168
+2018,Not at junction,Slight,E09000017,234
+2018,Not at junction,Slight,E09000018,246
+2018,Not at junction,Slight,E09000019,69
+2018,Not at junction,Slight,E09000020,96
+2018,Not at junction,Slight,E09000021,72
+2018,Not at junction,Slight,E09000022,348
+2018,Not at junction,Slight,E09000023,90
+2018,Not at junction,Slight,E09000024,81
+2018,Not at junction,Slight,E09000025,312
+2018,Not at junction,Slight,E09000026,204
+2018,Not at junction,Slight,E09000027,132
+2018,Not at junction,Slight,E09000028,216
+2018,Not at junction,Slight,E09000029,102
+2018,Not at junction,Slight,E09000030,384
+2018,Not at junction,Slight,E09000031,222
+2018,Not at junction,Slight,E09000032,240
+2018,Not at junction,Slight,E09000033,366
+2018,Other junction,Slight,E09000002,18
+2018,Other junction,Slight,E09000003,36
+2018,Other junction,Slight,E09000004,24
+2018,Other junction,Slight,E09000005,39
+2018,Other junction,Slight,E09000006,54
+2018,Other junction,Slight,E09000007,18
+2018,Other junction,Slight,E09000008,42
+2018,Other junction,Slight,E09000009,27
+2018,Other junction,Slight,E09000010,48
+2018,Other junction,Slight,E09000011,48
+2018,Other junction,Slight,E09000012,24
+2018,Other junction,Slight,E09000013,66
+2018,Other junction,Slight,E09000014,60
+2018,Other junction,Slight,E09000015,30
+2018,Other junction,Slight,E09000016,12
+2018,Other junction,Slight,E09000017,42
+2018,Other junction,Slight,E09000018,30
+2018,Other junction,Slight,E09000019,15
+2018,Other junction,Slight,E09000020,30
+2018,Other junction,Slight,E09000021,18
+2018,Other junction,Slight,E09000022,78
+2018,Other junction,Slight,E09000023,36
+2018,Other junction,Slight,E09000024,12
+2018,Other junction,Slight,E09000025,66
+2018,Other junction,Slight,E09000026,30
+2018,Other junction,Slight,E09000027,12
+2018,Other junction,Slight,E09000028,60
+2018,Other junction,Slight,E09000029,36
+2018,Other junction,Slight,E09000030,48
+2018,Other junction,Slight,E09000031,30
+2018,Other junction,Slight,E09000032,48
+2018,Other junction,Slight,E09000033,66
+2018,Private drive or entrance,Slight,E09000002,30
+2018,Private drive or entrance,Slight,E09000003,12
+2018,Private drive or entrance,Slight,E09000005,21
+2018,Private drive or entrance,Slight,E09000006,6
+2018,Private drive or entrance,Slight,E09000007,3
+2018,Private drive or entrance,Slight,E09000008,24
+2018,Private drive or entrance,Slight,E09000009,6
+2018,Private drive or entrance,Slight,E09000010,18
+2018,Private drive or entrance,Slight,E09000011,12
+2018,Private drive or entrance,Slight,E09000012,6
+2018,Private drive or entrance,Slight,E09000014,12
+2018,Private drive or entrance,Slight,E09000015,12
+2018,Private drive or entrance,Slight,E09000017,12
+2018,Private drive or entrance,Slight,E09000018,12
+2018,Private drive or entrance,Slight,E09000019,3
+2018,Private drive or entrance,Slight,E09000020,6
+2018,Private drive or entrance,Slight,E09000023,6
+2018,Private drive or entrance,Slight,E09000025,12
+2018,Private drive or entrance,Slight,E09000026,12
+2018,Private drive or entrance,Slight,E09000028,12
+2018,Private drive or entrance,Slight,E09000033,18
+2018,Roundabout,Slight,E09000001,6
+2018,Roundabout,Slight,E09000002,6
+2018,Roundabout,Slight,E09000003,36
+2018,Roundabout,Slight,E09000004,24
+2018,Roundabout,Slight,E09000005,15
+2018,Roundabout,Slight,E09000006,12
+2018,Roundabout,Slight,E09000007,3
+2018,Roundabout,Slight,E09000008,30
+2018,Roundabout,Slight,E09000009,6
+2018,Roundabout,Slight,E09000010,18
+2018,Roundabout,Slight,E09000011,18
+2018,Roundabout,Slight,E09000013,18
+2018,Roundabout,Slight,E09000014,6
+2018,Roundabout,Slight,E09000015,24
+2018,Roundabout,Slight,E09000016,12
+2018,Roundabout,Slight,E09000017,36
+2018,Roundabout,Slight,E09000018,24
+2018,Roundabout,Slight,E09000019,3
+2018,Roundabout,Slight,E09000020,6
+2018,Roundabout,Slight,E09000021,6
+2018,Roundabout,Slight,E09000022,12
+2018,Roundabout,Slight,E09000023,6
+2018,Roundabout,Slight,E09000024,3
+2018,Roundabout,Slight,E09000025,30
+2018,Roundabout,Slight,E09000026,18
+2018,Roundabout,Slight,E09000027,24
+2018,Roundabout,Slight,E09000028,42
+2018,Roundabout,Slight,E09000029,6
+2018,Roundabout,Slight,E09000031,6
+2018,Roundabout,Slight,E09000032,6
+2018,Roundabout,Slight,E09000033,12
+2018,Slip road,Slight,E09000002,18
+2018,Slip road,Slight,E09000003,18
+2018,Slip road,Slight,E09000004,6
+2018,Slip road,Slight,E09000007,3
+2018,Slip road,Slight,E09000008,18
+2018,Slip road,Slight,E09000009,6
+2018,Slip road,Slight,E09000010,12
+2018,Slip road,Slight,E09000011,24
+2018,Slip road,Slight,E09000013,18
+2018,Slip road,Slight,E09000017,18
+2018,Slip road,Slight,E09000018,6
+2018,Slip road,Slight,E09000019,3
+2018,Slip road,Slight,E09000021,6
+2018,Slip road,Slight,E09000025,6
+2018,Slip road,Slight,E09000028,6
+2018,Slip road,Slight,E09000029,6
+2018,Slip road,Slight,E09000030,6
+2018,Slip road,Slight,E09000031,12
+2018,Slip road,Slight,E09000032,6
+2018,Slip road,Slight,E09000033,6
+2018,T or staggered junction,Slight,E09000001,114
+2018,T or staggered junction,Slight,E09000002,120
+2018,T or staggered junction,Slight,E09000003,450
+2018,T or staggered junction,Slight,E09000004,126
+2018,T or staggered junction,Slight,E09000005,198
+2018,T or staggered junction,Slight,E09000006,216
+2018,T or staggered junction,Slight,E09000007,180
+2018,T or staggered junction,Slight,E09000008,402
+2018,T or staggered junction,Slight,E09000009,129
+2018,T or staggered junction,Slight,E09000010,312
+2018,T or staggered junction,Slight,E09000011,180
+2018,T or staggered junction,Slight,E09000012,264
+2018,T or staggered junction,Slight,E09000013,312
+2018,T or staggered junction,Slight,E09000014,348
+2018,T or staggered junction,Slight,E09000015,144
+2018,T or staggered junction,Slight,E09000016,102
+2018,T or staggered junction,Slight,E09000017,162
+2018,T or staggered junction,Slight,E09000018,174
+2018,T or staggered junction,Slight,E09000019,132
+2018,T or staggered junction,Slight,E09000020,228
+2018,T or staggered junction,Slight,E09000021,144
+2018,T or staggered junction,Slight,E09000022,456
+2018,T or staggered junction,Slight,E09000023,138
+2018,T or staggered junction,Slight,E09000024,105
+2018,T or staggered junction,Slight,E09000025,282
+2018,T or staggered junction,Slight,E09000026,216
+2018,T or staggered junction,Slight,E09000027,102
+2018,T or staggered junction,Slight,E09000028,420
+2018,T or staggered junction,Slight,E09000029,102
+2018,T or staggered junction,Slight,E09000030,312
+2018,T or staggered junction,Slight,E09000031,270
+2018,T or staggered junction,Slight,E09000032,234
+2018,T or staggered junction,Slight,E09000033,558
+2019,Crossroads,Fatal,E09000002,6
+2019,Crossroads,Fatal,E09000011,6
+2019,More than 4 arms (not roundabout),Fatal,E09000008,6
+2019,Not at junction,Fatal,E09000002,6
+2019,Not at junction,Fatal,E09000003,12
+2019,Not at junction,Fatal,E09000017,6
+2019,Not at junction,Fatal,E09000022,6
+2019,Not at junction,Fatal,E09000024,3
+2019,Not at junction,Fatal,E09000030,6
+2019,Not at junction,Fatal,E09000031,6
+2019,Not at junction,Fatal,E09000032,6
+2019,Not at junction,Fatal,E09000033,6
+2019,Other junction,Fatal,E09000006,6
+2019,Other junction,Fatal,E09000026,6
+2019,Other junction,Fatal,E09000028,6
+2019,Other junction,Fatal,E09000032,6
+2019,Roundabout,Fatal,E09000016,6
+2019,Roundabout,Fatal,E09000033,6
+2019,Slip road,Fatal,E09000005,3
+2019,Slip road,Fatal,E09000010,6
+2019,T or staggered junction,Fatal,E09000003,12
+2019,T or staggered junction,Fatal,E09000006,24
+2019,T or staggered junction,Fatal,E09000008,12
+2019,T or staggered junction,Fatal,E09000009,3
+2019,T or staggered junction,Fatal,E09000010,6
+2019,T or staggered junction,Fatal,E09000012,6
+2019,T or staggered junction,Fatal,E09000017,6
+2019,T or staggered junction,Fatal,E09000021,6
+2019,T or staggered junction,Fatal,E09000027,12
+2019,T or staggered junction,Fatal,E09000030,6
+2019,T or staggered junction,Fatal,E09000032,6
+2019,T or staggered junction,Fatal,E09000033,12
+2019,Crossroads,Serious,E09000001,42
+2019,Crossroads,Serious,E09000002,12
+2019,Crossroads,Serious,E09000003,6
+2019,Crossroads,Serious,E09000004,6
+2019,Crossroads,Serious,E09000005,12
+2019,Crossroads,Serious,E09000006,12
+2019,Crossroads,Serious,E09000007,51
+2019,Crossroads,Serious,E09000008,6
+2019,Crossroads,Serious,E09000009,18
+2019,Crossroads,Serious,E09000010,6
+2019,Crossroads,Serious,E09000011,18
+2019,Crossroads,Serious,E09000012,84
+2019,Crossroads,Serious,E09000013,24
+2019,Crossroads,Serious,E09000014,18
+2019,Crossroads,Serious,E09000015,18
+2019,Crossroads,Serious,E09000016,12
+2019,Crossroads,Serious,E09000017,18
+2019,Crossroads,Serious,E09000018,18
+2019,Crossroads,Serious,E09000019,9
+2019,Crossroads,Serious,E09000020,36
+2019,Crossroads,Serious,E09000021,12
+2019,Crossroads,Serious,E09000022,18
+2019,Crossroads,Serious,E09000023,9
+2019,Crossroads,Serious,E09000024,6
+2019,Crossroads,Serious,E09000025,36
+2019,Crossroads,Serious,E09000026,6
+2019,Crossroads,Serious,E09000027,12
+2019,Crossroads,Serious,E09000028,18
+2019,Crossroads,Serious,E09000029,6
+2019,Crossroads,Serious,E09000030,36
+2019,Crossroads,Serious,E09000031,30
+2019,Crossroads,Serious,E09000032,42
+2019,Crossroads,Serious,E09000033,84
+2019,Mini-roundabout,Serious,E09000006,6
+2019,Mini-roundabout,Serious,E09000009,3
+2019,Mini-roundabout,Serious,E09000015,6
+2019,Mini-roundabout,Serious,E09000017,12
+2019,Mini-roundabout,Serious,E09000018,6
+2019,Mini-roundabout,Serious,E09000020,18
+2019,Mini-roundabout,Serious,E09000026,12
+2019,Mini-roundabout,Serious,E09000030,6
+2019,Mini-roundabout,Serious,E09000031,6
+2019,Mini-roundabout,Serious,E09000032,6
+2019,More than 4 arms (not roundabout),Serious,E09000002,6
+2019,More than 4 arms (not roundabout),Serious,E09000003,30
+2019,More than 4 arms (not roundabout),Serious,E09000006,6
+2019,More than 4 arms (not roundabout),Serious,E09000007,15
+2019,More than 4 arms (not roundabout),Serious,E09000012,6
+2019,More than 4 arms (not roundabout),Serious,E09000014,12
+2019,More than 4 arms (not roundabout),Serious,E09000016,6
+2019,More than 4 arms (not roundabout),Serious,E09000017,6
+2019,More than 4 arms (not roundabout),Serious,E09000018,6
+2019,More than 4 arms (not roundabout),Serious,E09000022,24
+2019,More than 4 arms (not roundabout),Serious,E09000025,12
+2019,More than 4 arms (not roundabout),Serious,E09000027,12
+2019,More than 4 arms (not roundabout),Serious,E09000028,18
+2019,More than 4 arms (not roundabout),Serious,E09000029,6
+2019,More than 4 arms (not roundabout),Serious,E09000030,6
+2019,More than 4 arms (not roundabout),Serious,E09000032,18
+2019,More than 4 arms (not roundabout),Serious,E09000033,24
+2019,Not at junction,Serious,E09000001,42
+2019,Not at junction,Serious,E09000002,48
+2019,Not at junction,Serious,E09000003,48
+2019,Not at junction,Serious,E09000004,12
+2019,Not at junction,Serious,E09000005,30
+2019,Not at junction,Serious,E09000006,36
+2019,Not at junction,Serious,E09000007,21
+2019,Not at junction,Serious,E09000008,84
+2019,Not at junction,Serious,E09000009,36
+2019,Not at junction,Serious,E09000010,66
+2019,Not at junction,Serious,E09000011,30
+2019,Not at junction,Serious,E09000012,60
+2019,Not at junction,Serious,E09000013,42
+2019,Not at junction,Serious,E09000014,72
+2019,Not at junction,Serious,E09000015,30
+2019,Not at junction,Serious,E09000016,30
+2019,Not at junction,Serious,E09000017,36
+2019,Not at junction,Serious,E09000018,84
+2019,Not at junction,Serious,E09000019,9
+2019,Not at junction,Serious,E09000020,12
+2019,Not at junction,Serious,E09000021,18
+2019,Not at junction,Serious,E09000022,78
+2019,Not at junction,Serious,E09000023,18
+2019,Not at junction,Serious,E09000024,9
+2019,Not at junction,Serious,E09000025,66
+2019,Not at junction,Serious,E09000026,54
+2019,Not at junction,Serious,E09000027,18
+2019,Not at junction,Serious,E09000028,78
+2019,Not at junction,Serious,E09000029,42
+2019,Not at junction,Serious,E09000030,60
+2019,Not at junction,Serious,E09000031,42
+2019,Not at junction,Serious,E09000032,36
+2019,Not at junction,Serious,E09000033,102
+2019,Other junction,Serious,E09000001,6
+2019,Other junction,Serious,E09000003,30
+2019,Other junction,Serious,E09000004,12
+2019,Other junction,Serious,E09000005,9
+2019,Other junction,Serious,E09000006,12
+2019,Other junction,Serious,E09000007,9
+2019,Other junction,Serious,E09000008,18
+2019,Other junction,Serious,E09000009,15
+2019,Other junction,Serious,E09000010,18
+2019,Other junction,Serious,E09000011,6
+2019,Other junction,Serious,E09000012,18
+2019,Other junction,Serious,E09000014,6
+2019,Other junction,Serious,E09000015,12
+2019,Other junction,Serious,E09000016,18
+2019,Other junction,Serious,E09000017,24
+2019,Other junction,Serious,E09000018,24
+2019,Other junction,Serious,E09000019,3
+2019,Other junction,Serious,E09000020,12
+2019,Other junction,Serious,E09000021,6
+2019,Other junction,Serious,E09000022,12
+2019,Other junction,Serious,E09000023,15
+2019,Other junction,Serious,E09000024,12
+2019,Other junction,Serious,E09000025,30
+2019,Other junction,Serious,E09000026,30
+2019,Other junction,Serious,E09000027,6
+2019,Other junction,Serious,E09000028,12
+2019,Other junction,Serious,E09000029,24
+2019,Other junction,Serious,E09000030,42
+2019,Other junction,Serious,E09000031,12
+2019,Other junction,Serious,E09000032,36
+2019,Other junction,Serious,E09000033,54
+2019,Private drive or entrance,Serious,E09000003,12
+2019,Private drive or entrance,Serious,E09000005,3
+2019,Private drive or entrance,Serious,E09000009,3
+2019,Private drive or entrance,Serious,E09000010,12
+2019,Private drive or entrance,Serious,E09000013,6
+2019,Private drive or entrance,Serious,E09000016,6
+2019,Private drive or entrance,Serious,E09000020,6
+2019,Private drive or entrance,Serious,E09000024,3
+2019,Private drive or entrance,Serious,E09000025,6
+2019,Private drive or entrance,Serious,E09000029,6
+2019,Private drive or entrance,Serious,E09000030,12
+2019,Roundabout,Serious,E09000003,6
+2019,Roundabout,Serious,E09000004,18
+2019,Roundabout,Serious,E09000005,6
+2019,Roundabout,Serious,E09000007,3
+2019,Roundabout,Serious,E09000008,6
+2019,Roundabout,Serious,E09000009,6
+2019,Roundabout,Serious,E09000010,18
+2019,Roundabout,Serious,E09000011,12
+2019,Roundabout,Serious,E09000012,6
+2019,Roundabout,Serious,E09000013,6
+2019,Roundabout,Serious,E09000016,18
+2019,Roundabout,Serious,E09000017,6
+2019,Roundabout,Serious,E09000018,36
+2019,Roundabout,Serious,E09000019,3
+2019,Roundabout,Serious,E09000020,12
+2019,Roundabout,Serious,E09000021,6
+2019,Roundabout,Serious,E09000024,3
+2019,Roundabout,Serious,E09000025,6
+2019,Roundabout,Serious,E09000027,6
+2019,Roundabout,Serious,E09000030,6
+2019,Roundabout,Serious,E09000032,24
+2019,Roundabout,Serious,E09000033,18
+2019,Slip road,Serious,E09000008,6
+2019,Slip road,Serious,E09000009,3
+2019,Slip road,Serious,E09000010,6
+2019,Slip road,Serious,E09000015,6
+2019,Slip road,Serious,E09000017,6
+2019,Slip road,Serious,E09000018,12
+2019,Slip road,Serious,E09000020,6
+2019,Slip road,Serious,E09000021,24
+2019,Slip road,Serious,E09000024,3
+2019,Slip road,Serious,E09000025,6
+2019,Slip road,Serious,E09000026,6
+2019,Slip road,Serious,E09000030,12
+2019,T or staggered junction,Serious,E09000001,42
+2019,T or staggered junction,Serious,E09000002,42
+2019,T or staggered junction,Serious,E09000003,144
+2019,T or staggered junction,Serious,E09000004,42
+2019,T or staggered junction,Serious,E09000005,48
+2019,T or staggered junction,Serious,E09000006,42
+2019,T or staggered junction,Serious,E09000007,45
+2019,T or staggered junction,Serious,E09000008,132
+2019,T or staggered junction,Serious,E09000009,57
+2019,T or staggered junction,Serious,E09000010,84
+2019,T or staggered junction,Serious,E09000011,42
+2019,T or staggered junction,Serious,E09000012,102
+2019,T or staggered junction,Serious,E09000013,48
+2019,T or staggered junction,Serious,E09000014,66
+2019,T or staggered junction,Serious,E09000015,18
+2019,T or staggered junction,Serious,E09000016,42
+2019,T or staggered junction,Serious,E09000017,54
+2019,T or staggered junction,Serious,E09000018,90
+2019,T or staggered junction,Serious,E09000019,24
+2019,T or staggered junction,Serious,E09000020,72
+2019,T or staggered junction,Serious,E09000021,30
+2019,T or staggered junction,Serious,E09000022,114
+2019,T or staggered junction,Serious,E09000023,36
+2019,T or staggered junction,Serious,E09000024,12
+2019,T or staggered junction,Serious,E09000025,144
+2019,T or staggered junction,Serious,E09000026,84
+2019,T or staggered junction,Serious,E09000027,48
+2019,T or staggered junction,Serious,E09000028,120
+2019,T or staggered junction,Serious,E09000029,48
+2019,T or staggered junction,Serious,E09000030,90
+2019,T or staggered junction,Serious,E09000031,72
+2019,T or staggered junction,Serious,E09000032,66
+2019,T or staggered junction,Serious,E09000033,156
+2019,Crossroads,Slight,E09000001,60
+2019,Crossroads,Slight,E09000002,60
+2019,Crossroads,Slight,E09000003,66
+2019,Crossroads,Slight,E09000004,12
+2019,Crossroads,Slight,E09000005,36
+2019,Crossroads,Slight,E09000006,60
+2019,Crossroads,Slight,E09000007,87
+2019,Crossroads,Slight,E09000008,66
+2019,Crossroads,Slight,E09000009,21
+2019,Crossroads,Slight,E09000010,42
+2019,Crossroads,Slight,E09000011,54
+2019,Crossroads,Slight,E09000012,120
+2019,Crossroads,Slight,E09000013,60
+2019,Crossroads,Slight,E09000014,108
+2019,Crossroads,Slight,E09000015,48
+2019,Crossroads,Slight,E09000016,30
+2019,Crossroads,Slight,E09000017,36
+2019,Crossroads,Slight,E09000018,48
+2019,Crossroads,Slight,E09000019,45
+2019,Crossroads,Slight,E09000020,150
+2019,Crossroads,Slight,E09000021,24
+2019,Crossroads,Slight,E09000022,84
+2019,Crossroads,Slight,E09000023,15
+2019,Crossroads,Slight,E09000024,18
+2019,Crossroads,Slight,E09000025,72
+2019,Crossroads,Slight,E09000026,42
+2019,Crossroads,Slight,E09000028,66
+2019,Crossroads,Slight,E09000029,18
+2019,Crossroads,Slight,E09000030,60
+2019,Crossroads,Slight,E09000031,72
+2019,Crossroads,Slight,E09000032,90
+2019,Crossroads,Slight,E09000033,318
+2019,Mini-roundabout,Slight,E09000002,18
+2019,Mini-roundabout,Slight,E09000003,6
+2019,Mini-roundabout,Slight,E09000004,6
+2019,Mini-roundabout,Slight,E09000005,12
+2019,Mini-roundabout,Slight,E09000006,24
+2019,Mini-roundabout,Slight,E09000008,18
+2019,Mini-roundabout,Slight,E09000010,30
+2019,Mini-roundabout,Slight,E09000011,6
+2019,Mini-roundabout,Slight,E09000013,54
+2019,Mini-roundabout,Slight,E09000014,12
+2019,Mini-roundabout,Slight,E09000015,6
+2019,Mini-roundabout,Slight,E09000016,12
+2019,Mini-roundabout,Slight,E09000017,12
+2019,Mini-roundabout,Slight,E09000018,18
+2019,Mini-roundabout,Slight,E09000019,3
+2019,Mini-roundabout,Slight,E09000020,6
+2019,Mini-roundabout,Slight,E09000021,6
+2019,Mini-roundabout,Slight,E09000023,3
+2019,Mini-roundabout,Slight,E09000024,3
+2019,Mini-roundabout,Slight,E09000025,12
+2019,Mini-roundabout,Slight,E09000026,6
+2019,Mini-roundabout,Slight,E09000027,6
+2019,Mini-roundabout,Slight,E09000030,18
+2019,Mini-roundabout,Slight,E09000031,12
+2019,Mini-roundabout,Slight,E09000033,12
+2019,More than 4 arms (not roundabout),Slight,E09000002,12
+2019,More than 4 arms (not roundabout),Slight,E09000003,12
+2019,More than 4 arms (not roundabout),Slight,E09000005,3
+2019,More than 4 arms (not roundabout),Slight,E09000006,12
+2019,More than 4 arms (not roundabout),Slight,E09000007,21
+2019,More than 4 arms (not roundabout),Slight,E09000008,30
+2019,More than 4 arms (not roundabout),Slight,E09000009,6
+2019,More than 4 arms (not roundabout),Slight,E09000010,36
+2019,More than 4 arms (not roundabout),Slight,E09000012,30
+2019,More than 4 arms (not roundabout),Slight,E09000014,18
+2019,More than 4 arms (not roundabout),Slight,E09000015,18
+2019,More than 4 arms (not roundabout),Slight,E09000016,6
+2019,More than 4 arms (not roundabout),Slight,E09000017,18
+2019,More than 4 arms (not roundabout),Slight,E09000018,6
+2019,More than 4 arms (not roundabout),Slight,E09000019,24
+2019,More than 4 arms (not roundabout),Slight,E09000020,18
+2019,More than 4 arms (not roundabout),Slight,E09000022,24
+2019,More than 4 arms (not roundabout),Slight,E09000023,6
+2019,More than 4 arms (not roundabout),Slight,E09000024,6
+2019,More than 4 arms (not roundabout),Slight,E09000025,12
+2019,More than 4 arms (not roundabout),Slight,E09000026,6
+2019,More than 4 arms (not roundabout),Slight,E09000028,12
+2019,More than 4 arms (not roundabout),Slight,E09000029,18
+2019,More than 4 arms (not roundabout),Slight,E09000030,36
+2019,More than 4 arms (not roundabout),Slight,E09000032,36
+2019,More than 4 arms (not roundabout),Slight,E09000033,78
+2019,Not at junction,Slight,E09000001,72
+2019,Not at junction,Slight,E09000002,180
+2019,Not at junction,Slight,E09000003,180
+2019,Not at junction,Slight,E09000004,120
+2019,Not at junction,Slight,E09000005,102
+2019,Not at junction,Slight,E09000006,138
+2019,Not at junction,Slight,E09000007,147
+2019,Not at junction,Slight,E09000008,294
+2019,Not at junction,Slight,E09000009,93
+2019,Not at junction,Slight,E09000010,102
+2019,Not at junction,Slight,E09000011,132
+2019,Not at junction,Slight,E09000012,198
+2019,Not at junction,Slight,E09000013,126
+2019,Not at junction,Slight,E09000014,150
+2019,Not at junction,Slight,E09000015,96
+2019,Not at junction,Slight,E09000016,120
+2019,Not at junction,Slight,E09000017,180
+2019,Not at junction,Slight,E09000018,132
+2019,Not at junction,Slight,E09000019,33
+2019,Not at junction,Slight,E09000020,84
+2019,Not at junction,Slight,E09000021,54
+2019,Not at junction,Slight,E09000022,246
+2019,Not at junction,Slight,E09000023,99
+2019,Not at junction,Slight,E09000024,27
+2019,Not at junction,Slight,E09000025,264
+2019,Not at junction,Slight,E09000026,162
+2019,Not at junction,Slight,E09000027,102
+2019,Not at junction,Slight,E09000028,150
+2019,Not at junction,Slight,E09000029,120
+2019,Not at junction,Slight,E09000030,276
+2019,Not at junction,Slight,E09000031,204
+2019,Not at junction,Slight,E09000032,108
+2019,Not at junction,Slight,E09000033,264
+2019,Other junction,Slight,E09000002,24
+2019,Other junction,Slight,E09000003,132
+2019,Other junction,Slight,E09000004,18
+2019,Other junction,Slight,E09000005,18
+2019,Other junction,Slight,E09000006,102
+2019,Other junction,Slight,E09000007,39
+2019,Other junction,Slight,E09000008,96
+2019,Other junction,Slight,E09000009,33
+2019,Other junction,Slight,E09000010,108
+2019,Other junction,Slight,E09000011,18
+2019,Other junction,Slight,E09000012,90
+2019,Other junction,Slight,E09000013,60
+2019,Other junction,Slight,E09000014,138
+2019,Other junction,Slight,E09000015,30
+2019,Other junction,Slight,E09000016,30
+2019,Other junction,Slight,E09000017,42
+2019,Other junction,Slight,E09000018,66
+2019,Other junction,Slight,E09000019,24
+2019,Other junction,Slight,E09000020,54
+2019,Other junction,Slight,E09000021,24
+2019,Other junction,Slight,E09000022,78
+2019,Other junction,Slight,E09000023,27
+2019,Other junction,Slight,E09000024,15
+2019,Other junction,Slight,E09000025,54
+2019,Other junction,Slight,E09000026,84
+2019,Other junction,Slight,E09000027,30
+2019,Other junction,Slight,E09000028,102
+2019,Other junction,Slight,E09000029,42
+2019,Other junction,Slight,E09000030,72
+2019,Other junction,Slight,E09000031,24
+2019,Other junction,Slight,E09000032,84
+2019,Other junction,Slight,E09000033,120
+2019,Private drive or entrance,Slight,E09000002,18
+2019,Private drive or entrance,Slight,E09000003,36
+2019,Private drive or entrance,Slight,E09000004,6
+2019,Private drive or entrance,Slight,E09000005,12
+2019,Private drive or entrance,Slight,E09000007,15
+2019,Private drive or entrance,Slight,E09000008,6
+2019,Private drive or entrance,Slight,E09000009,24
+2019,Private drive or entrance,Slight,E09000010,6
+2019,Private drive or entrance,Slight,E09000011,12
+2019,Private drive or entrance,Slight,E09000012,6
+2019,Private drive or entrance,Slight,E09000013,18
+2019,Private drive or entrance,Slight,E09000014,24
+2019,Private drive or entrance,Slight,E09000015,18
+2019,Private drive or entrance,Slight,E09000016,12
+2019,Private drive or entrance,Slight,E09000017,24
+2019,Private drive or entrance,Slight,E09000018,36
+2019,Private drive or entrance,Slight,E09000020,12
+2019,Private drive or entrance,Slight,E09000021,24
+2019,Private drive or entrance,Slight,E09000022,12
+2019,Private drive or entrance,Slight,E09000023,9
+2019,Private drive or entrance,Slight,E09000024,9
+2019,Private drive or entrance,Slight,E09000025,12
+2019,Private drive or entrance,Slight,E09000026,12
+2019,Private drive or entrance,Slight,E09000028,6
+2019,Private drive or entrance,Slight,E09000030,12
+2019,Private drive or entrance,Slight,E09000032,12
+2019,Private drive or entrance,Slight,E09000033,6
+2019,Roundabout,Slight,E09000001,6
+2019,Roundabout,Slight,E09000003,12
+2019,Roundabout,Slight,E09000004,18
+2019,Roundabout,Slight,E09000005,18
+2019,Roundabout,Slight,E09000006,42
+2019,Roundabout,Slight,E09000008,36
+2019,Roundabout,Slight,E09000009,18
+2019,Roundabout,Slight,E09000010,24
+2019,Roundabout,Slight,E09000011,24
+2019,Roundabout,Slight,E09000013,18
+2019,Roundabout,Slight,E09000014,24
+2019,Roundabout,Slight,E09000015,24
+2019,Roundabout,Slight,E09000016,6
+2019,Roundabout,Slight,E09000017,12
+2019,Roundabout,Slight,E09000018,54
+2019,Roundabout,Slight,E09000019,18
+2019,Roundabout,Slight,E09000020,54
+2019,Roundabout,Slight,E09000022,6
+2019,Roundabout,Slight,E09000023,6
+2019,Roundabout,Slight,E09000024,6
+2019,Roundabout,Slight,E09000025,6
+2019,Roundabout,Slight,E09000026,18
+2019,Roundabout,Slight,E09000027,12
+2019,Roundabout,Slight,E09000028,24
+2019,Roundabout,Slight,E09000030,12
+2019,Roundabout,Slight,E09000031,6
+2019,Roundabout,Slight,E09000032,30
+2019,Roundabout,Slight,E09000033,60
+2019,Slip road,Slight,E09000003,24
+2019,Slip road,Slight,E09000005,3
+2019,Slip road,Slight,E09000007,6
+2019,Slip road,Slight,E09000008,6
+2019,Slip road,Slight,E09000009,3
+2019,Slip road,Slight,E09000010,30
+2019,Slip road,Slight,E09000011,24
+2019,Slip road,Slight,E09000012,24
+2019,Slip road,Slight,E09000014,12
+2019,Slip road,Slight,E09000015,6
+2019,Slip road,Slight,E09000019,6
+2019,Slip road,Slight,E09000020,6
+2019,Slip road,Slight,E09000022,6
+2019,Slip road,Slight,E09000023,6
+2019,Slip road,Slight,E09000024,3
+2019,Slip road,Slight,E09000025,6
+2019,Slip road,Slight,E09000026,6
+2019,Slip road,Slight,E09000028,12
+2019,Slip road,Slight,E09000029,6
+2019,Slip road,Slight,E09000030,12
+2019,T or staggered junction,Slight,E09000001,120
+2019,T or staggered junction,Slight,E09000002,114
+2019,T or staggered junction,Slight,E09000003,330
+2019,T or staggered junction,Slight,E09000004,132
+2019,T or staggered junction,Slight,E09000005,174
+2019,T or staggered junction,Slight,E09000006,192
+2019,T or staggered junction,Slight,E09000007,156
+2019,T or staggered junction,Slight,E09000008,408
+2019,T or staggered junction,Slight,E09000009,168
+2019,T or staggered junction,Slight,E09000010,300
+2019,T or staggered junction,Slight,E09000011,186
+2019,T or staggered junction,Slight,E09000012,318
+2019,T or staggered junction,Slight,E09000013,324
+2019,T or staggered junction,Slight,E09000014,306
+2019,T or staggered junction,Slight,E09000015,168
+2019,T or staggered junction,Slight,E09000016,162
+2019,T or staggered junction,Slight,E09000017,84
+2019,T or staggered junction,Slight,E09000018,156
+2019,T or staggered junction,Slight,E09000019,93
+2019,T or staggered junction,Slight,E09000020,300
+2019,T or staggered junction,Slight,E09000021,60
+2019,T or staggered junction,Slight,E09000022,390
+2019,T or staggered junction,Slight,E09000023,162
+2019,T or staggered junction,Slight,E09000024,63
+2019,T or staggered junction,Slight,E09000025,324
+2019,T or staggered junction,Slight,E09000026,180
+2019,T or staggered junction,Slight,E09000027,66
+2019,T or staggered junction,Slight,E09000028,330
+2019,T or staggered junction,Slight,E09000029,126
+2019,T or staggered junction,Slight,E09000030,318
+2019,T or staggered junction,Slight,E09000031,288
+2019,T or staggered junction,Slight,E09000032,246
+2019,T or staggered junction,Slight,E09000033,654
+2020,Crossroads,Fatal,E09000025,6
+2020,Crossroads,Fatal,E09000032,12
+2020,Crossroads,Fatal,E09000033,6
+2020,Mini-roundabout,Fatal,E09000017,12
+2020,Not at junction,Fatal,E09000005,3
+2020,Not at junction,Fatal,E09000009,3
+2020,Not at junction,Fatal,E09000013,6
+2020,Not at junction,Fatal,E09000015,6
+2020,Not at junction,Fatal,E09000022,6
+2020,Not at junction,Fatal,E09000023,3
+2020,Not at junction,Fatal,E09000024,3
+2020,Not at junction,Fatal,E09000029,6
+2020,Not at junction,Fatal,E09000033,6
+2020,Other junction,Fatal,E09000010,6
+2020,Other junction,Fatal,E09000012,6
+2020,Other junction,Fatal,E09000026,24
+2020,T or staggered junction,Fatal,E09000002,6
+2020,T or staggered junction,Fatal,E09000003,12
+2020,T or staggered junction,Fatal,E09000013,6
+2020,T or staggered junction,Fatal,E09000014,6
+2020,T or staggered junction,Fatal,E09000023,3
+2020,T or staggered junction,Fatal,E09000028,12
+2020,T or staggered junction,Fatal,E09000030,6
+2020,Crossroads,Serious,E09000001,6
+2020,Crossroads,Serious,E09000002,12
+2020,Crossroads,Serious,E09000003,30
+2020,Crossroads,Serious,E09000004,12
+2020,Crossroads,Serious,E09000005,6
+2020,Crossroads,Serious,E09000006,6
+2020,Crossroads,Serious,E09000007,3
+2020,Crossroads,Serious,E09000008,30
+2020,Crossroads,Serious,E09000009,18
+2020,Crossroads,Serious,E09000010,24
+2020,Crossroads,Serious,E09000011,12
+2020,Crossroads,Serious,E09000012,18
+2020,Crossroads,Serious,E09000013,6
+2020,Crossroads,Serious,E09000014,30
+2020,Crossroads,Serious,E09000015,6
+2020,Crossroads,Serious,E09000016,12
+2020,Crossroads,Serious,E09000018,18
+2020,Crossroads,Serious,E09000019,3
+2020,Crossroads,Serious,E09000020,30
+2020,Crossroads,Serious,E09000022,24
+2020,Crossroads,Serious,E09000023,6
+2020,Crossroads,Serious,E09000024,3
+2020,Crossroads,Serious,E09000025,24
+2020,Crossroads,Serious,E09000026,18
+2020,Crossroads,Serious,E09000027,6
+2020,Crossroads,Serious,E09000028,6
+2020,Crossroads,Serious,E09000029,6
+2020,Crossroads,Serious,E09000030,30
+2020,Crossroads,Serious,E09000031,12
+2020,Crossroads,Serious,E09000032,30
+2020,Crossroads,Serious,E09000033,60
+2020,Mini-roundabout,Serious,E09000011,18
+2020,Mini-roundabout,Serious,E09000013,6
+2020,Mini-roundabout,Serious,E09000023,3
+2020,Mini-roundabout,Serious,E09000025,6
+2020,Mini-roundabout,Serious,E09000026,6
+2020,Mini-roundabout,Serious,E09000031,12
+2020,More than 4 arms (not roundabout),Serious,E09000005,3
+2020,More than 4 arms (not roundabout),Serious,E09000008,18
+2020,More than 4 arms (not roundabout),Serious,E09000009,9
+2020,More than 4 arms (not roundabout),Serious,E09000011,12
+2020,More than 4 arms (not roundabout),Serious,E09000012,12
+2020,More than 4 arms (not roundabout),Serious,E09000018,6
+2020,More than 4 arms (not roundabout),Serious,E09000022,12
+2020,More than 4 arms (not roundabout),Serious,E09000023,6
+2020,More than 4 arms (not roundabout),Serious,E09000031,12
+2020,More than 4 arms (not roundabout),Serious,E09000033,30
+2020,Not at junction,Serious,E09000001,6
+2020,Not at junction,Serious,E09000002,42
+2020,Not at junction,Serious,E09000003,42
+2020,Not at junction,Serious,E09000004,18
+2020,Not at junction,Serious,E09000005,27
+2020,Not at junction,Serious,E09000006,24
+2020,Not at junction,Serious,E09000007,30
+2020,Not at junction,Serious,E09000008,60
+2020,Not at junction,Serious,E09000009,27
+2020,Not at junction,Serious,E09000010,18
+2020,Not at junction,Serious,E09000011,36
+2020,Not at junction,Serious,E09000012,36
+2020,Not at junction,Serious,E09000013,60
+2020,Not at junction,Serious,E09000014,48
+2020,Not at junction,Serious,E09000015,18
+2020,Not at junction,Serious,E09000016,36
+2020,Not at junction,Serious,E09000017,12
+2020,Not at junction,Serious,E09000018,24
+2020,Not at junction,Serious,E09000019,27
+2020,Not at junction,Serious,E09000020,12
+2020,Not at junction,Serious,E09000021,18
+2020,Not at junction,Serious,E09000022,36
+2020,Not at junction,Serious,E09000023,30
+2020,Not at junction,Serious,E09000024,6
+2020,Not at junction,Serious,E09000025,42
+2020,Not at junction,Serious,E09000026,24
+2020,Not at junction,Serious,E09000027,18
+2020,Not at junction,Serious,E09000028,66
+2020,Not at junction,Serious,E09000029,36
+2020,Not at junction,Serious,E09000030,36
+2020,Not at junction,Serious,E09000031,36
+2020,Not at junction,Serious,E09000032,42
+2020,Not at junction,Serious,E09000033,42
+2020,Other junction,Serious,E09000002,6
+2020,Other junction,Serious,E09000003,30
+2020,Other junction,Serious,E09000004,6
+2020,Other junction,Serious,E09000005,9
+2020,Other junction,Serious,E09000006,24
+2020,Other junction,Serious,E09000007,6
+2020,Other junction,Serious,E09000008,24
+2020,Other junction,Serious,E09000009,15
+2020,Other junction,Serious,E09000010,18
+2020,Other junction,Serious,E09000012,6
+2020,Other junction,Serious,E09000013,6
+2020,Other junction,Serious,E09000014,12
+2020,Other junction,Serious,E09000015,18
+2020,Other junction,Serious,E09000016,18
+2020,Other junction,Serious,E09000017,6
+2020,Other junction,Serious,E09000018,12
+2020,Other junction,Serious,E09000019,3
+2020,Other junction,Serious,E09000020,6
+2020,Other junction,Serious,E09000021,6
+2020,Other junction,Serious,E09000022,18
+2020,Other junction,Serious,E09000023,6
+2020,Other junction,Serious,E09000024,3
+2020,Other junction,Serious,E09000025,24
+2020,Other junction,Serious,E09000026,12
+2020,Other junction,Serious,E09000027,12
+2020,Other junction,Serious,E09000029,6
+2020,Other junction,Serious,E09000030,24
+2020,Other junction,Serious,E09000031,12
+2020,Other junction,Serious,E09000032,18
+2020,Other junction,Serious,E09000033,6
+2020,Private drive or entrance,Serious,E09000002,6
+2020,Private drive or entrance,Serious,E09000004,6
+2020,Private drive or entrance,Serious,E09000005,3
+2020,Private drive or entrance,Serious,E09000014,6
+2020,Private drive or entrance,Serious,E09000023,6
+2020,Private drive or entrance,Serious,E09000030,6
+2020,Roundabout,Serious,E09000003,6
+2020,Roundabout,Serious,E09000006,12
+2020,Roundabout,Serious,E09000008,18
+2020,Roundabout,Serious,E09000009,6
+2020,Roundabout,Serious,E09000010,6
+2020,Roundabout,Serious,E09000014,6
+2020,Roundabout,Serious,E09000017,24
+2020,Roundabout,Serious,E09000018,6
+2020,Roundabout,Serious,E09000026,12
+2020,Roundabout,Serious,E09000028,6
+2020,Roundabout,Serious,E09000029,6
+2020,Roundabout,Serious,E09000033,6
+2020,Slip road,Serious,E09000009,6
+2020,Slip road,Serious,E09000010,6
+2020,Slip road,Serious,E09000012,6
+2020,Slip road,Serious,E09000018,6
+2020,Slip road,Serious,E09000022,6
+2020,Slip road,Serious,E09000024,3
+2020,Slip road,Serious,E09000032,6
+2020,T or staggered junction,Serious,E09000001,30
+2020,T or staggered junction,Serious,E09000002,24
+2020,T or staggered junction,Serious,E09000003,60
+2020,T or staggered junction,Serious,E09000004,42
+2020,T or staggered junction,Serious,E09000005,18
+2020,T or staggered junction,Serious,E09000006,30
+2020,T or staggered junction,Serious,E09000007,24
+2020,T or staggered junction,Serious,E09000008,78
+2020,T or staggered junction,Serious,E09000009,45
+2020,T or staggered junction,Serious,E09000010,48
+2020,T or staggered junction,Serious,E09000011,42
+2020,T or staggered junction,Serious,E09000012,54
+2020,T or staggered junction,Serious,E09000013,54
+2020,T or staggered junction,Serious,E09000014,54
+2020,T or staggered junction,Serious,E09000015,36
+2020,T or staggered junction,Serious,E09000016,36
+2020,T or staggered junction,Serious,E09000017,42
+2020,T or staggered junction,Serious,E09000018,42
+2020,T or staggered junction,Serious,E09000019,15
+2020,T or staggered junction,Serious,E09000020,42
+2020,T or staggered junction,Serious,E09000021,18
+2020,T or staggered junction,Serious,E09000022,48
+2020,T or staggered junction,Serious,E09000023,21
+2020,T or staggered junction,Serious,E09000024,24
+2020,T or staggered junction,Serious,E09000025,42
+2020,T or staggered junction,Serious,E09000026,72
+2020,T or staggered junction,Serious,E09000027,6
+2020,T or staggered junction,Serious,E09000028,84
+2020,T or staggered junction,Serious,E09000029,54
+2020,T or staggered junction,Serious,E09000030,48
+2020,T or staggered junction,Serious,E09000031,30
+2020,T or staggered junction,Serious,E09000032,66
+2020,T or staggered junction,Serious,E09000033,72
+2020,Crossroads,Slight,E09000001,12
+2020,Crossroads,Slight,E09000002,42
+2020,Crossroads,Slight,E09000003,30
+2020,Crossroads,Slight,E09000004,18
+2020,Crossroads,Slight,E09000005,30
+2020,Crossroads,Slight,E09000006,30
+2020,Crossroads,Slight,E09000007,48
+2020,Crossroads,Slight,E09000008,72
+2020,Crossroads,Slight,E09000009,6
+2020,Crossroads,Slight,E09000010,24
+2020,Crossroads,Slight,E09000011,48
+2020,Crossroads,Slight,E09000012,24
+2020,Crossroads,Slight,E09000013,36
+2020,Crossroads,Slight,E09000014,18
+2020,Crossroads,Slight,E09000015,24
+2020,Crossroads,Slight,E09000016,36
+2020,Crossroads,Slight,E09000017,12
+2020,Crossroads,Slight,E09000018,36
+2020,Crossroads,Slight,E09000019,18
+2020,Crossroads,Slight,E09000020,54
+2020,Crossroads,Slight,E09000021,6
+2020,Crossroads,Slight,E09000022,54
+2020,Crossroads,Slight,E09000023,27
+2020,Crossroads,Slight,E09000024,6
+2020,Crossroads,Slight,E09000025,90
+2020,Crossroads,Slight,E09000026,30
+2020,Crossroads,Slight,E09000028,42
+2020,Crossroads,Slight,E09000029,18
+2020,Crossroads,Slight,E09000030,60
+2020,Crossroads,Slight,E09000031,24
+2020,Crossroads,Slight,E09000032,54
+2020,Crossroads,Slight,E09000033,198
+2020,Mini-roundabout,Slight,E09000002,12
+2020,Mini-roundabout,Slight,E09000003,18
+2020,Mini-roundabout,Slight,E09000004,6
+2020,Mini-roundabout,Slight,E09000005,15
+2020,Mini-roundabout,Slight,E09000010,6
+2020,Mini-roundabout,Slight,E09000013,12
+2020,Mini-roundabout,Slight,E09000014,6
+2020,Mini-roundabout,Slight,E09000015,6
+2020,Mini-roundabout,Slight,E09000017,12
+2020,Mini-roundabout,Slight,E09000018,18
+2020,Mini-roundabout,Slight,E09000021,6
+2020,Mini-roundabout,Slight,E09000022,6
+2020,Mini-roundabout,Slight,E09000023,6
+2020,Mini-roundabout,Slight,E09000024,3
+2020,Mini-roundabout,Slight,E09000026,12
+2020,Mini-roundabout,Slight,E09000027,30
+2020,Mini-roundabout,Slight,E09000028,12
+2020,Mini-roundabout,Slight,E09000032,6
+2020,Mini-roundabout,Slight,E09000033,6
+2020,More than 4 arms (not roundabout),Slight,E09000003,6
+2020,More than 4 arms (not roundabout),Slight,E09000004,6
+2020,More than 4 arms (not roundabout),Slight,E09000005,6
+2020,More than 4 arms (not roundabout),Slight,E09000007,21
+2020,More than 4 arms (not roundabout),Slight,E09000008,30
+2020,More than 4 arms (not roundabout),Slight,E09000009,3
+2020,More than 4 arms (not roundabout),Slight,E09000010,12
+2020,More than 4 arms (not roundabout),Slight,E09000011,12
+2020,More than 4 arms (not roundabout),Slight,E09000012,24
+2020,More than 4 arms (not roundabout),Slight,E09000013,18
+2020,More than 4 arms (not roundabout),Slight,E09000014,24
+2020,More than 4 arms (not roundabout),Slight,E09000017,12
+2020,More than 4 arms (not roundabout),Slight,E09000019,6
+2020,More than 4 arms (not roundabout),Slight,E09000022,18
+2020,More than 4 arms (not roundabout),Slight,E09000023,6
+2020,More than 4 arms (not roundabout),Slight,E09000025,12
+2020,More than 4 arms (not roundabout),Slight,E09000026,24
+2020,More than 4 arms (not roundabout),Slight,E09000027,6
+2020,More than 4 arms (not roundabout),Slight,E09000028,36
+2020,More than 4 arms (not roundabout),Slight,E09000029,12
+2020,More than 4 arms (not roundabout),Slight,E09000030,24
+2020,More than 4 arms (not roundabout),Slight,E09000031,42
+2020,More than 4 arms (not roundabout),Slight,E09000032,18
+2020,More than 4 arms (not roundabout),Slight,E09000033,12
+2020,Not at junction,Slight,E09000001,48
+2020,Not at junction,Slight,E09000002,144
+2020,Not at junction,Slight,E09000003,126
+2020,Not at junction,Slight,E09000004,126
+2020,Not at junction,Slight,E09000005,63
+2020,Not at junction,Slight,E09000006,150
+2020,Not at junction,Slight,E09000007,63
+2020,Not at junction,Slight,E09000008,168
+2020,Not at junction,Slight,E09000009,90
+2020,Not at junction,Slight,E09000010,174
+2020,Not at junction,Slight,E09000011,168
+2020,Not at junction,Slight,E09000012,138
+2020,Not at junction,Slight,E09000013,42
+2020,Not at junction,Slight,E09000014,84
+2020,Not at junction,Slight,E09000015,60
+2020,Not at junction,Slight,E09000016,102
+2020,Not at junction,Slight,E09000017,114
+2020,Not at junction,Slight,E09000018,96
+2020,Not at junction,Slight,E09000019,30
+2020,Not at junction,Slight,E09000020,90
+2020,Not at junction,Slight,E09000021,36
+2020,Not at junction,Slight,E09000022,174
+2020,Not at junction,Slight,E09000023,48
+2020,Not at junction,Slight,E09000024,45
+2020,Not at junction,Slight,E09000025,210
+2020,Not at junction,Slight,E09000026,132
+2020,Not at junction,Slight,E09000027,72
+2020,Not at junction,Slight,E09000028,144
+2020,Not at junction,Slight,E09000029,48
+2020,Not at junction,Slight,E09000030,126
+2020,Not at junction,Slight,E09000031,180
+2020,Not at junction,Slight,E09000032,162
+2020,Not at junction,Slight,E09000033,126
+2020,Other junction,Slight,E09000002,48
+2020,Other junction,Slight,E09000003,66
+2020,Other junction,Slight,E09000004,48
+2020,Other junction,Slight,E09000005,39
+2020,Other junction,Slight,E09000006,42
+2020,Other junction,Slight,E09000007,18
+2020,Other junction,Slight,E09000008,96
+2020,Other junction,Slight,E09000009,57
+2020,Other junction,Slight,E09000010,84
+2020,Other junction,Slight,E09000011,24
+2020,Other junction,Slight,E09000012,84
+2020,Other junction,Slight,E09000013,24
+2020,Other junction,Slight,E09000014,72
+2020,Other junction,Slight,E09000015,24
+2020,Other junction,Slight,E09000016,12
+2020,Other junction,Slight,E09000017,54
+2020,Other junction,Slight,E09000018,48
+2020,Other junction,Slight,E09000019,9
+2020,Other junction,Slight,E09000020,30
+2020,Other junction,Slight,E09000021,12
+2020,Other junction,Slight,E09000022,90
+2020,Other junction,Slight,E09000023,51
+2020,Other junction,Slight,E09000024,15
+2020,Other junction,Slight,E09000025,84
+2020,Other junction,Slight,E09000026,66
+2020,Other junction,Slight,E09000027,36
+2020,Other junction,Slight,E09000028,42
+2020,Other junction,Slight,E09000029,12
+2020,Other junction,Slight,E09000030,36
+2020,Other junction,Slight,E09000031,54
+2020,Other junction,Slight,E09000032,42
+2020,Other junction,Slight,E09000033,66
+2020,Private drive or entrance,Slight,E09000002,18
+2020,Private drive or entrance,Slight,E09000003,6
+2020,Private drive or entrance,Slight,E09000004,12
+2020,Private drive or entrance,Slight,E09000005,9
+2020,Private drive or entrance,Slight,E09000006,12
+2020,Private drive or entrance,Slight,E09000008,24
+2020,Private drive or entrance,Slight,E09000009,9
+2020,Private drive or entrance,Slight,E09000010,12
+2020,Private drive or entrance,Slight,E09000012,18
+2020,Private drive or entrance,Slight,E09000013,6
+2020,Private drive or entrance,Slight,E09000014,12
+2020,Private drive or entrance,Slight,E09000015,30
+2020,Private drive or entrance,Slight,E09000016,12
+2020,Private drive or entrance,Slight,E09000017,18
+2020,Private drive or entrance,Slight,E09000018,6
+2020,Private drive or entrance,Slight,E09000019,3
+2020,Private drive or entrance,Slight,E09000021,12
+2020,Private drive or entrance,Slight,E09000022,24
+2020,Private drive or entrance,Slight,E09000023,3
+2020,Private drive or entrance,Slight,E09000028,6
+2020,Private drive or entrance,Slight,E09000029,6
+2020,Private drive or entrance,Slight,E09000030,12
+2020,Private drive or entrance,Slight,E09000031,12
+2020,Private drive or entrance,Slight,E09000032,6
+2020,Private drive or entrance,Slight,E09000033,6
+2020,Roundabout,Slight,E09000002,12
+2020,Roundabout,Slight,E09000004,30
+2020,Roundabout,Slight,E09000005,6
+2020,Roundabout,Slight,E09000006,18
+2020,Roundabout,Slight,E09000007,9
+2020,Roundabout,Slight,E09000008,48
+2020,Roundabout,Slight,E09000009,12
+2020,Roundabout,Slight,E09000010,24
+2020,Roundabout,Slight,E09000011,18
+2020,Roundabout,Slight,E09000013,6
+2020,Roundabout,Slight,E09000014,18
+2020,Roundabout,Slight,E09000015,42
+2020,Roundabout,Slight,E09000016,12
+2020,Roundabout,Slight,E09000017,18
+2020,Roundabout,Slight,E09000018,12
+2020,Roundabout,Slight,E09000020,12
+2020,Roundabout,Slight,E09000021,6
+2020,Roundabout,Slight,E09000023,6
+2020,Roundabout,Slight,E09000025,12
+2020,Roundabout,Slight,E09000026,24
+2020,Roundabout,Slight,E09000027,6
+2020,Roundabout,Slight,E09000028,6
+2020,Roundabout,Slight,E09000029,6
+2020,Roundabout,Slight,E09000030,6
+2020,Roundabout,Slight,E09000032,6
+2020,Slip road,Slight,E09000001,6
+2020,Slip road,Slight,E09000003,12
+2020,Slip road,Slight,E09000005,12
+2020,Slip road,Slight,E09000008,12
+2020,Slip road,Slight,E09000009,6
+2020,Slip road,Slight,E09000010,18
+2020,Slip road,Slight,E09000011,12
+2020,Slip road,Slight,E09000012,6
+2020,Slip road,Slight,E09000013,6
+2020,Slip road,Slight,E09000014,24
+2020,Slip road,Slight,E09000015,6
+2020,Slip road,Slight,E09000018,6
+2020,Slip road,Slight,E09000021,6
+2020,Slip road,Slight,E09000022,6
+2020,Slip road,Slight,E09000025,12
+2020,Slip road,Slight,E09000026,12
+2020,Slip road,Slight,E09000029,12
+2020,Slip road,Slight,E09000032,6
+2020,Slip road,Slight,E09000033,6
+2020,T or staggered junction,Slight,E09000001,18
+2020,T or staggered junction,Slight,E09000002,102
+2020,T or staggered junction,Slight,E09000003,204
+2020,T or staggered junction,Slight,E09000004,78
+2020,T or staggered junction,Slight,E09000005,102
+2020,T or staggered junction,Slight,E09000006,90
+2020,T or staggered junction,Slight,E09000007,78
+2020,T or staggered junction,Slight,E09000008,252
+2020,T or staggered junction,Slight,E09000009,96
+2020,T or staggered junction,Slight,E09000010,180
+2020,T or staggered junction,Slight,E09000011,120
+2020,T or staggered junction,Slight,E09000012,252
+2020,T or staggered junction,Slight,E09000013,114
+2020,T or staggered junction,Slight,E09000014,168
+2020,T or staggered junction,Slight,E09000015,48
+2020,T or staggered junction,Slight,E09000016,84
+2020,T or staggered junction,Slight,E09000017,84
+2020,T or staggered junction,Slight,E09000018,120
+2020,T or staggered junction,Slight,E09000019,96
+2020,T or staggered junction,Slight,E09000020,126
+2020,T or staggered junction,Slight,E09000021,48
+2020,T or staggered junction,Slight,E09000022,234
+2020,T or staggered junction,Slight,E09000023,108
+2020,T or staggered junction,Slight,E09000024,42
+2020,T or staggered junction,Slight,E09000025,138
+2020,T or staggered junction,Slight,E09000026,132
+2020,T or staggered junction,Slight,E09000027,90
+2020,T or staggered junction,Slight,E09000028,228
+2020,T or staggered junction,Slight,E09000029,48
+2020,T or staggered junction,Slight,E09000030,234
+2020,T or staggered junction,Slight,E09000031,156
+2020,T or staggered junction,Slight,E09000032,210
+2020,T or staggered junction,Slight,E09000033,252
+2021,Crossroads,Fatal,E09000009,3
+2021,Crossroads,Fatal,E09000017,6
+2021,Crossroads,Fatal,E09000018,6
+2021,Crossroads,Fatal,E09000020,12
+2021,More than 4 arms (not roundabout),Fatal,E09000003,6
+2021,More than 4 arms (not roundabout),Fatal,E09000009,3
+2021,More than 4 arms (not roundabout),Fatal,E09000014,6
+2021,More than 4 arms (not roundabout),Fatal,E09000023,3
+2021,More than 4 arms (not roundabout),Fatal,E09000030,6
+2021,Not at junction,Fatal,E09000004,6
+2021,Not at junction,Fatal,E09000005,6
+2021,Not at junction,Fatal,E09000007,3
+2021,Not at junction,Fatal,E09000008,6
+2021,Not at junction,Fatal,E09000021,6
+2021,Not at junction,Fatal,E09000026,6
+2021,Not at junction,Fatal,E09000028,6
+2021,Other junction,Fatal,E09000011,18
+2021,T or staggered junction,Fatal,E09000003,6
+2021,T or staggered junction,Fatal,E09000005,3
+2021,T or staggered junction,Fatal,E09000008,6
+2021,T or staggered junction,Fatal,E09000009,3
+2021,T or staggered junction,Fatal,E09000014,6
+2021,T or staggered junction,Fatal,E09000018,12
+2021,T or staggered junction,Fatal,E09000022,6
+2021,Crossroads,Serious,E09000001,12
+2021,Crossroads,Serious,E09000002,6
+2021,Crossroads,Serious,E09000003,6
+2021,Crossroads,Serious,E09000004,6
+2021,Crossroads,Serious,E09000005,9
+2021,Crossroads,Serious,E09000006,6
+2021,Crossroads,Serious,E09000007,21
+2021,Crossroads,Serious,E09000008,18
+2021,Crossroads,Serious,E09000009,9
+2021,Crossroads,Serious,E09000010,6
+2021,Crossroads,Serious,E09000011,12
+2021,Crossroads,Serious,E09000012,12
+2021,Crossroads,Serious,E09000013,6
+2021,Crossroads,Serious,E09000014,12
+2021,Crossroads,Serious,E09000015,6
+2021,Crossroads,Serious,E09000016,12
+2021,Crossroads,Serious,E09000017,6
+2021,Crossroads,Serious,E09000018,18
+2021,Crossroads,Serious,E09000019,9
+2021,Crossroads,Serious,E09000020,30
+2021,Crossroads,Serious,E09000021,6
+2021,Crossroads,Serious,E09000022,6
+2021,Crossroads,Serious,E09000023,6
+2021,Crossroads,Serious,E09000025,36
+2021,Crossroads,Serious,E09000026,18
+2021,Crossroads,Serious,E09000028,24
+2021,Crossroads,Serious,E09000029,6
+2021,Crossroads,Serious,E09000030,30
+2021,Crossroads,Serious,E09000031,12
+2021,Crossroads,Serious,E09000032,24
+2021,Crossroads,Serious,E09000033,78
+2021,Mini-roundabout,Serious,E09000010,6
+2021,Mini-roundabout,Serious,E09000013,12
+2021,Mini-roundabout,Serious,E09000015,6
+2021,Mini-roundabout,Serious,E09000017,6
+2021,Mini-roundabout,Serious,E09000018,6
+2021,Mini-roundabout,Serious,E09000025,18
+2021,Mini-roundabout,Serious,E09000027,6
+2021,Mini-roundabout,Serious,E09000031,6
+2021,Mini-roundabout,Serious,E09000033,6
+2021,More than 4 arms (not roundabout),Serious,E09000002,6
+2021,More than 4 arms (not roundabout),Serious,E09000003,6
+2021,More than 4 arms (not roundabout),Serious,E09000004,6
+2021,More than 4 arms (not roundabout),Serious,E09000005,3
+2021,More than 4 arms (not roundabout),Serious,E09000007,9
+2021,More than 4 arms (not roundabout),Serious,E09000008,6
+2021,More than 4 arms (not roundabout),Serious,E09000012,12
+2021,More than 4 arms (not roundabout),Serious,E09000014,18
+2021,More than 4 arms (not roundabout),Serious,E09000015,6
+2021,More than 4 arms (not roundabout),Serious,E09000018,12
+2021,More than 4 arms (not roundabout),Serious,E09000020,18
+2021,More than 4 arms (not roundabout),Serious,E09000021,6
+2021,More than 4 arms (not roundabout),Serious,E09000022,12
+2021,More than 4 arms (not roundabout),Serious,E09000023,3
+2021,More than 4 arms (not roundabout),Serious,E09000024,6
+2021,More than 4 arms (not roundabout),Serious,E09000025,6
+2021,More than 4 arms (not roundabout),Serious,E09000026,6
+2021,More than 4 arms (not roundabout),Serious,E09000027,6
+2021,More than 4 arms (not roundabout),Serious,E09000031,6
+2021,More than 4 arms (not roundabout),Serious,E09000032,24
+2021,More than 4 arms (not roundabout),Serious,E09000033,12
+2021,Not at junction,Serious,E09000001,12
+2021,Not at junction,Serious,E09000002,36
+2021,Not at junction,Serious,E09000003,42
+2021,Not at junction,Serious,E09000004,30
+2021,Not at junction,Serious,E09000005,24
+2021,Not at junction,Serious,E09000006,72
+2021,Not at junction,Serious,E09000007,27
+2021,Not at junction,Serious,E09000008,102
+2021,Not at junction,Serious,E09000009,39
+2021,Not at junction,Serious,E09000010,12
+2021,Not at junction,Serious,E09000011,24
+2021,Not at junction,Serious,E09000012,36
+2021,Not at junction,Serious,E09000013,24
+2021,Not at junction,Serious,E09000014,24
+2021,Not at junction,Serious,E09000015,36
+2021,Not at junction,Serious,E09000016,36
+2021,Not at junction,Serious,E09000017,90
+2021,Not at junction,Serious,E09000018,72
+2021,Not at junction,Serious,E09000019,12
+2021,Not at junction,Serious,E09000020,18
+2021,Not at junction,Serious,E09000021,12
+2021,Not at junction,Serious,E09000022,60
+2021,Not at junction,Serious,E09000023,27
+2021,Not at junction,Serious,E09000024,9
+2021,Not at junction,Serious,E09000025,72
+2021,Not at junction,Serious,E09000026,18
+2021,Not at junction,Serious,E09000027,24
+2021,Not at junction,Serious,E09000028,42
+2021,Not at junction,Serious,E09000029,54
+2021,Not at junction,Serious,E09000030,84
+2021,Not at junction,Serious,E09000031,72
+2021,Not at junction,Serious,E09000032,30
+2021,Not at junction,Serious,E09000033,78
+2021,Other junction,Serious,E09000002,24
+2021,Other junction,Serious,E09000003,30
+2021,Other junction,Serious,E09000004,18
+2021,Other junction,Serious,E09000005,6
+2021,Other junction,Serious,E09000006,12
+2021,Other junction,Serious,E09000007,9
+2021,Other junction,Serious,E09000008,60
+2021,Other junction,Serious,E09000009,18
+2021,Other junction,Serious,E09000010,30
+2021,Other junction,Serious,E09000011,12
+2021,Other junction,Serious,E09000012,6
+2021,Other junction,Serious,E09000013,6
+2021,Other junction,Serious,E09000014,6
+2021,Other junction,Serious,E09000015,6
+2021,Other junction,Serious,E09000017,24
+2021,Other junction,Serious,E09000019,3
+2021,Other junction,Serious,E09000022,36
+2021,Other junction,Serious,E09000023,9
+2021,Other junction,Serious,E09000024,6
+2021,Other junction,Serious,E09000026,24
+2021,Other junction,Serious,E09000027,6
+2021,Other junction,Serious,E09000028,36
+2021,Other junction,Serious,E09000029,6
+2021,Other junction,Serious,E09000030,30
+2021,Other junction,Serious,E09000031,12
+2021,Other junction,Serious,E09000032,6
+2021,Other junction,Serious,E09000033,24
+2021,Private drive or entrance,Serious,E09000003,6
+2021,Private drive or entrance,Serious,E09000005,3
+2021,Private drive or entrance,Serious,E09000006,12
+2021,Private drive or entrance,Serious,E09000008,6
+2021,Private drive or entrance,Serious,E09000009,3
+2021,Private drive or entrance,Serious,E09000010,12
+2021,Private drive or entrance,Serious,E09000012,6
+2021,Private drive or entrance,Serious,E09000018,30
+2021,Private drive or entrance,Serious,E09000021,6
+2021,Private drive or entrance,Serious,E09000022,12
+2021,Private drive or entrance,Serious,E09000024,3
+2021,Private drive or entrance,Serious,E09000031,18
+2021,Roundabout,Serious,E09000003,12
+2021,Roundabout,Serious,E09000004,6
+2021,Roundabout,Serious,E09000006,6
+2021,Roundabout,Serious,E09000008,6
+2021,Roundabout,Serious,E09000009,3
+2021,Roundabout,Serious,E09000018,12
+2021,Roundabout,Serious,E09000019,9
+2021,Roundabout,Serious,E09000020,6
+2021,Roundabout,Serious,E09000022,6
+2021,Roundabout,Serious,E09000025,6
+2021,Roundabout,Serious,E09000026,6
+2021,Roundabout,Serious,E09000028,6
+2021,Roundabout,Serious,E09000029,6
+2021,Roundabout,Serious,E09000033,6
+2021,Slip road,Serious,E09000003,6
+2021,Slip road,Serious,E09000009,3
+2021,Slip road,Serious,E09000010,12
+2021,Slip road,Serious,E09000013,6
+2021,Slip road,Serious,E09000017,6
+2021,Slip road,Serious,E09000018,6
+2021,Slip road,Serious,E09000021,6
+2021,Slip road,Serious,E09000022,6
+2021,Slip road,Serious,E09000023,6
+2021,Slip road,Serious,E09000027,6
+2021,Slip road,Serious,E09000030,6
+2021,T or staggered junction,Serious,E09000001,12
+2021,T or staggered junction,Serious,E09000002,12
+2021,T or staggered junction,Serious,E09000003,18
+2021,T or staggered junction,Serious,E09000004,36
+2021,T or staggered junction,Serious,E09000005,18
+2021,T or staggered junction,Serious,E09000006,42
+2021,T or staggered junction,Serious,E09000007,42
+2021,T or staggered junction,Serious,E09000008,84
+2021,T or staggered junction,Serious,E09000009,33
+2021,T or staggered junction,Serious,E09000010,66
+2021,T or staggered junction,Serious,E09000011,48
+2021,T or staggered junction,Serious,E09000012,42
+2021,T or staggered junction,Serious,E09000013,72
+2021,T or staggered junction,Serious,E09000014,72
+2021,T or staggered junction,Serious,E09000015,18
+2021,T or staggered junction,Serious,E09000016,42
+2021,T or staggered junction,Serious,E09000017,30
+2021,T or staggered junction,Serious,E09000018,48
+2021,T or staggered junction,Serious,E09000019,18
+2021,T or staggered junction,Serious,E09000020,24
+2021,T or staggered junction,Serious,E09000022,126
+2021,T or staggered junction,Serious,E09000023,18
+2021,T or staggered junction,Serious,E09000024,9
+2021,T or staggered junction,Serious,E09000025,60
+2021,T or staggered junction,Serious,E09000026,48
+2021,T or staggered junction,Serious,E09000027,36
+2021,T or staggered junction,Serious,E09000028,60
+2021,T or staggered junction,Serious,E09000029,24
+2021,T or staggered junction,Serious,E09000030,90
+2021,T or staggered junction,Serious,E09000031,18
+2021,T or staggered junction,Serious,E09000032,96
+2021,T or staggered junction,Serious,E09000033,114
+2021,Crossroads,Slight,E09000001,24
+2021,Crossroads,Slight,E09000002,60
+2021,Crossroads,Slight,E09000003,66
+2021,Crossroads,Slight,E09000004,12
+2021,Crossroads,Slight,E09000005,21
+2021,Crossroads,Slight,E09000006,66
+2021,Crossroads,Slight,E09000007,45
+2021,Crossroads,Slight,E09000008,30
+2021,Crossroads,Slight,E09000009,18
+2021,Crossroads,Slight,E09000010,54
+2021,Crossroads,Slight,E09000011,42
+2021,Crossroads,Slight,E09000012,78
+2021,Crossroads,Slight,E09000013,24
+2021,Crossroads,Slight,E09000014,30
+2021,Crossroads,Slight,E09000015,6
+2021,Crossroads,Slight,E09000016,24
+2021,Crossroads,Slight,E09000017,24
+2021,Crossroads,Slight,E09000018,36
+2021,Crossroads,Slight,E09000019,12
+2021,Crossroads,Slight,E09000020,72
+2021,Crossroads,Slight,E09000021,12
+2021,Crossroads,Slight,E09000022,54
+2021,Crossroads,Slight,E09000023,12
+2021,Crossroads,Slight,E09000024,12
+2021,Crossroads,Slight,E09000025,24
+2021,Crossroads,Slight,E09000026,42
+2021,Crossroads,Slight,E09000027,6
+2021,Crossroads,Slight,E09000028,60
+2021,Crossroads,Slight,E09000029,12
+2021,Crossroads,Slight,E09000030,66
+2021,Crossroads,Slight,E09000031,18
+2021,Crossroads,Slight,E09000032,66
+2021,Crossroads,Slight,E09000033,186
+2021,Mini-roundabout,Slight,E09000002,12
+2021,Mini-roundabout,Slight,E09000003,6
+2021,Mini-roundabout,Slight,E09000004,12
+2021,Mini-roundabout,Slight,E09000006,6
+2021,Mini-roundabout,Slight,E09000007,3
+2021,Mini-roundabout,Slight,E09000008,24
+2021,Mini-roundabout,Slight,E09000010,6
+2021,Mini-roundabout,Slight,E09000011,6
+2021,Mini-roundabout,Slight,E09000013,6
+2021,Mini-roundabout,Slight,E09000014,12
+2021,Mini-roundabout,Slight,E09000016,6
+2021,Mini-roundabout,Slight,E09000017,12
+2021,Mini-roundabout,Slight,E09000018,6
+2021,Mini-roundabout,Slight,E09000020,12
+2021,Mini-roundabout,Slight,E09000023,6
+2021,Mini-roundabout,Slight,E09000024,3
+2021,Mini-roundabout,Slight,E09000025,6
+2021,Mini-roundabout,Slight,E09000026,12
+2021,Mini-roundabout,Slight,E09000027,24
+2021,Mini-roundabout,Slight,E09000029,30
+2021,Mini-roundabout,Slight,E09000031,6
+2021,Mini-roundabout,Slight,E09000032,6
+2021,More than 4 arms (not roundabout),Slight,E09000003,24
+2021,More than 4 arms (not roundabout),Slight,E09000004,6
+2021,More than 4 arms (not roundabout),Slight,E09000005,12
+2021,More than 4 arms (not roundabout),Slight,E09000007,15
+2021,More than 4 arms (not roundabout),Slight,E09000008,30
+2021,More than 4 arms (not roundabout),Slight,E09000009,15
+2021,More than 4 arms (not roundabout),Slight,E09000010,6
+2021,More than 4 arms (not roundabout),Slight,E09000011,6
+2021,More than 4 arms (not roundabout),Slight,E09000012,30
+2021,More than 4 arms (not roundabout),Slight,E09000013,6
+2021,More than 4 arms (not roundabout),Slight,E09000014,24
+2021,More than 4 arms (not roundabout),Slight,E09000015,12
+2021,More than 4 arms (not roundabout),Slight,E09000018,18
+2021,More than 4 arms (not roundabout),Slight,E09000019,6
+2021,More than 4 arms (not roundabout),Slight,E09000020,12
+2021,More than 4 arms (not roundabout),Slight,E09000021,18
+2021,More than 4 arms (not roundabout),Slight,E09000022,66
+2021,More than 4 arms (not roundabout),Slight,E09000023,3
+2021,More than 4 arms (not roundabout),Slight,E09000025,12
+2021,More than 4 arms (not roundabout),Slight,E09000026,6
+2021,More than 4 arms (not roundabout),Slight,E09000027,6
+2021,More than 4 arms (not roundabout),Slight,E09000028,30
+2021,More than 4 arms (not roundabout),Slight,E09000030,18
+2021,More than 4 arms (not roundabout),Slight,E09000031,12
+2021,More than 4 arms (not roundabout),Slight,E09000033,48
+2021,Not at junction,Slight,E09000001,30
+2021,Not at junction,Slight,E09000002,126
+2021,Not at junction,Slight,E09000003,186
+2021,Not at junction,Slight,E09000004,96
+2021,Not at junction,Slight,E09000005,81
+2021,Not at junction,Slight,E09000006,102
+2021,Not at junction,Slight,E09000007,51
+2021,Not at junction,Slight,E09000008,168
+2021,Not at junction,Slight,E09000009,111
+2021,Not at junction,Slight,E09000010,168
+2021,Not at junction,Slight,E09000011,192
+2021,Not at junction,Slight,E09000012,132
+2021,Not at junction,Slight,E09000013,126
+2021,Not at junction,Slight,E09000014,78
+2021,Not at junction,Slight,E09000015,78
+2021,Not at junction,Slight,E09000016,162
+2021,Not at junction,Slight,E09000017,114
+2021,Not at junction,Slight,E09000018,174
+2021,Not at junction,Slight,E09000019,30
+2021,Not at junction,Slight,E09000020,72
+2021,Not at junction,Slight,E09000021,72
+2021,Not at junction,Slight,E09000022,156
+2021,Not at junction,Slight,E09000023,60
+2021,Not at junction,Slight,E09000024,48
+2021,Not at junction,Slight,E09000025,192
+2021,Not at junction,Slight,E09000026,120
+2021,Not at junction,Slight,E09000027,42
+2021,Not at junction,Slight,E09000028,150
+2021,Not at junction,Slight,E09000029,60
+2021,Not at junction,Slight,E09000030,156
+2021,Not at junction,Slight,E09000031,108
+2021,Not at junction,Slight,E09000032,168
+2021,Not at junction,Slight,E09000033,216
+2021,Other junction,Slight,E09000001,6
+2021,Other junction,Slight,E09000002,54
+2021,Other junction,Slight,E09000003,66
+2021,Other junction,Slight,E09000004,12
+2021,Other junction,Slight,E09000005,51
+2021,Other junction,Slight,E09000006,36
+2021,Other junction,Slight,E09000007,12
+2021,Other junction,Slight,E09000008,102
+2021,Other junction,Slight,E09000009,42
+2021,Other junction,Slight,E09000010,102
+2021,Other junction,Slight,E09000011,48
+2021,Other junction,Slight,E09000012,42
+2021,Other junction,Slight,E09000013,66
+2021,Other junction,Slight,E09000014,60
+2021,Other junction,Slight,E09000015,48
+2021,Other junction,Slight,E09000016,48
+2021,Other junction,Slight,E09000017,30
+2021,Other junction,Slight,E09000018,42
+2021,Other junction,Slight,E09000019,45
+2021,Other junction,Slight,E09000020,36
+2021,Other junction,Slight,E09000021,6
+2021,Other junction,Slight,E09000022,48
+2021,Other junction,Slight,E09000023,27
+2021,Other junction,Slight,E09000024,18
+2021,Other junction,Slight,E09000025,78
+2021,Other junction,Slight,E09000026,90
+2021,Other junction,Slight,E09000027,54
+2021,Other junction,Slight,E09000028,78
+2021,Other junction,Slight,E09000029,24
+2021,Other junction,Slight,E09000030,30
+2021,Other junction,Slight,E09000031,84
+2021,Other junction,Slight,E09000032,48
+2021,Other junction,Slight,E09000033,60
+2021,Private drive or entrance,Slight,E09000003,24
+2021,Private drive or entrance,Slight,E09000005,6
+2021,Private drive or entrance,Slight,E09000006,12
+2021,Private drive or entrance,Slight,E09000008,18
+2021,Private drive or entrance,Slight,E09000009,6
+2021,Private drive or entrance,Slight,E09000010,24
+2021,Private drive or entrance,Slight,E09000011,18
+2021,Private drive or entrance,Slight,E09000012,24
+2021,Private drive or entrance,Slight,E09000013,6
+2021,Private drive or entrance,Slight,E09000015,18
+2021,Private drive or entrance,Slight,E09000016,6
+2021,Private drive or entrance,Slight,E09000017,24
+2021,Private drive or entrance,Slight,E09000018,18
+2021,Private drive or entrance,Slight,E09000022,12
+2021,Private drive or entrance,Slight,E09000024,9
+2021,Private drive or entrance,Slight,E09000025,6
+2021,Private drive or entrance,Slight,E09000026,18
+2021,Private drive or entrance,Slight,E09000028,6
+2021,Private drive or entrance,Slight,E09000030,18
+2021,Private drive or entrance,Slight,E09000031,30
+2021,Private drive or entrance,Slight,E09000032,12
+2021,Private drive or entrance,Slight,E09000033,6
+2021,Roundabout,Slight,E09000002,6
+2021,Roundabout,Slight,E09000003,18
+2021,Roundabout,Slight,E09000004,24
+2021,Roundabout,Slight,E09000005,6
+2021,Roundabout,Slight,E09000007,3
+2021,Roundabout,Slight,E09000008,24
+2021,Roundabout,Slight,E09000009,18
+2021,Roundabout,Slight,E09000010,18
+2021,Roundabout,Slight,E09000011,6
+2021,Roundabout,Slight,E09000012,12
+2021,Roundabout,Slight,E09000013,18
+2021,Roundabout,Slight,E09000014,6
+2021,Roundabout,Slight,E09000015,18
+2021,Roundabout,Slight,E09000016,6
+2021,Roundabout,Slight,E09000018,12
+2021,Roundabout,Slight,E09000019,6
+2021,Roundabout,Slight,E09000020,6
+2021,Roundabout,Slight,E09000021,12
+2021,Roundabout,Slight,E09000022,12
+2021,Roundabout,Slight,E09000023,3
+2021,Roundabout,Slight,E09000024,3
+2021,Roundabout,Slight,E09000025,6
+2021,Roundabout,Slight,E09000026,18
+2021,Roundabout,Slight,E09000027,18
+2021,Roundabout,Slight,E09000028,24
+2021,Roundabout,Slight,E09000029,6
+2021,Roundabout,Slight,E09000031,6
+2021,Roundabout,Slight,E09000032,6
+2021,Roundabout,Slight,E09000033,24
+2021,Slip road,Slight,E09000003,12
+2021,Slip road,Slight,E09000004,6
+2021,Slip road,Slight,E09000005,9
+2021,Slip road,Slight,E09000006,6
+2021,Slip road,Slight,E09000009,3
+2021,Slip road,Slight,E09000010,12
+2021,Slip road,Slight,E09000011,6
+2021,Slip road,Slight,E09000012,12
+2021,Slip road,Slight,E09000013,6
+2021,Slip road,Slight,E09000014,12
+2021,Slip road,Slight,E09000017,18
+2021,Slip road,Slight,E09000018,24
+2021,Slip road,Slight,E09000019,3
+2021,Slip road,Slight,E09000022,12
+2021,Slip road,Slight,E09000023,6
+2021,Slip road,Slight,E09000026,12
+2021,Slip road,Slight,E09000028,18
+2021,Slip road,Slight,E09000029,6
+2021,Slip road,Slight,E09000030,12
+2021,Slip road,Slight,E09000032,6
+2021,Slip road,Slight,E09000033,12
+2021,T or staggered junction,Slight,E09000001,48
+2021,T or staggered junction,Slight,E09000002,84
+2021,T or staggered junction,Slight,E09000003,150
+2021,T or staggered junction,Slight,E09000004,84
+2021,T or staggered junction,Slight,E09000005,93
+2021,T or staggered junction,Slight,E09000006,168
+2021,T or staggered junction,Slight,E09000007,99
+2021,T or staggered junction,Slight,E09000008,210
+2021,T or staggered junction,Slight,E09000009,102
+2021,T or staggered junction,Slight,E09000010,162
+2021,T or staggered junction,Slight,E09000011,84
+2021,T or staggered junction,Slight,E09000012,198
+2021,T or staggered junction,Slight,E09000013,186
+2021,T or staggered junction,Slight,E09000014,180
+2021,T or staggered junction,Slight,E09000015,96
+2021,T or staggered junction,Slight,E09000016,72
+2021,T or staggered junction,Slight,E09000017,138
+2021,T or staggered junction,Slight,E09000018,108
+2021,T or staggered junction,Slight,E09000019,60
+2021,T or staggered junction,Slight,E09000020,174
+2021,T or staggered junction,Slight,E09000021,48
+2021,T or staggered junction,Slight,E09000022,240
+2021,T or staggered junction,Slight,E09000023,66
+2021,T or staggered junction,Slight,E09000024,45
+2021,T or staggered junction,Slight,E09000025,186
+2021,T or staggered junction,Slight,E09000026,156
+2021,T or staggered junction,Slight,E09000027,60
+2021,T or staggered junction,Slight,E09000028,174
+2021,T or staggered junction,Slight,E09000029,54
+2021,T or staggered junction,Slight,E09000030,180
+2021,T or staggered junction,Slight,E09000031,114
+2021,T or staggered junction,Slight,E09000032,228
+2021,T or staggered junction,Slight,E09000033,276
+2022,Crossroads,Fatal,E09000015,6
+2022,Crossroads,Fatal,E09000018,12
+2022,Crossroads,Fatal,E09000020,6
+2022,Crossroads,Fatal,E09000024,3
+2022,Crossroads,Fatal,E09000030,6
+2022,More than 4 arms (not roundabout),Fatal,E09000003,6
+2022,More than 4 arms (not roundabout),Fatal,E09000012,6
+2022,Not at junction,Fatal,E09000006,6
+2022,Not at junction,Fatal,E09000010,12
+2022,Not at junction,Fatal,E09000013,6
+2022,Not at junction,Fatal,E09000017,6
+2022,Not at junction,Fatal,E09000018,12
+2022,Not at junction,Fatal,E09000022,6
+2022,Not at junction,Fatal,E09000024,3
+2022,Not at junction,Fatal,E09000025,12
+2022,Not at junction,Fatal,E09000029,6
+2022,Other junction,Fatal,E09000014,6
+2022,Roundabout,Fatal,E09000032,6
+2022,T or staggered junction,Fatal,E09000001,6
+2022,T or staggered junction,Fatal,E09000004,6
+2022,T or staggered junction,Fatal,E09000005,3
+2022,T or staggered junction,Fatal,E09000009,3
+2022,T or staggered junction,Fatal,E09000011,6
+2022,T or staggered junction,Fatal,E09000015,6
+2022,T or staggered junction,Fatal,E09000021,12
+2022,T or staggered junction,Fatal,E09000024,3
+2022,T or staggered junction,Fatal,E09000025,6
+2022,T or staggered junction,Fatal,E09000033,12
+2022,Crossroads,Serious,E09000001,6
+2022,Crossroads,Serious,E09000002,12
+2022,Crossroads,Serious,E09000003,24
+2022,Crossroads,Serious,E09000004,6
+2022,Crossroads,Serious,E09000005,3
+2022,Crossroads,Serious,E09000006,12
+2022,Crossroads,Serious,E09000007,21
+2022,Crossroads,Serious,E09000008,30
+2022,Crossroads,Serious,E09000010,6
+2022,Crossroads,Serious,E09000011,24
+2022,Crossroads,Serious,E09000012,78
+2022,Crossroads,Serious,E09000013,18
+2022,Crossroads,Serious,E09000014,18
+2022,Crossroads,Serious,E09000015,24
+2022,Crossroads,Serious,E09000016,12
+2022,Crossroads,Serious,E09000018,12
+2022,Crossroads,Serious,E09000019,15
+2022,Crossroads,Serious,E09000020,36
+2022,Crossroads,Serious,E09000022,54
+2022,Crossroads,Serious,E09000023,12
+2022,Crossroads,Serious,E09000024,9
+2022,Crossroads,Serious,E09000025,30
+2022,Crossroads,Serious,E09000026,24
+2022,Crossroads,Serious,E09000027,6
+2022,Crossroads,Serious,E09000028,12
+2022,Crossroads,Serious,E09000029,12
+2022,Crossroads,Serious,E09000030,54
+2022,Crossroads,Serious,E09000031,12
+2022,Crossroads,Serious,E09000032,12
+2022,Crossroads,Serious,E09000033,84
+2022,Mini-roundabout,Serious,E09000003,12
+2022,Mini-roundabout,Serious,E09000004,6
+2022,Mini-roundabout,Serious,E09000005,3
+2022,Mini-roundabout,Serious,E09000008,6
+2022,Mini-roundabout,Serious,E09000009,3
+2022,Mini-roundabout,Serious,E09000013,6
+2022,Mini-roundabout,Serious,E09000014,6
+2022,Mini-roundabout,Serious,E09000017,6
+2022,Mini-roundabout,Serious,E09000018,6
+2022,Mini-roundabout,Serious,E09000021,6
+2022,Mini-roundabout,Serious,E09000026,6
+2022,Mini-roundabout,Serious,E09000029,12
+2022,More than 4 arms (not roundabout),Serious,E09000004,6
+2022,More than 4 arms (not roundabout),Serious,E09000005,3
+2022,More than 4 arms (not roundabout),Serious,E09000006,6
+2022,More than 4 arms (not roundabout),Serious,E09000007,3
+2022,More than 4 arms (not roundabout),Serious,E09000008,24
+2022,More than 4 arms (not roundabout),Serious,E09000009,3
+2022,More than 4 arms (not roundabout),Serious,E09000010,12
+2022,More than 4 arms (not roundabout),Serious,E09000011,6
+2022,More than 4 arms (not roundabout),Serious,E09000012,6
+2022,More than 4 arms (not roundabout),Serious,E09000013,6
+2022,More than 4 arms (not roundabout),Serious,E09000014,12
+2022,More than 4 arms (not roundabout),Serious,E09000015,6
+2022,More than 4 arms (not roundabout),Serious,E09000017,18
+2022,More than 4 arms (not roundabout),Serious,E09000021,6
+2022,More than 4 arms (not roundabout),Serious,E09000022,48
+2022,More than 4 arms (not roundabout),Serious,E09000023,12
+2022,More than 4 arms (not roundabout),Serious,E09000024,3
+2022,More than 4 arms (not roundabout),Serious,E09000027,6
+2022,More than 4 arms (not roundabout),Serious,E09000028,6
+2022,More than 4 arms (not roundabout),Serious,E09000029,6
+2022,More than 4 arms (not roundabout),Serious,E09000030,12
+2022,More than 4 arms (not roundabout),Serious,E09000033,24
+2022,Not at junction,Serious,E09000001,6
+2022,Not at junction,Serious,E09000002,30
+2022,Not at junction,Serious,E09000003,48
+2022,Not at junction,Serious,E09000004,30
+2022,Not at junction,Serious,E09000005,39
+2022,Not at junction,Serious,E09000006,36
+2022,Not at junction,Serious,E09000007,27
+2022,Not at junction,Serious,E09000008,60
+2022,Not at junction,Serious,E09000009,27
+2022,Not at junction,Serious,E09000010,54
+2022,Not at junction,Serious,E09000011,84
+2022,Not at junction,Serious,E09000012,48
+2022,Not at junction,Serious,E09000013,30
+2022,Not at junction,Serious,E09000014,54
+2022,Not at junction,Serious,E09000015,24
+2022,Not at junction,Serious,E09000016,30
+2022,Not at junction,Serious,E09000017,72
+2022,Not at junction,Serious,E09000018,78
+2022,Not at junction,Serious,E09000019,24
+2022,Not at junction,Serious,E09000020,60
+2022,Not at junction,Serious,E09000021,36
+2022,Not at junction,Serious,E09000022,96
+2022,Not at junction,Serious,E09000023,18
+2022,Not at junction,Serious,E09000024,21
+2022,Not at junction,Serious,E09000025,72
+2022,Not at junction,Serious,E09000026,48
+2022,Not at junction,Serious,E09000027,42
+2022,Not at junction,Serious,E09000028,60
+2022,Not at junction,Serious,E09000029,30
+2022,Not at junction,Serious,E09000030,30
+2022,Not at junction,Serious,E09000031,30
+2022,Not at junction,Serious,E09000032,60
+2022,Not at junction,Serious,E09000033,78
+2022,Other junction,Serious,E09000002,12
+2022,Other junction,Serious,E09000003,30
+2022,Other junction,Serious,E09000004,24
+2022,Other junction,Serious,E09000005,6
+2022,Other junction,Serious,E09000006,6
+2022,Other junction,Serious,E09000007,6
+2022,Other junction,Serious,E09000008,36
+2022,Other junction,Serious,E09000009,3
+2022,Other junction,Serious,E09000010,12
+2022,Other junction,Serious,E09000011,12
+2022,Other junction,Serious,E09000012,24
+2022,Other junction,Serious,E09000013,12
+2022,Other junction,Serious,E09000014,24
+2022,Other junction,Serious,E09000015,6
+2022,Other junction,Serious,E09000017,12
+2022,Other junction,Serious,E09000018,36
+2022,Other junction,Serious,E09000019,9
+2022,Other junction,Serious,E09000021,6
+2022,Other junction,Serious,E09000022,12
+2022,Other junction,Serious,E09000024,9
+2022,Other junction,Serious,E09000025,18
+2022,Other junction,Serious,E09000026,12
+2022,Other junction,Serious,E09000028,42
+2022,Other junction,Serious,E09000029,24
+2022,Other junction,Serious,E09000030,12
+2022,Other junction,Serious,E09000031,12
+2022,Other junction,Serious,E09000032,12
+2022,Other junction,Serious,E09000033,6
+2022,Private drive or entrance,Serious,E09000002,6
+2022,Private drive or entrance,Serious,E09000003,6
+2022,Private drive or entrance,Serious,E09000004,6
+2022,Private drive or entrance,Serious,E09000005,3
+2022,Private drive or entrance,Serious,E09000006,6
+2022,Private drive or entrance,Serious,E09000008,6
+2022,Private drive or entrance,Serious,E09000009,6
+2022,Private drive or entrance,Serious,E09000016,6
+2022,Private drive or entrance,Serious,E09000021,6
+2022,Private drive or entrance,Serious,E09000024,6
+2022,Private drive or entrance,Serious,E09000025,6
+2022,Private drive or entrance,Serious,E09000026,6
+2022,Private drive or entrance,Serious,E09000029,12
+2022,Private drive or entrance,Serious,E09000032,6
+2022,Private drive or entrance,Serious,E09000033,6
+2022,Roundabout,Serious,E09000002,6
+2022,Roundabout,Serious,E09000004,12
+2022,Roundabout,Serious,E09000010,12
+2022,Roundabout,Serious,E09000013,12
+2022,Roundabout,Serious,E09000014,6
+2022,Roundabout,Serious,E09000015,6
+2022,Roundabout,Serious,E09000016,6
+2022,Roundabout,Serious,E09000017,12
+2022,Roundabout,Serious,E09000019,3
+2022,Roundabout,Serious,E09000021,6
+2022,Roundabout,Serious,E09000033,12
+2022,Slip road,Serious,E09000003,18
+2022,Slip road,Serious,E09000005,3
+2022,Slip road,Serious,E09000008,6
+2022,Slip road,Serious,E09000009,3
+2022,Slip road,Serious,E09000011,6
+2022,Slip road,Serious,E09000018,12
+2022,Slip road,Serious,E09000024,3
+2022,Slip road,Serious,E09000032,6
+2022,T or staggered junction,Serious,E09000002,48
+2022,T or staggered junction,Serious,E09000003,126
+2022,T or staggered junction,Serious,E09000004,24
+2022,T or staggered junction,Serious,E09000005,42
+2022,T or staggered junction,Serious,E09000006,48
+2022,T or staggered junction,Serious,E09000007,24
+2022,T or staggered junction,Serious,E09000008,102
+2022,T or staggered junction,Serious,E09000009,42
+2022,T or staggered junction,Serious,E09000010,102
+2022,T or staggered junction,Serious,E09000011,42
+2022,T or staggered junction,Serious,E09000012,144
+2022,T or staggered junction,Serious,E09000013,108
+2022,T or staggered junction,Serious,E09000014,120
+2022,T or staggered junction,Serious,E09000015,42
+2022,T or staggered junction,Serious,E09000016,48
+2022,T or staggered junction,Serious,E09000017,66
+2022,T or staggered junction,Serious,E09000018,96
+2022,T or staggered junction,Serious,E09000019,33
+2022,T or staggered junction,Serious,E09000020,78
+2022,T or staggered junction,Serious,E09000021,24
+2022,T or staggered junction,Serious,E09000022,108
+2022,T or staggered junction,Serious,E09000023,33
+2022,T or staggered junction,Serious,E09000024,27
+2022,T or staggered junction,Serious,E09000025,90
+2022,T or staggered junction,Serious,E09000026,84
+2022,T or staggered junction,Serious,E09000027,30
+2022,T or staggered junction,Serious,E09000028,78
+2022,T or staggered junction,Serious,E09000029,24
+2022,T or staggered junction,Serious,E09000030,96
+2022,T or staggered junction,Serious,E09000031,66
+2022,T or staggered junction,Serious,E09000032,108
+2022,T or staggered junction,Serious,E09000033,156
+2022,Crossroads,Slight,E09000001,6
+2022,Crossroads,Slight,E09000002,42
+2022,Crossroads,Slight,E09000003,60
+2022,Crossroads,Slight,E09000004,6
+2022,Crossroads,Slight,E09000005,24
+2022,Crossroads,Slight,E09000006,42
+2022,Crossroads,Slight,E09000007,54
+2022,Crossroads,Slight,E09000008,54
+2022,Crossroads,Slight,E09000009,33
+2022,Crossroads,Slight,E09000010,66
+2022,Crossroads,Slight,E09000011,42
+2022,Crossroads,Slight,E09000012,72
+2022,Crossroads,Slight,E09000013,24
+2022,Crossroads,Slight,E09000014,48
+2022,Crossroads,Slight,E09000015,30
+2022,Crossroads,Slight,E09000016,6
+2022,Crossroads,Slight,E09000017,48
+2022,Crossroads,Slight,E09000018,66
+2022,Crossroads,Slight,E09000019,18
+2022,Crossroads,Slight,E09000020,78
+2022,Crossroads,Slight,E09000021,12
+2022,Crossroads,Slight,E09000022,144
+2022,Crossroads,Slight,E09000023,21
+2022,Crossroads,Slight,E09000024,6
+2022,Crossroads,Slight,E09000025,66
+2022,Crossroads,Slight,E09000026,60
+2022,Crossroads,Slight,E09000027,18
+2022,Crossroads,Slight,E09000028,66
+2022,Crossroads,Slight,E09000029,12
+2022,Crossroads,Slight,E09000030,96
+2022,Crossroads,Slight,E09000031,36
+2022,Crossroads,Slight,E09000032,48
+2022,Crossroads,Slight,E09000033,210
+2022,Mini-roundabout,Slight,E09000002,18
+2022,Mini-roundabout,Slight,E09000003,18
+2022,Mini-roundabout,Slight,E09000004,12
+2022,Mini-roundabout,Slight,E09000005,6
+2022,Mini-roundabout,Slight,E09000006,12
+2022,Mini-roundabout,Slight,E09000008,12
+2022,Mini-roundabout,Slight,E09000009,9
+2022,Mini-roundabout,Slight,E09000010,6
+2022,Mini-roundabout,Slight,E09000011,6
+2022,Mini-roundabout,Slight,E09000013,12
+2022,Mini-roundabout,Slight,E09000014,18
+2022,Mini-roundabout,Slight,E09000018,12
+2022,Mini-roundabout,Slight,E09000022,6
+2022,Mini-roundabout,Slight,E09000023,3
+2022,Mini-roundabout,Slight,E09000025,12
+2022,Mini-roundabout,Slight,E09000026,18
+2022,Mini-roundabout,Slight,E09000028,12
+2022,Mini-roundabout,Slight,E09000029,6
+2022,Mini-roundabout,Slight,E09000031,12
+2022,Mini-roundabout,Slight,E09000032,18
+2022,More than 4 arms (not roundabout),Slight,E09000002,30
+2022,More than 4 arms (not roundabout),Slight,E09000003,18
+2022,More than 4 arms (not roundabout),Slight,E09000004,18
+2022,More than 4 arms (not roundabout),Slight,E09000005,18
+2022,More than 4 arms (not roundabout),Slight,E09000007,12
+2022,More than 4 arms (not roundabout),Slight,E09000008,36
+2022,More than 4 arms (not roundabout),Slight,E09000009,6
+2022,More than 4 arms (not roundabout),Slight,E09000010,6
+2022,More than 4 arms (not roundabout),Slight,E09000011,18
+2022,More than 4 arms (not roundabout),Slight,E09000012,18
+2022,More than 4 arms (not roundabout),Slight,E09000013,12
+2022,More than 4 arms (not roundabout),Slight,E09000014,24
+2022,More than 4 arms (not roundabout),Slight,E09000016,12
+2022,More than 4 arms (not roundabout),Slight,E09000017,12
+2022,More than 4 arms (not roundabout),Slight,E09000018,12
+2022,More than 4 arms (not roundabout),Slight,E09000019,3
+2022,More than 4 arms (not roundabout),Slight,E09000020,18
+2022,More than 4 arms (not roundabout),Slight,E09000022,36
+2022,More than 4 arms (not roundabout),Slight,E09000023,21
+2022,More than 4 arms (not roundabout),Slight,E09000024,9
+2022,More than 4 arms (not roundabout),Slight,E09000025,24
+2022,More than 4 arms (not roundabout),Slight,E09000027,6
+2022,More than 4 arms (not roundabout),Slight,E09000028,30
+2022,More than 4 arms (not roundabout),Slight,E09000030,6
+2022,More than 4 arms (not roundabout),Slight,E09000031,24
+2022,More than 4 arms (not roundabout),Slight,E09000032,12
+2022,More than 4 arms (not roundabout),Slight,E09000033,30
+2022,Not at junction,Slight,E09000002,138
+2022,Not at junction,Slight,E09000003,132
+2022,Not at junction,Slight,E09000004,96
+2022,Not at junction,Slight,E09000005,120
+2022,Not at junction,Slight,E09000006,90
+2022,Not at junction,Slight,E09000007,87
+2022,Not at junction,Slight,E09000008,252
+2022,Not at junction,Slight,E09000009,84
+2022,Not at junction,Slight,E09000010,180
+2022,Not at junction,Slight,E09000011,162
+2022,Not at junction,Slight,E09000012,138
+2022,Not at junction,Slight,E09000013,84
+2022,Not at junction,Slight,E09000014,174
+2022,Not at junction,Slight,E09000015,72
+2022,Not at junction,Slight,E09000016,144
+2022,Not at junction,Slight,E09000017,186
+2022,Not at junction,Slight,E09000018,150
+2022,Not at junction,Slight,E09000019,24
+2022,Not at junction,Slight,E09000020,84
+2022,Not at junction,Slight,E09000021,72
+2022,Not at junction,Slight,E09000022,162
+2022,Not at junction,Slight,E09000023,36
+2022,Not at junction,Slight,E09000024,30
+2022,Not at junction,Slight,E09000025,162
+2022,Not at junction,Slight,E09000026,108
+2022,Not at junction,Slight,E09000027,72
+2022,Not at junction,Slight,E09000028,216
+2022,Not at junction,Slight,E09000029,96
+2022,Not at junction,Slight,E09000030,156
+2022,Not at junction,Slight,E09000031,126
+2022,Not at junction,Slight,E09000032,150
+2022,Not at junction,Slight,E09000033,210
+2022,Other junction,Slight,E09000002,48
+2022,Other junction,Slight,E09000003,66
+2022,Other junction,Slight,E09000004,36
+2022,Other junction,Slight,E09000005,33
+2022,Other junction,Slight,E09000006,42
+2022,Other junction,Slight,E09000007,18
+2022,Other junction,Slight,E09000008,114
+2022,Other junction,Slight,E09000009,15
+2022,Other junction,Slight,E09000010,66
+2022,Other junction,Slight,E09000011,66
+2022,Other junction,Slight,E09000012,60
+2022,Other junction,Slight,E09000013,18
+2022,Other junction,Slight,E09000014,66
+2022,Other junction,Slight,E09000015,48
+2022,Other junction,Slight,E09000016,24
+2022,Other junction,Slight,E09000017,66
+2022,Other junction,Slight,E09000018,60
+2022,Other junction,Slight,E09000019,18
+2022,Other junction,Slight,E09000020,54
+2022,Other junction,Slight,E09000021,6
+2022,Other junction,Slight,E09000022,30
+2022,Other junction,Slight,E09000023,21
+2022,Other junction,Slight,E09000024,9
+2022,Other junction,Slight,E09000025,72
+2022,Other junction,Slight,E09000026,54
+2022,Other junction,Slight,E09000027,24
+2022,Other junction,Slight,E09000028,42
+2022,Other junction,Slight,E09000029,42
+2022,Other junction,Slight,E09000030,18
+2022,Other junction,Slight,E09000031,72
+2022,Other junction,Slight,E09000032,30
+2022,Other junction,Slight,E09000033,60
+2022,Private drive or entrance,Slight,E09000002,18
+2022,Private drive or entrance,Slight,E09000003,36
+2022,Private drive or entrance,Slight,E09000004,18
+2022,Private drive or entrance,Slight,E09000005,6
+2022,Private drive or entrance,Slight,E09000006,24
+2022,Private drive or entrance,Slight,E09000007,3
+2022,Private drive or entrance,Slight,E09000008,6
+2022,Private drive or entrance,Slight,E09000009,9
+2022,Private drive or entrance,Slight,E09000010,30
+2022,Private drive or entrance,Slight,E09000011,12
+2022,Private drive or entrance,Slight,E09000012,24
+2022,Private drive or entrance,Slight,E09000013,6
+2022,Private drive or entrance,Slight,E09000014,18
+2022,Private drive or entrance,Slight,E09000015,24
+2022,Private drive or entrance,Slight,E09000016,42
+2022,Private drive or entrance,Slight,E09000017,12
+2022,Private drive or entrance,Slight,E09000018,18
+2022,Private drive or entrance,Slight,E09000019,6
+2022,Private drive or entrance,Slight,E09000020,12
+2022,Private drive or entrance,Slight,E09000024,6
+2022,Private drive or entrance,Slight,E09000026,12
+2022,Private drive or entrance,Slight,E09000027,18
+2022,Private drive or entrance,Slight,E09000028,6
+2022,Private drive or entrance,Slight,E09000029,12
+2022,Private drive or entrance,Slight,E09000030,6
+2022,Private drive or entrance,Slight,E09000031,6
+2022,Private drive or entrance,Slight,E09000032,12
+2022,Private drive or entrance,Slight,E09000033,6
+2022,Roundabout,Slight,E09000002,6
+2022,Roundabout,Slight,E09000003,36
+2022,Roundabout,Slight,E09000004,24
+2022,Roundabout,Slight,E09000005,12
+2022,Roundabout,Slight,E09000006,18
+2022,Roundabout,Slight,E09000008,12
+2022,Roundabout,Slight,E09000009,21
+2022,Roundabout,Slight,E09000010,30
+2022,Roundabout,Slight,E09000011,6
+2022,Roundabout,Slight,E09000013,18
+2022,Roundabout,Slight,E09000014,12
+2022,Roundabout,Slight,E09000015,24
+2022,Roundabout,Slight,E09000016,30
+2022,Roundabout,Slight,E09000017,6
+2022,Roundabout,Slight,E09000018,12
+2022,Roundabout,Slight,E09000020,6
+2022,Roundabout,Slight,E09000021,6
+2022,Roundabout,Slight,E09000022,6
+2022,Roundabout,Slight,E09000023,3
+2022,Roundabout,Slight,E09000024,6
+2022,Roundabout,Slight,E09000025,12
+2022,Roundabout,Slight,E09000026,30
+2022,Roundabout,Slight,E09000027,6
+2022,Roundabout,Slight,E09000028,18
+2022,Roundabout,Slight,E09000029,6
+2022,Roundabout,Slight,E09000030,18
+2022,Roundabout,Slight,E09000031,6
+2022,Roundabout,Slight,E09000032,18
+2022,Roundabout,Slight,E09000033,18
+2022,Slip road,Slight,E09000002,6
+2022,Slip road,Slight,E09000003,12
+2022,Slip road,Slight,E09000006,6
+2022,Slip road,Slight,E09000009,3
+2022,Slip road,Slight,E09000010,6
+2022,Slip road,Slight,E09000013,6
+2022,Slip road,Slight,E09000015,30
+2022,Slip road,Slight,E09000016,6
+2022,Slip road,Slight,E09000017,12
+2022,Slip road,Slight,E09000018,18
+2022,Slip road,Slight,E09000021,6
+2022,Slip road,Slight,E09000025,24
+2022,Slip road,Slight,E09000026,6
+2022,Slip road,Slight,E09000029,6
+2022,Slip road,Slight,E09000030,6
+2022,Slip road,Slight,E09000031,6
+2022,Slip road,Slight,E09000032,6
+2022,T or staggered junction,Slight,E09000002,156
+2022,T or staggered junction,Slight,E09000003,240
+2022,T or staggered junction,Slight,E09000004,126
+2022,T or staggered junction,Slight,E09000005,147
+2022,T or staggered junction,Slight,E09000006,210
+2022,T or staggered junction,Slight,E09000007,129
+2022,T or staggered junction,Slight,E09000008,234
+2022,T or staggered junction,Slight,E09000009,141
+2022,T or staggered junction,Slight,E09000010,174
+2022,T or staggered junction,Slight,E09000011,168
+2022,T or staggered junction,Slight,E09000012,204
+2022,T or staggered junction,Slight,E09000013,144
+2022,T or staggered junction,Slight,E09000014,276
+2022,T or staggered junction,Slight,E09000015,126
+2022,T or staggered junction,Slight,E09000016,108
+2022,T or staggered junction,Slight,E09000017,258
+2022,T or staggered junction,Slight,E09000018,156
+2022,T or staggered junction,Slight,E09000019,96
+2022,T or staggered junction,Slight,E09000020,180
+2022,T or staggered junction,Slight,E09000021,72
+2022,T or staggered junction,Slight,E09000022,330
+2022,T or staggered junction,Slight,E09000023,81
+2022,T or staggered junction,Slight,E09000024,36
+2022,T or staggered junction,Slight,E09000025,222
+2022,T or staggered junction,Slight,E09000026,198
+2022,T or staggered junction,Slight,E09000027,42
+2022,T or staggered junction,Slight,E09000028,258
+2022,T or staggered junction,Slight,E09000029,90
+2022,T or staggered junction,Slight,E09000030,264
+2022,T or staggered junction,Slight,E09000031,138
+2022,T or staggered junction,Slight,E09000032,210
+2022,T or staggered junction,Slight,E09000033,342
+2023,Crossroads,Fatal,E09000018,6
+2023,Crossroads,Fatal,E09000022,6
+2023,Crossroads,Fatal,E09000032,6
+2023,Not at junction,Fatal,E09000003,30
+2023,Not at junction,Fatal,E09000004,6
+2023,Not at junction,Fatal,E09000006,6
+2023,Not at junction,Fatal,E09000008,6
+2023,Not at junction,Fatal,E09000009,3
+2023,Not at junction,Fatal,E09000010,12
+2023,Not at junction,Fatal,E09000017,6
+2023,Not at junction,Fatal,E09000020,6
+2023,Not at junction,Fatal,E09000022,6
+2023,Not at junction,Fatal,E09000026,12
+2023,Not at junction,Fatal,E09000032,6
+2023,Other junction,Fatal,E09000022,6
+2023,Other junction,Fatal,E09000033,6
+2023,Slip road,Fatal,E09000021,6
+2023,Slip road,Fatal,E09000030,6
+2023,T or staggered junction,Fatal,E09000007,3
+2023,T or staggered junction,Fatal,E09000008,12
+2023,T or staggered junction,Fatal,E09000009,3
+2023,T or staggered junction,Fatal,E09000010,6
+2023,T or staggered junction,Fatal,E09000016,6
+2023,T or staggered junction,Fatal,E09000018,6
+2023,T or staggered junction,Fatal,E09000019,6
+2023,T or staggered junction,Fatal,E09000026,12
+2023,T or staggered junction,Fatal,E09000027,6
+2023,T or staggered junction,Fatal,E09000029,6
+2023,T or staggered junction,Fatal,E09000031,6
+2023,Crossroads,Serious,E09000002,18
+2023,Crossroads,Serious,E09000003,60
+2023,Crossroads,Serious,E09000004,6
+2023,Crossroads,Serious,E09000005,18
+2023,Crossroads,Serious,E09000006,6
+2023,Crossroads,Serious,E09000007,15
+2023,Crossroads,Serious,E09000008,18
+2023,Crossroads,Serious,E09000009,3
+2023,Crossroads,Serious,E09000010,12
+2023,Crossroads,Serious,E09000011,24
+2023,Crossroads,Serious,E09000012,6
+2023,Crossroads,Serious,E09000013,12
+2023,Crossroads,Serious,E09000014,54
+2023,Crossroads,Serious,E09000015,30
+2023,Crossroads,Serious,E09000017,6
+2023,Crossroads,Serious,E09000018,18
+2023,Crossroads,Serious,E09000019,24
+2023,Crossroads,Serious,E09000020,60
+2023,Crossroads,Serious,E09000022,6
+2023,Crossroads,Serious,E09000024,3
+2023,Crossroads,Serious,E09000025,18
+2023,Crossroads,Serious,E09000026,24
+2023,Crossroads,Serious,E09000028,36
+2023,Crossroads,Serious,E09000029,12
+2023,Crossroads,Serious,E09000030,12
+2023,Crossroads,Serious,E09000031,18
+2023,Crossroads,Serious,E09000032,24
+2023,Crossroads,Serious,E09000033,138
+2023,Mini-roundabout,Serious,E09000003,18
+2023,Mini-roundabout,Serious,E09000008,12
+2023,Mini-roundabout,Serious,E09000009,6
+2023,Mini-roundabout,Serious,E09000010,6
+2023,Mini-roundabout,Serious,E09000013,18
+2023,Mini-roundabout,Serious,E09000017,18
+2023,Mini-roundabout,Serious,E09000022,6
+2023,Mini-roundabout,Serious,E09000023,3
+2023,Mini-roundabout,Serious,E09000025,6
+2023,Mini-roundabout,Serious,E09000030,12
+2023,Mini-roundabout,Serious,E09000032,6
+2023,More than 4 arms (not roundabout),Serious,E09000003,12
+2023,More than 4 arms (not roundabout),Serious,E09000006,6
+2023,More than 4 arms (not roundabout),Serious,E09000008,6
+2023,More than 4 arms (not roundabout),Serious,E09000010,18
+2023,More than 4 arms (not roundabout),Serious,E09000011,6
+2023,More than 4 arms (not roundabout),Serious,E09000012,36
+2023,More than 4 arms (not roundabout),Serious,E09000014,12
+2023,More than 4 arms (not roundabout),Serious,E09000015,6
+2023,More than 4 arms (not roundabout),Serious,E09000016,6
+2023,More than 4 arms (not roundabout),Serious,E09000017,6
+2023,More than 4 arms (not roundabout),Serious,E09000018,18
+2023,More than 4 arms (not roundabout),Serious,E09000019,3
+2023,More than 4 arms (not roundabout),Serious,E09000022,48
+2023,More than 4 arms (not roundabout),Serious,E09000023,3
+2023,More than 4 arms (not roundabout),Serious,E09000024,6
+2023,More than 4 arms (not roundabout),Serious,E09000026,18
+2023,More than 4 arms (not roundabout),Serious,E09000027,6
+2023,More than 4 arms (not roundabout),Serious,E09000028,48
+2023,More than 4 arms (not roundabout),Serious,E09000030,6
+2023,More than 4 arms (not roundabout),Serious,E09000031,12
+2023,More than 4 arms (not roundabout),Serious,E09000032,6
+2023,More than 4 arms (not roundabout),Serious,E09000033,24
+2023,Not at junction,Serious,E09000002,42
+2023,Not at junction,Serious,E09000003,90
+2023,Not at junction,Serious,E09000004,42
+2023,Not at junction,Serious,E09000005,27
+2023,Not at junction,Serious,E09000006,60
+2023,Not at junction,Serious,E09000007,24
+2023,Not at junction,Serious,E09000008,108
+2023,Not at junction,Serious,E09000009,21
+2023,Not at junction,Serious,E09000010,48
+2023,Not at junction,Serious,E09000011,54
+2023,Not at junction,Serious,E09000012,42
+2023,Not at junction,Serious,E09000013,42
+2023,Not at junction,Serious,E09000014,60
+2023,Not at junction,Serious,E09000015,12
+2023,Not at junction,Serious,E09000016,18
+2023,Not at junction,Serious,E09000017,90
+2023,Not at junction,Serious,E09000018,114
+2023,Not at junction,Serious,E09000020,54
+2023,Not at junction,Serious,E09000021,24
+2023,Not at junction,Serious,E09000022,54
+2023,Not at junction,Serious,E09000023,27
+2023,Not at junction,Serious,E09000024,15
+2023,Not at junction,Serious,E09000025,66
+2023,Not at junction,Serious,E09000026,66
+2023,Not at junction,Serious,E09000027,30
+2023,Not at junction,Serious,E09000028,60
+2023,Not at junction,Serious,E09000029,36
+2023,Not at junction,Serious,E09000030,78
+2023,Not at junction,Serious,E09000031,24
+2023,Not at junction,Serious,E09000032,48
+2023,Not at junction,Serious,E09000033,84
+2023,Other junction,Serious,E09000002,6
+2023,Other junction,Serious,E09000003,12
+2023,Other junction,Serious,E09000004,6
+2023,Other junction,Serious,E09000005,6
+2023,Other junction,Serious,E09000006,24
+2023,Other junction,Serious,E09000007,18
+2023,Other junction,Serious,E09000008,36
+2023,Other junction,Serious,E09000009,3
+2023,Other junction,Serious,E09000011,18
+2023,Other junction,Serious,E09000012,18
+2023,Other junction,Serious,E09000013,18
+2023,Other junction,Serious,E09000015,6
+2023,Other junction,Serious,E09000017,12
+2023,Other junction,Serious,E09000019,3
+2023,Other junction,Serious,E09000021,6
+2023,Other junction,Serious,E09000022,24
+2023,Other junction,Serious,E09000023,6
+2023,Other junction,Serious,E09000024,6
+2023,Other junction,Serious,E09000025,12
+2023,Other junction,Serious,E09000026,54
+2023,Other junction,Serious,E09000028,30
+2023,Other junction,Serious,E09000031,18
+2023,Other junction,Serious,E09000032,18
+2023,Other junction,Serious,E09000033,24
+2023,Private drive or entrance,Serious,E09000003,12
+2023,Private drive or entrance,Serious,E09000004,12
+2023,Private drive or entrance,Serious,E09000005,3
+2023,Private drive or entrance,Serious,E09000009,6
+2023,Private drive or entrance,Serious,E09000010,6
+2023,Private drive or entrance,Serious,E09000012,6
+2023,Private drive or entrance,Serious,E09000015,6
+2023,Private drive or entrance,Serious,E09000016,6
+2023,Private drive or entrance,Serious,E09000017,12
+2023,Private drive or entrance,Serious,E09000018,12
+2023,Private drive or entrance,Serious,E09000021,18
+2023,Private drive or entrance,Serious,E09000023,3
+2023,Private drive or entrance,Serious,E09000026,6
+2023,Private drive or entrance,Serious,E09000028,6
+2023,Private drive or entrance,Serious,E09000029,12
+2023,Private drive or entrance,Serious,E09000031,6
+2023,Private drive or entrance,Serious,E09000032,6
+2023,Private drive or entrance,Serious,E09000033,6
+2023,Roundabout,Serious,E09000002,24
+2023,Roundabout,Serious,E09000003,12
+2023,Roundabout,Serious,E09000004,6
+2023,Roundabout,Serious,E09000005,3
+2023,Roundabout,Serious,E09000008,12
+2023,Roundabout,Serious,E09000009,3
+2023,Roundabout,Serious,E09000010,6
+2023,Roundabout,Serious,E09000013,6
+2023,Roundabout,Serious,E09000015,18
+2023,Roundabout,Serious,E09000017,12
+2023,Roundabout,Serious,E09000018,6
+2023,Roundabout,Serious,E09000021,6
+2023,Roundabout,Serious,E09000023,3
+2023,Roundabout,Serious,E09000025,6
+2023,Roundabout,Serious,E09000026,18
+2023,Roundabout,Serious,E09000027,6
+2023,Roundabout,Serious,E09000028,12
+2023,Roundabout,Serious,E09000033,6
+2023,Slip road,Serious,E09000004,6
+2023,Slip road,Serious,E09000005,3
+2023,Slip road,Serious,E09000006,6
+2023,Slip road,Serious,E09000008,12
+2023,Slip road,Serious,E09000009,3
+2023,Slip road,Serious,E09000018,6
+2023,Slip road,Serious,E09000021,6
+2023,Slip road,Serious,E09000022,6
+2023,Slip road,Serious,E09000026,6
+2023,Slip road,Serious,E09000029,6
+2023,Slip road,Serious,E09000032,18
+2023,T or staggered junction,Serious,E09000002,36
+2023,T or staggered junction,Serious,E09000003,102
+2023,T or staggered junction,Serious,E09000004,54
+2023,T or staggered junction,Serious,E09000005,36
+2023,T or staggered junction,Serious,E09000006,42
+2023,T or staggered junction,Serious,E09000007,30
+2023,T or staggered junction,Serious,E09000008,84
+2023,T or staggered junction,Serious,E09000009,54
+2023,T or staggered junction,Serious,E09000010,60
+2023,T or staggered junction,Serious,E09000011,96
+2023,T or staggered junction,Serious,E09000012,102
+2023,T or staggered junction,Serious,E09000013,66
+2023,T or staggered junction,Serious,E09000014,96
+2023,T or staggered junction,Serious,E09000015,48
+2023,T or staggered junction,Serious,E09000016,24
+2023,T or staggered junction,Serious,E09000017,78
+2023,T or staggered junction,Serious,E09000018,90
+2023,T or staggered junction,Serious,E09000019,27
+2023,T or staggered junction,Serious,E09000020,96
+2023,T or staggered junction,Serious,E09000021,24
+2023,T or staggered junction,Serious,E09000022,102
+2023,T or staggered junction,Serious,E09000023,24
+2023,T or staggered junction,Serious,E09000024,24
+2023,T or staggered junction,Serious,E09000025,72
+2023,T or staggered junction,Serious,E09000026,90
+2023,T or staggered junction,Serious,E09000027,30
+2023,T or staggered junction,Serious,E09000028,120
+2023,T or staggered junction,Serious,E09000029,18
+2023,T or staggered junction,Serious,E09000030,120
+2023,T or staggered junction,Serious,E09000031,60
+2023,T or staggered junction,Serious,E09000032,72
+2023,T or staggered junction,Serious,E09000033,204
+2023,Crossroads,Slight,E09000002,36
+2023,Crossroads,Slight,E09000003,42
+2023,Crossroads,Slight,E09000004,18
+2023,Crossroads,Slight,E09000005,24
+2023,Crossroads,Slight,E09000006,24
+2023,Crossroads,Slight,E09000007,69
+2023,Crossroads,Slight,E09000008,36
+2023,Crossroads,Slight,E09000009,9
+2023,Crossroads,Slight,E09000010,66
+2023,Crossroads,Slight,E09000011,24
+2023,Crossroads,Slight,E09000012,42
+2023,Crossroads,Slight,E09000013,30
+2023,Crossroads,Slight,E09000014,60
+2023,Crossroads,Slight,E09000015,6
+2023,Crossroads,Slight,E09000017,30
+2023,Crossroads,Slight,E09000018,36
+2023,Crossroads,Slight,E09000019,30
+2023,Crossroads,Slight,E09000020,72
+2023,Crossroads,Slight,E09000022,108
+2023,Crossroads,Slight,E09000023,27
+2023,Crossroads,Slight,E09000024,15
+2023,Crossroads,Slight,E09000025,72
+2023,Crossroads,Slight,E09000026,36
+2023,Crossroads,Slight,E09000027,6
+2023,Crossroads,Slight,E09000028,102
+2023,Crossroads,Slight,E09000029,12
+2023,Crossroads,Slight,E09000030,138
+2023,Crossroads,Slight,E09000031,42
+2023,Crossroads,Slight,E09000032,66
+2023,Crossroads,Slight,E09000033,276
+2023,Mini-roundabout,Slight,E09000002,12
+2023,Mini-roundabout,Slight,E09000003,6
+2023,Mini-roundabout,Slight,E09000005,9
+2023,Mini-roundabout,Slight,E09000006,12
+2023,Mini-roundabout,Slight,E09000008,12
+2023,Mini-roundabout,Slight,E09000009,6
+2023,Mini-roundabout,Slight,E09000010,18
+2023,Mini-roundabout,Slight,E09000013,12
+2023,Mini-roundabout,Slight,E09000015,12
+2023,Mini-roundabout,Slight,E09000016,6
+2023,Mini-roundabout,Slight,E09000017,12
+2023,Mini-roundabout,Slight,E09000018,30
+2023,Mini-roundabout,Slight,E09000021,6
+2023,Mini-roundabout,Slight,E09000022,6
+2023,Mini-roundabout,Slight,E09000023,6
+2023,Mini-roundabout,Slight,E09000025,6
+2023,Mini-roundabout,Slight,E09000026,18
+2023,Mini-roundabout,Slight,E09000030,12
+2023,Mini-roundabout,Slight,E09000031,6
+2023,Mini-roundabout,Slight,E09000032,18
+2023,Mini-roundabout,Slight,E09000033,6
+2023,More than 4 arms (not roundabout),Slight,E09000002,12
+2023,More than 4 arms (not roundabout),Slight,E09000005,12
+2023,More than 4 arms (not roundabout),Slight,E09000006,6
+2023,More than 4 arms (not roundabout),Slight,E09000007,12
+2023,More than 4 arms (not roundabout),Slight,E09000008,24
+2023,More than 4 arms (not roundabout),Slight,E09000010,6
+2023,More than 4 arms (not roundabout),Slight,E09000011,12
+2023,More than 4 arms (not roundabout),Slight,E09000012,24
+2023,More than 4 arms (not roundabout),Slight,E09000013,6
+2023,More than 4 arms (not roundabout),Slight,E09000014,18
+2023,More than 4 arms (not roundabout),Slight,E09000015,30
+2023,More than 4 arms (not roundabout),Slight,E09000016,6
+2023,More than 4 arms (not roundabout),Slight,E09000017,36
+2023,More than 4 arms (not roundabout),Slight,E09000018,18
+2023,More than 4 arms (not roundabout),Slight,E09000019,12
+2023,More than 4 arms (not roundabout),Slight,E09000020,12
+2023,More than 4 arms (not roundabout),Slight,E09000022,48
+2023,More than 4 arms (not roundabout),Slight,E09000023,9
+2023,More than 4 arms (not roundabout),Slight,E09000024,12
+2023,More than 4 arms (not roundabout),Slight,E09000025,30
+2023,More than 4 arms (not roundabout),Slight,E09000026,6
+2023,More than 4 arms (not roundabout),Slight,E09000028,6
+2023,More than 4 arms (not roundabout),Slight,E09000029,6
+2023,More than 4 arms (not roundabout),Slight,E09000030,12
+2023,More than 4 arms (not roundabout),Slight,E09000031,12
+2023,More than 4 arms (not roundabout),Slight,E09000032,30
+2023,More than 4 arms (not roundabout),Slight,E09000033,48
+2023,Not at junction,Slight,E09000002,138
+2023,Not at junction,Slight,E09000003,96
+2023,Not at junction,Slight,E09000004,174
+2023,Not at junction,Slight,E09000005,81
+2023,Not at junction,Slight,E09000006,138
+2023,Not at junction,Slight,E09000007,81
+2023,Not at junction,Slight,E09000008,288
+2023,Not at junction,Slight,E09000009,75
+2023,Not at junction,Slight,E09000010,144
+2023,Not at junction,Slight,E09000011,108
+2023,Not at junction,Slight,E09000012,114
+2023,Not at junction,Slight,E09000013,36
+2023,Not at junction,Slight,E09000014,114
+2023,Not at junction,Slight,E09000015,96
+2023,Not at junction,Slight,E09000016,120
+2023,Not at junction,Slight,E09000017,84
+2023,Not at junction,Slight,E09000018,120
+2023,Not at junction,Slight,E09000019,30
+2023,Not at junction,Slight,E09000020,84
+2023,Not at junction,Slight,E09000021,42
+2023,Not at junction,Slight,E09000022,192
+2023,Not at junction,Slight,E09000023,51
+2023,Not at junction,Slight,E09000024,36
+2023,Not at junction,Slight,E09000025,252
+2023,Not at junction,Slight,E09000026,78
+2023,Not at junction,Slight,E09000027,96
+2023,Not at junction,Slight,E09000028,150
+2023,Not at junction,Slight,E09000029,102
+2023,Not at junction,Slight,E09000030,162
+2023,Not at junction,Slight,E09000031,96
+2023,Not at junction,Slight,E09000032,78
+2023,Not at junction,Slight,E09000033,156
+2023,Other junction,Slight,E09000002,48
+2023,Other junction,Slight,E09000003,84
+2023,Other junction,Slight,E09000004,24
+2023,Other junction,Slight,E09000005,48
+2023,Other junction,Slight,E09000006,72
+2023,Other junction,Slight,E09000007,63
+2023,Other junction,Slight,E09000008,90
+2023,Other junction,Slight,E09000009,39
+2023,Other junction,Slight,E09000010,66
+2023,Other junction,Slight,E09000011,72
+2023,Other junction,Slight,E09000012,30
+2023,Other junction,Slight,E09000013,72
+2023,Other junction,Slight,E09000014,96
+2023,Other junction,Slight,E09000015,36
+2023,Other junction,Slight,E09000016,12
+2023,Other junction,Slight,E09000017,60
+2023,Other junction,Slight,E09000018,30
+2023,Other junction,Slight,E09000019,18
+2023,Other junction,Slight,E09000020,12
+2023,Other junction,Slight,E09000021,12
+2023,Other junction,Slight,E09000022,84
+2023,Other junction,Slight,E09000023,54
+2023,Other junction,Slight,E09000024,27
+2023,Other junction,Slight,E09000025,162
+2023,Other junction,Slight,E09000026,36
+2023,Other junction,Slight,E09000027,36
+2023,Other junction,Slight,E09000028,78
+2023,Other junction,Slight,E09000029,12
+2023,Other junction,Slight,E09000030,60
+2023,Other junction,Slight,E09000031,24
+2023,Other junction,Slight,E09000032,72
+2023,Other junction,Slight,E09000033,42
+2023,Private drive or entrance,Slight,E09000002,12
+2023,Private drive or entrance,Slight,E09000003,30
+2023,Private drive or entrance,Slight,E09000004,12
+2023,Private drive or entrance,Slight,E09000005,6
+2023,Private drive or entrance,Slight,E09000006,6
+2023,Private drive or entrance,Slight,E09000009,6
+2023,Private drive or entrance,Slight,E09000010,18
+2023,Private drive or entrance,Slight,E09000011,18
+2023,Private drive or entrance,Slight,E09000012,18
+2023,Private drive or entrance,Slight,E09000014,12
+2023,Private drive or entrance,Slight,E09000015,6
+2023,Private drive or entrance,Slight,E09000016,18
+2023,Private drive or entrance,Slight,E09000017,6
+2023,Private drive or entrance,Slight,E09000018,6
+2023,Private drive or entrance,Slight,E09000019,9
+2023,Private drive or entrance,Slight,E09000020,6
+2023,Private drive or entrance,Slight,E09000021,12
+2023,Private drive or entrance,Slight,E09000022,18
+2023,Private drive or entrance,Slight,E09000023,9
+2023,Private drive or entrance,Slight,E09000024,6
+2023,Private drive or entrance,Slight,E09000025,12
+2023,Private drive or entrance,Slight,E09000026,12
+2023,Private drive or entrance,Slight,E09000027,6
+2023,Private drive or entrance,Slight,E09000028,12
+2023,Private drive or entrance,Slight,E09000030,6
+2023,Private drive or entrance,Slight,E09000031,6
+2023,Private drive or entrance,Slight,E09000032,6
+2023,Private drive or entrance,Slight,E09000033,6
+2023,Roundabout,Slight,E09000003,12
+2023,Roundabout,Slight,E09000004,24
+2023,Roundabout,Slight,E09000005,15
+2023,Roundabout,Slight,E09000006,24
+2023,Roundabout,Slight,E09000008,24
+2023,Roundabout,Slight,E09000009,3
+2023,Roundabout,Slight,E09000010,54
+2023,Roundabout,Slight,E09000011,6
+2023,Roundabout,Slight,E09000012,6
+2023,Roundabout,Slight,E09000013,18
+2023,Roundabout,Slight,E09000014,6
+2023,Roundabout,Slight,E09000015,6
+2023,Roundabout,Slight,E09000016,6
+2023,Roundabout,Slight,E09000017,18
+2023,Roundabout,Slight,E09000018,24
+2023,Roundabout,Slight,E09000019,3
+2023,Roundabout,Slight,E09000020,12
+2023,Roundabout,Slight,E09000023,6
+2023,Roundabout,Slight,E09000026,24
+2023,Roundabout,Slight,E09000027,6
+2023,Roundabout,Slight,E09000030,6
+2023,Roundabout,Slight,E09000032,6
+2023,Roundabout,Slight,E09000033,54
+2023,Slip road,Slight,E09000002,6
+2023,Slip road,Slight,E09000003,6
+2023,Slip road,Slight,E09000005,6
+2023,Slip road,Slight,E09000006,18
+2023,Slip road,Slight,E09000008,24
+2023,Slip road,Slight,E09000009,3
+2023,Slip road,Slight,E09000010,6
+2023,Slip road,Slight,E09000011,6
+2023,Slip road,Slight,E09000012,6
+2023,Slip road,Slight,E09000017,6
+2023,Slip road,Slight,E09000018,18
+2023,Slip road,Slight,E09000019,3
+2023,Slip road,Slight,E09000023,3
+2023,Slip road,Slight,E09000024,3
+2023,Slip road,Slight,E09000025,6
+2023,Slip road,Slight,E09000026,12
+2023,Slip road,Slight,E09000027,6
+2023,Slip road,Slight,E09000030,12
+2023,Slip road,Slight,E09000031,6
+2023,Slip road,Slight,E09000032,12
+2023,Slip road,Slight,E09000033,12
+2023,T or staggered junction,Slight,E09000002,108
+2023,T or staggered junction,Slight,E09000003,180
+2023,T or staggered junction,Slight,E09000004,90
+2023,T or staggered junction,Slight,E09000005,93
+2023,T or staggered junction,Slight,E09000006,126
+2023,T or staggered junction,Slight,E09000007,99
+2023,T or staggered junction,Slight,E09000008,270
+2023,T or staggered junction,Slight,E09000009,102
+2023,T or staggered junction,Slight,E09000010,270
+2023,T or staggered junction,Slight,E09000011,132
+2023,T or staggered junction,Slight,E09000012,264
+2023,T or staggered junction,Slight,E09000013,138
+2023,T or staggered junction,Slight,E09000014,234
+2023,T or staggered junction,Slight,E09000015,156
+2023,T or staggered junction,Slight,E09000016,156
+2023,T or staggered junction,Slight,E09000017,204
+2023,T or staggered junction,Slight,E09000018,126
+2023,T or staggered junction,Slight,E09000019,78
+2023,T or staggered junction,Slight,E09000020,174
+2023,T or staggered junction,Slight,E09000021,60
+2023,T or staggered junction,Slight,E09000022,234
+2023,T or staggered junction,Slight,E09000023,81
+2023,T or staggered junction,Slight,E09000024,48
+2023,T or staggered junction,Slight,E09000025,300
+2023,T or staggered junction,Slight,E09000026,222
+2023,T or staggered junction,Slight,E09000027,84
+2023,T or staggered junction,Slight,E09000028,204
+2023,T or staggered junction,Slight,E09000029,78
+2023,T or staggered junction,Slight,E09000030,210
+2023,T or staggered junction,Slight,E09000031,198
+2023,T or staggered junction,Slight,E09000032,180
+2023,T or staggered junction,Slight,E09000033,492

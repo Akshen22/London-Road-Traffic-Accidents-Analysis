@@ -1,0 +1,3271 @@
+accident_year,speed_limit,road_surface_conditions,weather_conditions,urban_or_rural_area,accident_severity,accident_count
+2019,20,Dry,Fine with high winds,Rural,Fatal,1
+2019,20,Dry,Fine with high winds,Urban,Fatal,1
+2023,20,Dry,Fine with high winds,Rural,Fatal,1
+2023,20,Dry,Fine with high winds,Urban,Fatal,1
+2015,30,Dry,Fine with high winds,Rural,Fatal,1
+2015,30,Dry,Fine with high winds,Urban,Fatal,2
+2016,30,Dry,Fine with high winds,Rural,Fatal,1
+2016,30,Dry,Fine with high winds,Urban,Fatal,1
+2017,30,Dry,Fine with high winds,Rural,Fatal,1
+2017,30,Dry,Fine with high winds,Urban,Fatal,1
+2018,30,Dry,Fine with high winds,Rural,Fatal,1
+2018,30,Dry,Fine with high winds,Urban,Fatal,1
+2021,30,Dry,Fine with high winds,Rural,Fatal,1
+2021,30,Dry,Fine with high winds,Urban,Fatal,1
+2022,30,Dry,Fine with high winds,Rural,Fatal,1
+2022,30,Dry,Fine with high winds,Urban,Fatal,1
+2018,50,Dry,Fine with high winds,Rural,Fatal,1
+2018,50,Dry,Fine with high winds,Urban,Fatal,1
+2014,20,Dry,Fine without high winds,Rural,Fatal,1
+2014,20,Dry,Fine without high winds,Urban,Fatal,1
+2016,20,Dry,Fine without high winds,Rural,Fatal,2
+2016,20,Dry,Fine without high winds,Urban,Fatal,4
+2017,20,Dry,Fine without high winds,Rural,Fatal,7
+2017,20,Dry,Fine without high winds,Urban,Fatal,10
+2018,20,Dry,Fine without high winds,Rural,Fatal,4
+2018,20,Dry,Fine without high winds,Urban,Fatal,8
+2019,20,Dry,Fine without high winds,Rural,Fatal,7
+2019,20,Dry,Fine without high winds,Urban,Fatal,14
+2020,20,Dry,Fine without high winds,Rural,Fatal,9
+2020,20,Dry,Fine without high winds,Urban,Fatal,11
+2021,20,Dry,Fine without high winds,Rural,Fatal,15
+2021,20,Dry,Fine without high winds,Urban,Fatal,20
+2022,20,Dry,Fine without high winds,Rural,Fatal,13
+2022,20,Dry,Fine without high winds,Urban,Fatal,19
+2023,20,Dry,Fine without high winds,Rural,Fatal,15
+2023,20,Dry,Fine without high winds,Urban,Fatal,20
+2014,30,Dry,Fine without high winds,Rural,Fatal,80
+2014,30,Dry,Fine without high winds,Urban,Fatal,90
+2015,30,Dry,Fine without high winds,Rural,Fatal,61
+2015,30,Dry,Fine without high winds,Urban,Fatal,67
+2016,30,Dry,Fine without high winds,Rural,Fatal,48
+2016,30,Dry,Fine without high winds,Urban,Fatal,55
+2017,30,Dry,Fine without high winds,Rural,Fatal,57
+2017,30,Dry,Fine without high winds,Urban,Fatal,76
+2018,30,Dry,Fine without high winds,Rural,Fatal,35
+2018,30,Dry,Fine without high winds,Urban,Fatal,49
+2019,30,Dry,Fine without high winds,Rural,Fatal,45
+2019,30,Dry,Fine without high winds,Urban,Fatal,55
+2020,30,Dry,Fine without high winds,Rural,Fatal,31
+2020,30,Dry,Fine without high winds,Urban,Fatal,41
+2021,30,Dry,Fine without high winds,Rural,Fatal,19
+2021,30,Dry,Fine without high winds,Urban,Fatal,21
+2022,30,Dry,Fine without high winds,Rural,Fatal,34
+2022,30,Dry,Fine without high winds,Urban,Fatal,35
+2023,30,Dry,Fine without high winds,Rural,Fatal,23
+2023,30,Dry,Fine without high winds,Urban,Fatal,23
+2014,40,Dry,Fine without high winds,Rural,Fatal,2
+2014,40,Dry,Fine without high winds,Urban,Fatal,3
+2015,40,Dry,Fine without high winds,Rural,Fatal,9
+2015,40,Dry,Fine without high winds,Urban,Fatal,12
+2016,40,Dry,Fine without high winds,Rural,Fatal,6
+2016,40,Dry,Fine without high winds,Urban,Fatal,6
+2017,40,Dry,Fine without high winds,Rural,Fatal,15
+2017,40,Dry,Fine without high winds,Urban,Fatal,17
+2018,40,Dry,Fine without high winds,Rural,Fatal,11
+2018,40,Dry,Fine without high winds,Urban,Fatal,11
+2019,40,Dry,Fine without high winds,Rural,Fatal,16
+2019,40,Dry,Fine without high winds,Urban,Fatal,16
+2020,40,Dry,Fine without high winds,Rural,Fatal,9
+2020,40,Dry,Fine without high winds,Urban,Fatal,10
+2021,40,Dry,Fine without high winds,Rural,Fatal,5
+2021,40,Dry,Fine without high winds,Urban,Fatal,6
+2022,40,Dry,Fine without high winds,Rural,Fatal,3
+2022,40,Dry,Fine without high winds,Urban,Fatal,3
+2023,40,Dry,Fine without high winds,Rural,Fatal,12
+2023,40,Dry,Fine without high winds,Urban,Fatal,12
+2014,50,Dry,Fine without high winds,Rural,Fatal,5
+2014,50,Dry,Fine without high winds,Urban,Fatal,5
+2015,50,Dry,Fine without high winds,Rural,Fatal,3
+2015,50,Dry,Fine without high winds,Urban,Fatal,4
+2016,50,Dry,Fine without high winds,Rural,Fatal,12
+2016,50,Dry,Fine without high winds,Urban,Fatal,12
+2017,50,Dry,Fine without high winds,Rural,Fatal,1
+2017,50,Dry,Fine without high winds,Urban,Fatal,1
+2018,50,Dry,Fine without high winds,Rural,Fatal,12
+2018,50,Dry,Fine without high winds,Urban,Fatal,13
+2019,50,Dry,Fine without high winds,Rural,Fatal,2
+2019,50,Dry,Fine without high winds,Urban,Fatal,2
+2020,50,Dry,Fine without high winds,Rural,Fatal,7
+2020,50,Dry,Fine without high winds,Urban,Fatal,7
+2021,50,Dry,Fine without high winds,Rural,Fatal,3
+2021,50,Dry,Fine without high winds,Urban,Fatal,3
+2022,50,Dry,Fine without high winds,Rural,Fatal,7
+2022,50,Dry,Fine without high winds,Urban,Fatal,7
+2023,50,Dry,Fine without high winds,Rural,Fatal,14
+2023,50,Dry,Fine without high winds,Urban,Fatal,14
+2014,70,Dry,Fine without high winds,Rural,Fatal,1
+2014,70,Dry,Fine without high winds,Urban,Fatal,1
+2015,70,Dry,Fine without high winds,Rural,Fatal,2
+2015,70,Dry,Fine without high winds,Urban,Fatal,2
+2016,70,Dry,Fine without high winds,Rural,Fatal,3
+2016,70,Dry,Fine without high winds,Urban,Fatal,3
+2017,70,Dry,Fine without high winds,Rural,Fatal,3
+2017,70,Dry,Fine without high winds,Urban,Fatal,3
+2018,70,Dry,Fine without high winds,Rural,Fatal,2
+2018,70,Dry,Fine without high winds,Urban,Fatal,2
+2019,70,Dry,Fine without high winds,Rural,Fatal,5
+2019,70,Dry,Fine without high winds,Urban,Fatal,5
+2020,70,Dry,Fine without high winds,Rural,Fatal,1
+2020,70,Dry,Fine without high winds,Urban,Fatal,1
+2021,70,Dry,Fine without high winds,Rural,Fatal,1
+2021,70,Dry,Fine without high winds,Urban,Fatal,1
+2022,70,Dry,Fine without high winds,Rural,Fatal,4
+2022,70,Dry,Fine without high winds,Urban,Fatal,4
+2023,70,Dry,Fine without high winds,Rural,Fatal,8
+2023,70,Dry,Fine without high winds,Urban,Fatal,8
+2016,30,Dry,Fog or mist - if hazard,Urban,Fatal,1
+2019,30,Dry,Fog or mist - if hazard,Urban,Fatal,2
+2023,20,Dry,Other,Rural,Fatal,1
+2023,20,Dry,Other,Urban,Fatal,1
+2015,30,Dry,Other,Rural,Fatal,1
+2015,30,Dry,Other,Urban,Fatal,1
+2017,30,Dry,Other,Rural,Fatal,3
+2017,30,Dry,Other,Urban,Fatal,4
+2019,30,Dry,Other,Rural,Fatal,2
+2019,30,Dry,Other,Urban,Fatal,2
+2021,30,Dry,Other,Urban,Fatal,1
+2022,30,Dry,Other,Rural,Fatal,1
+2022,30,Dry,Other,Urban,Fatal,1
+2020,20,Dry,Raining with high winds,Urban,Fatal,3
+2020,40,Dry,Raining without high winds,Rural,Fatal,1
+2020,40,Dry,Raining without high winds,Urban,Fatal,1
+2019,20,Dry,Unknown,Urban,Fatal,1
+2020,20,Dry,Unknown,Rural,Fatal,1
+2020,20,Dry,Unknown,Urban,Fatal,2
+2015,30,Dry,Unknown,Rural,Fatal,7
+2015,30,Dry,Unknown,Urban,Fatal,10
+2016,30,Dry,Unknown,Rural,Fatal,5
+2016,30,Dry,Unknown,Urban,Fatal,5
+2017,30,Dry,Unknown,Rural,Fatal,1
+2017,30,Dry,Unknown,Urban,Fatal,1
+2019,30,Dry,Unknown,Rural,Fatal,2
+2019,30,Dry,Unknown,Urban,Fatal,4
+2020,30,Dry,Unknown,Rural,Fatal,1
+2020,30,Dry,Unknown,Urban,Fatal,1
+2021,30,Dry,Unknown,Rural,Fatal,1
+2021,30,Dry,Unknown,Urban,Fatal,1
+2015,40,Dry,Unknown,Rural,Fatal,2
+2015,40,Dry,Unknown,Urban,Fatal,2
+2019,40,Dry,Unknown,Urban,Fatal,1
+2020,20,Frost/Ice,Fine without high winds,Urban,Fatal,1
+2015,30,Frost/Ice,Fine without high winds,Rural,Fatal,2
+2015,30,Frost/Ice,Fine without high winds,Urban,Fatal,2
+2016,30,Frost/Ice,Fine without high winds,Rural,Fatal,1
+2016,30,Frost/Ice,Fine without high winds,Urban,Fatal,1
+2017,30,Frost/Ice,Fine without high winds,Rural,Fatal,3
+2017,30,Frost/Ice,Fine without high winds,Urban,Fatal,3
+2023,20,Frost/Ice,Other,Rural,Fatal,1
+2023,20,Frost/Ice,Other,Urban,Fatal,1
+2015,30,Frost/Ice,Other,Rural,Fatal,1
+2015,30,Frost/Ice,Other,Urban,Fatal,1
+2017,30,Frost/Ice,Unknown,Rural,Fatal,1
+2017,30,Frost/Ice,Unknown,Urban,Fatal,1
+2022,20,Unknown,Unknown,Rural,Fatal,1
+2022,20,Unknown,Unknown,Urban,Fatal,2
+2017,30,Unknown,Unknown,Rural,Fatal,1
+2017,30,Unknown,Unknown,Urban,Fatal,1
+2022,30,Wet/Damp,Fine with high winds,Rural,Fatal,2
+2022,30,Wet/Damp,Fine with high winds,Urban,Fatal,2
+2019,20,Wet/Damp,Fine without high winds,Rural,Fatal,3
+2019,20,Wet/Damp,Fine without high winds,Urban,Fatal,5
+2020,20,Wet/Damp,Fine without high winds,Rural,Fatal,1
+2020,20,Wet/Damp,Fine without high winds,Urban,Fatal,1
+2021,20,Wet/Damp,Fine without high winds,Rural,Fatal,3
+2021,20,Wet/Damp,Fine without high winds,Urban,Fatal,4
+2022,20,Wet/Damp,Fine without high winds,Rural,Fatal,2
+2022,20,Wet/Damp,Fine without high winds,Urban,Fatal,2
+2023,20,Wet/Damp,Fine without high winds,Rural,Fatal,1
+2023,20,Wet/Damp,Fine without high winds,Urban,Fatal,1
+2014,30,Wet/Damp,Fine without high winds,Rural,Fatal,7
+2014,30,Wet/Damp,Fine without high winds,Urban,Fatal,11
+2015,30,Wet/Damp,Fine without high winds,Rural,Fatal,8
+2015,30,Wet/Damp,Fine without high winds,Urban,Fatal,8
+2016,30,Wet/Damp,Fine without high winds,Rural,Fatal,17
+2016,30,Wet/Damp,Fine without high winds,Urban,Fatal,17
+2017,30,Wet/Damp,Fine without high winds,Rural,Fatal,11
+2017,30,Wet/Damp,Fine without high winds,Urban,Fatal,11
+2018,30,Wet/Damp,Fine without high winds,Rural,Fatal,2
+2018,30,Wet/Damp,Fine without high winds,Urban,Fatal,5
+2019,30,Wet/Damp,Fine without high winds,Rural,Fatal,2
+2019,30,Wet/Damp,Fine without high winds,Urban,Fatal,2
+2020,30,Wet/Damp,Fine without high winds,Rural,Fatal,4
+2020,30,Wet/Damp,Fine without high winds,Urban,Fatal,4
+2021,30,Wet/Damp,Fine without high winds,Rural,Fatal,2
+2021,30,Wet/Damp,Fine without high winds,Urban,Fatal,2
+2022,30,Wet/Damp,Fine without high winds,Rural,Fatal,1
+2022,30,Wet/Damp,Fine without high winds,Urban,Fatal,2
+2023,30,Wet/Damp,Fine without high winds,Rural,Fatal,6
+2023,30,Wet/Damp,Fine without high winds,Urban,Fatal,6
+2014,40,Wet/Damp,Fine without high winds,Rural,Fatal,2
+2014,40,Wet/Damp,Fine without high winds,Urban,Fatal,2
+2016,40,Wet/Damp,Fine without high winds,Urban,Fatal,1
+2017,40,Wet/Damp,Fine without high winds,Rural,Fatal,1
+2017,40,Wet/Damp,Fine without high winds,Urban,Fatal,1
+2020,40,Wet/Damp,Fine without high winds,Rural,Fatal,1
+2020,40,Wet/Damp,Fine without high winds,Urban,Fatal,1
+2023,40,Wet/Damp,Fine without high winds,Rural,Fatal,1
+2023,40,Wet/Damp,Fine without high winds,Urban,Fatal,2
+2015,50,Wet/Damp,Fine without high winds,Rural,Fatal,2
+2015,50,Wet/Damp,Fine without high winds,Urban,Fatal,2
+2016,50,Wet/Damp,Fine without high winds,Rural,Fatal,1
+2016,50,Wet/Damp,Fine without high winds,Urban,Fatal,1
+2020,50,Wet/Damp,Fine without high winds,Rural,Fatal,1
+2020,50,Wet/Damp,Fine without high winds,Urban,Fatal,1
+2022,50,Wet/Damp,Fine without high winds,Rural,Fatal,2
+2022,50,Wet/Damp,Fine without high winds,Urban,Fatal,2
+2023,50,Wet/Damp,Fine without high winds,Rural,Fatal,1
+2023,50,Wet/Damp,Fine without high winds,Urban,Fatal,1
+2019,30,Wet/Damp,Fog or mist - if hazard,Rural,Fatal,1
+2019,30,Wet/Damp,Fog or mist - if hazard,Urban,Fatal,1
+2020,50,Wet/Damp,Fog or mist - if hazard,Rural,Fatal,1
+2020,50,Wet/Damp,Fog or mist - if hazard,Urban,Fatal,1
+2022,50,Wet/Damp,Fog or mist - if hazard,Rural,Fatal,1
+2022,50,Wet/Damp,Fog or mist - if hazard,Urban,Fatal,1
+2021,20,Wet/Damp,Other,Rural,Fatal,1
+2021,20,Wet/Damp,Other,Urban,Fatal,1
+2022,20,Wet/Damp,Other,Urban,Fatal,1
+2016,30,Wet/Damp,Other,Rural,Fatal,3
+2016,30,Wet/Damp,Other,Urban,Fatal,4
+2017,30,Wet/Damp,Other,Rural,Fatal,1
+2017,30,Wet/Damp,Other,Urban,Fatal,1
+2018,30,Wet/Damp,Other,Rural,Fatal,1
+2018,30,Wet/Damp,Other,Urban,Fatal,1
+2014,40,Wet/Damp,Other,Urban,Fatal,1
+2015,40,Wet/Damp,Other,Rural,Fatal,2
+2015,40,Wet/Damp,Other,Urban,Fatal,2
+2023,20,Wet/Damp,Raining with high winds,Rural,Fatal,1
+2023,20,Wet/Damp,Raining with high winds,Urban,Fatal,1
+2014,30,Wet/Damp,Raining with high winds,Rural,Fatal,2
+2014,30,Wet/Damp,Raining with high winds,Urban,Fatal,2
+2019,30,Wet/Damp,Raining with high winds,Rural,Fatal,2
+2019,30,Wet/Damp,Raining with high winds,Urban,Fatal,2
+2015,70,Wet/Damp,Raining with high winds,Rural,Fatal,1
+2015,70,Wet/Damp,Raining with high winds,Urban,Fatal,1
+2017,20,Wet/Damp,Raining without high winds,Rural,Fatal,1
+2017,20,Wet/Damp,Raining without high winds,Urban,Fatal,1
+2018,20,Wet/Damp,Raining without high winds,Rural,Fatal,2
+2018,20,Wet/Damp,Raining without high winds,Urban,Fatal,2
+2019,20,Wet/Damp,Raining without high winds,Rural,Fatal,2
+2019,20,Wet/Damp,Raining without high winds,Urban,Fatal,3
+2022,20,Wet/Damp,Raining without high winds,Rural,Fatal,2
+2022,20,Wet/Damp,Raining without high winds,Urban,Fatal,2
+2023,20,Wet/Damp,Raining without high winds,Rural,Fatal,3
+2023,20,Wet/Damp,Raining without high winds,Urban,Fatal,5
+2014,30,Wet/Damp,Raining without high winds,Rural,Fatal,4
+2014,30,Wet/Damp,Raining without high winds,Urban,Fatal,5
+2015,30,Wet/Damp,Raining without high winds,Rural,Fatal,5
+2015,30,Wet/Damp,Raining without high winds,Urban,Fatal,7
+2016,30,Wet/Damp,Raining without high winds,Rural,Fatal,5
+2016,30,Wet/Damp,Raining without high winds,Urban,Fatal,5
+2017,30,Wet/Damp,Raining without high winds,Rural,Fatal,10
+2017,30,Wet/Damp,Raining without high winds,Urban,Fatal,11
+2018,30,Wet/Damp,Raining without high winds,Rural,Fatal,8
+2018,30,Wet/Damp,Raining without high winds,Urban,Fatal,10
+2019,30,Wet/Damp,Raining without high winds,Rural,Fatal,6
+2019,30,Wet/Damp,Raining without high winds,Urban,Fatal,7
+2020,30,Wet/Damp,Raining without high winds,Rural,Fatal,4
+2020,30,Wet/Damp,Raining without high winds,Urban,Fatal,7
+2021,30,Wet/Damp,Raining without high winds,Rural,Fatal,2
+2021,30,Wet/Damp,Raining without high winds,Urban,Fatal,3
+2022,30,Wet/Damp,Raining without high winds,Rural,Fatal,2
+2022,30,Wet/Damp,Raining without high winds,Urban,Fatal,4
+2023,30,Wet/Damp,Raining without high winds,Rural,Fatal,5
+2023,30,Wet/Damp,Raining without high winds,Urban,Fatal,5
+2015,40,Wet/Damp,Raining without high winds,Rural,Fatal,4
+2015,40,Wet/Damp,Raining without high winds,Urban,Fatal,4
+2016,40,Wet/Damp,Raining without high winds,Rural,Fatal,1
+2016,40,Wet/Damp,Raining without high winds,Urban,Fatal,1
+2018,40,Wet/Damp,Raining without high winds,Rural,Fatal,1
+2018,40,Wet/Damp,Raining without high winds,Urban,Fatal,1
+2019,40,Wet/Damp,Raining without high winds,Rural,Fatal,1
+2019,40,Wet/Damp,Raining without high winds,Urban,Fatal,2
+2021,40,Wet/Damp,Raining without high winds,Rural,Fatal,1
+2021,40,Wet/Damp,Raining without high winds,Urban,Fatal,1
+2016,50,Wet/Damp,Raining without high winds,Rural,Fatal,1
+2016,50,Wet/Damp,Raining without high winds,Urban,Fatal,1
+2020,50,Wet/Damp,Raining without high winds,Rural,Fatal,1
+2020,50,Wet/Damp,Raining without high winds,Urban,Fatal,1
+2021,50,Wet/Damp,Raining without high winds,Rural,Fatal,1
+2021,50,Wet/Damp,Raining without high winds,Urban,Fatal,1
+2020,70,Wet/Damp,Raining without high winds,Rural,Fatal,1
+2020,70,Wet/Damp,Raining without high winds,Urban,Fatal,1
+2022,70,Wet/Damp,Raining without high winds,Rural,Fatal,3
+2022,70,Wet/Damp,Raining without high winds,Urban,Fatal,3
+2023,70,Wet/Damp,Raining without high winds,Rural,Fatal,1
+2023,70,Wet/Damp,Raining without high winds,Urban,Fatal,1
+2017,30,Wet/Damp,Snowing without high winds,Rural,Fatal,1
+2017,30,Wet/Damp,Snowing without high winds,Urban,Fatal,1
+2018,30,Wet/Damp,Unknown,Urban,Fatal,1
+2020,30,Wet/Damp,Unknown,Urban,Fatal,1
+2015,20,Dry,Fine with high winds,Rural,Serious,1
+2015,20,Dry,Fine with high winds,Urban,Serious,1
+2016,20,Dry,Fine with high winds,Urban,Serious,1
+2017,20,Dry,Fine with high winds,Rural,Serious,2
+2017,20,Dry,Fine with high winds,Urban,Serious,4
+2018,20,Dry,Fine with high winds,Rural,Serious,9
+2018,20,Dry,Fine with high winds,Urban,Serious,12
+2019,20,Dry,Fine with high winds,Rural,Serious,5
+2019,20,Dry,Fine with high winds,Urban,Serious,8
+2020,20,Dry,Fine with high winds,Rural,Serious,4
+2020,20,Dry,Fine with high winds,Urban,Serious,5
+2021,20,Dry,Fine with high winds,Rural,Serious,8
+2021,20,Dry,Fine with high winds,Urban,Serious,10
+2022,20,Dry,Fine with high winds,Rural,Serious,4
+2022,20,Dry,Fine with high winds,Urban,Serious,10
+2023,20,Dry,Fine with high winds,Rural,Serious,1
+2023,20,Dry,Fine with high winds,Urban,Serious,1
+2014,30,Dry,Fine with high winds,Rural,Serious,6
+2014,30,Dry,Fine with high winds,Urban,Serious,9
+2015,30,Dry,Fine with high winds,Rural,Serious,14
+2015,30,Dry,Fine with high winds,Urban,Serious,16
+2016,30,Dry,Fine with high winds,Rural,Serious,2
+2016,30,Dry,Fine with high winds,Urban,Serious,2
+2017,30,Dry,Fine with high winds,Rural,Serious,11
+2017,30,Dry,Fine with high winds,Urban,Serious,12
+2018,30,Dry,Fine with high winds,Rural,Serious,19
+2018,30,Dry,Fine with high winds,Urban,Serious,22
+2019,30,Dry,Fine with high winds,Rural,Serious,12
+2019,30,Dry,Fine with high winds,Urban,Serious,16
+2020,30,Dry,Fine with high winds,Rural,Serious,8
+2020,30,Dry,Fine with high winds,Urban,Serious,12
+2021,30,Dry,Fine with high winds,Rural,Serious,17
+2021,30,Dry,Fine with high winds,Urban,Serious,19
+2022,30,Dry,Fine with high winds,Rural,Serious,13
+2022,30,Dry,Fine with high winds,Urban,Serious,15
+2023,30,Dry,Fine with high winds,Rural,Serious,8
+2023,30,Dry,Fine with high winds,Urban,Serious,10
+2016,40,Dry,Fine with high winds,Rural,Serious,1
+2016,40,Dry,Fine with high winds,Urban,Serious,1
+2019,40,Dry,Fine with high winds,Rural,Serious,2
+2019,40,Dry,Fine with high winds,Urban,Serious,2
+2020,40,Dry,Fine with high winds,Rural,Serious,1
+2020,40,Dry,Fine with high winds,Urban,Serious,1
+2021,40,Dry,Fine with high winds,Rural,Serious,2
+2021,40,Dry,Fine with high winds,Urban,Serious,2
+2017,50,Dry,Fine with high winds,Rural,Serious,4
+2017,50,Dry,Fine with high winds,Urban,Serious,4
+2019,50,Dry,Fine with high winds,Rural,Serious,1
+2019,50,Dry,Fine with high winds,Urban,Serious,1
+2022,50,Dry,Fine with high winds,Rural,Serious,1
+2022,50,Dry,Fine with high winds,Urban,Serious,1
+2019,70,Dry,Fine with high winds,Rural,Serious,2
+2019,70,Dry,Fine with high winds,Urban,Serious,2
+2020,70,Dry,Fine with high winds,Rural,Serious,2
+2020,70,Dry,Fine with high winds,Urban,Serious,2
+2019,-1,Dry,Fine without high winds,Rural,Serious,1
+2019,-1,Dry,Fine without high winds,Urban,Serious,1
+2020,-1,Dry,Fine without high winds,Urban,Serious,1
+2014,20,Dry,Fine without high winds,Rural,Serious,9
+2014,20,Dry,Fine without high winds,Urban,Serious,15
+2015,20,Dry,Fine without high winds,Rural,Serious,25
+2015,20,Dry,Fine without high winds,Urban,Serious,38
+2016,20,Dry,Fine without high winds,Rural,Serious,115
+2016,20,Dry,Fine without high winds,Urban,Serious,164
+2017,20,Dry,Fine without high winds,Rural,Serious,340
+2017,20,Dry,Fine without high winds,Urban,Serious,498
+2018,20,Dry,Fine without high winds,Rural,Serious,437
+2018,20,Dry,Fine without high winds,Urban,Serious,616
+2019,20,Dry,Fine without high winds,Rural,Serious,493
+2019,20,Dry,Fine without high winds,Urban,Serious,689
+2020,20,Dry,Fine without high winds,Rural,Serious,402
+2020,20,Dry,Fine without high winds,Urban,Serious,561
+2021,20,Dry,Fine without high winds,Rural,Serious,721
+2021,20,Dry,Fine without high winds,Urban,Serious,932
+2022,20,Dry,Fine without high winds,Rural,Serious,853
+2022,20,Dry,Fine without high winds,Urban,Serious,1086
+2023,20,Dry,Fine without high winds,Rural,Serious,919
+2023,20,Dry,Fine without high winds,Urban,Serious,1143
+2014,30,Dry,Fine without high winds,Rural,Serious,998
+2014,30,Dry,Fine without high winds,Urban,Serious,1257
+2015,30,Dry,Fine without high winds,Rural,Serious,944
+2015,30,Dry,Fine without high winds,Urban,Serious,1149
+2016,30,Dry,Fine without high winds,Rural,Serious,1097
+2016,30,Dry,Fine without high winds,Urban,Serious,1350
+2017,30,Dry,Fine without high winds,Rural,Serious,1594
+2017,30,Dry,Fine without high winds,Urban,Serious,1938
+2018,30,Dry,Fine without high winds,Rural,Serious,1539
+2018,30,Dry,Fine without high winds,Urban,Serious,1847
+2019,30,Dry,Fine without high winds,Rural,Serious,1283
+2019,30,Dry,Fine without high winds,Urban,Serious,1577
+2020,30,Dry,Fine without high winds,Rural,Serious,871
+2020,30,Dry,Fine without high winds,Urban,Serious,1023
+2021,30,Dry,Fine without high winds,Rural,Serious,1039
+2021,30,Dry,Fine without high winds,Urban,Serious,1190
+2022,30,Dry,Fine without high winds,Rural,Serious,1049
+2022,30,Dry,Fine without high winds,Urban,Serious,1199
+2023,30,Dry,Fine without high winds,Rural,Serious,829
+2023,30,Dry,Fine without high winds,Urban,Serious,937
+2014,40,Dry,Fine without high winds,Rural,Serious,30
+2014,40,Dry,Fine without high winds,Urban,Serious,39
+2015,40,Dry,Fine without high winds,Rural,Serious,44
+2015,40,Dry,Fine without high winds,Urban,Serious,52
+2016,40,Dry,Fine without high winds,Rural,Serious,72
+2016,40,Dry,Fine without high winds,Urban,Serious,84
+2017,40,Dry,Fine without high winds,Rural,Serious,147
+2017,40,Dry,Fine without high winds,Urban,Serious,155
+2018,40,Dry,Fine without high winds,Rural,Serious,126
+2018,40,Dry,Fine without high winds,Urban,Serious,141
+2019,40,Dry,Fine without high winds,Rural,Serious,110
+2019,40,Dry,Fine without high winds,Urban,Serious,129
+2020,40,Dry,Fine without high winds,Rural,Serious,86
+2020,40,Dry,Fine without high winds,Urban,Serious,102
+2021,40,Dry,Fine without high winds,Rural,Serious,102
+2021,40,Dry,Fine without high winds,Urban,Serious,114
+2022,40,Dry,Fine without high winds,Rural,Serious,121
+2022,40,Dry,Fine without high winds,Urban,Serious,134
+2023,40,Dry,Fine without high winds,Rural,Serious,81
+2023,40,Dry,Fine without high winds,Urban,Serious,89
+2014,50,Dry,Fine without high winds,Rural,Serious,21
+2014,50,Dry,Fine without high winds,Urban,Serious,22
+2015,50,Dry,Fine without high winds,Rural,Serious,31
+2015,50,Dry,Fine without high winds,Urban,Serious,32
+2016,50,Dry,Fine without high winds,Rural,Serious,33
+2016,50,Dry,Fine without high winds,Urban,Serious,35
+2017,50,Dry,Fine without high winds,Rural,Serious,72
+2017,50,Dry,Fine without high winds,Urban,Serious,74
+2018,50,Dry,Fine without high winds,Rural,Serious,87
+2018,50,Dry,Fine without high winds,Urban,Serious,91
+2019,50,Dry,Fine without high winds,Rural,Serious,53
+2019,50,Dry,Fine without high winds,Urban,Serious,61
+2020,50,Dry,Fine without high winds,Rural,Serious,46
+2020,50,Dry,Fine without high winds,Urban,Serious,50
+2021,50,Dry,Fine without high winds,Rural,Serious,62
+2021,50,Dry,Fine without high winds,Urban,Serious,63
+2022,50,Dry,Fine without high winds,Rural,Serious,76
+2022,50,Dry,Fine without high winds,Urban,Serious,76
+2023,50,Dry,Fine without high winds,Rural,Serious,64
+2023,50,Dry,Fine without high winds,Urban,Serious,69
+2015,60,Dry,Fine without high winds,Rural,Serious,1
+2015,60,Dry,Fine without high winds,Urban,Serious,1
+2017,60,Dry,Fine without high winds,Rural,Serious,11
+2017,60,Dry,Fine without high winds,Urban,Serious,11
+2018,60,Dry,Fine without high winds,Rural,Serious,5
+2018,60,Dry,Fine without high winds,Urban,Serious,5
+2019,60,Dry,Fine without high winds,Rural,Serious,11
+2019,60,Dry,Fine without high winds,Urban,Serious,11
+2020,60,Dry,Fine without high winds,Rural,Serious,6
+2020,60,Dry,Fine without high winds,Urban,Serious,7
+2021,60,Dry,Fine without high winds,Rural,Serious,4
+2021,60,Dry,Fine without high winds,Urban,Serious,4
+2022,60,Dry,Fine without high winds,Rural,Serious,5
+2022,60,Dry,Fine without high winds,Urban,Serious,5
+2023,60,Dry,Fine without high winds,Rural,Serious,2
+2023,60,Dry,Fine without high winds,Urban,Serious,2
+2014,70,Dry,Fine without high winds,Rural,Serious,9
+2014,70,Dry,Fine without high winds,Urban,Serious,9
+2015,70,Dry,Fine without high winds,Rural,Serious,6
+2015,70,Dry,Fine without high winds,Urban,Serious,6
+2016,70,Dry,Fine without high winds,Rural,Serious,17
+2016,70,Dry,Fine without high winds,Urban,Serious,17
+2017,70,Dry,Fine without high winds,Rural,Serious,11
+2017,70,Dry,Fine without high winds,Urban,Serious,11
+2018,70,Dry,Fine without high winds,Rural,Serious,31
+2018,70,Dry,Fine without high winds,Urban,Serious,31
+2019,70,Dry,Fine without high winds,Rural,Serious,26
+2019,70,Dry,Fine without high winds,Urban,Serious,26
+2020,70,Dry,Fine without high winds,Rural,Serious,9
+2020,70,Dry,Fine without high winds,Urban,Serious,9
+2021,70,Dry,Fine without high winds,Rural,Serious,11
+2021,70,Dry,Fine without high winds,Urban,Serious,11
+2022,70,Dry,Fine without high winds,Rural,Serious,11
+2022,70,Dry,Fine without high winds,Urban,Serious,11
+2023,70,Dry,Fine without high winds,Rural,Serious,39
+2023,70,Dry,Fine without high winds,Urban,Serious,39
+2018,20,Dry,Fog or mist - if hazard,Urban,Serious,2
+2020,20,Dry,Fog or mist - if hazard,Rural,Serious,1
+2020,20,Dry,Fog or mist - if hazard,Urban,Serious,1
+2022,20,Dry,Fog or mist - if hazard,Rural,Serious,1
+2022,20,Dry,Fog or mist - if hazard,Urban,Serious,1
+2016,30,Dry,Fog or mist - if hazard,Rural,Serious,2
+2016,30,Dry,Fog or mist - if hazard,Urban,Serious,2
+2019,30,Dry,Fog or mist - if hazard,Rural,Serious,3
+2019,30,Dry,Fog or mist - if hazard,Urban,Serious,3
+2020,30,Dry,Fog or mist - if hazard,Rural,Serious,3
+2020,30,Dry,Fog or mist - if hazard,Urban,Serious,3
+2021,30,Dry,Fog or mist - if hazard,Rural,Serious,1
+2021,30,Dry,Fog or mist - if hazard,Urban,Serious,1
+2020,50,Dry,Fog or mist - if hazard,Rural,Serious,1
+2020,50,Dry,Fog or mist - if hazard,Urban,Serious,1
+2016,20,Dry,Other,Rural,Serious,1
+2016,20,Dry,Other,Urban,Serious,2
+2017,20,Dry,Other,Rural,Serious,1
+2017,20,Dry,Other,Urban,Serious,2
+2018,20,Dry,Other,Rural,Serious,7
+2018,20,Dry,Other,Urban,Serious,13
+2019,20,Dry,Other,Rural,Serious,20
+2019,20,Dry,Other,Urban,Serious,23
+2020,20,Dry,Other,Rural,Serious,17
+2020,20,Dry,Other,Urban,Serious,20
+2021,20,Dry,Other,Rural,Serious,33
+2021,20,Dry,Other,Urban,Serious,41
+2022,20,Dry,Other,Rural,Serious,30
+2022,20,Dry,Other,Urban,Serious,40
+2023,20,Dry,Other,Rural,Serious,32
+2023,20,Dry,Other,Urban,Serious,37
+2014,30,Dry,Other,Rural,Serious,2
+2014,30,Dry,Other,Urban,Serious,7
+2015,30,Dry,Other,Rural,Serious,3
+2015,30,Dry,Other,Urban,Serious,5
+2016,30,Dry,Other,Rural,Serious,9
+2016,30,Dry,Other,Urban,Serious,11
+2017,30,Dry,Other,Rural,Serious,26
+2017,30,Dry,Other,Urban,Serious,36
+2018,30,Dry,Other,Rural,Serious,28
+2018,30,Dry,Other,Urban,Serious,35
+2019,30,Dry,Other,Rural,Serious,32
+2019,30,Dry,Other,Urban,Serious,35
+2020,30,Dry,Other,Rural,Serious,28
+2020,30,Dry,Other,Urban,Serious,30
+2021,30,Dry,Other,Rural,Serious,22
+2021,30,Dry,Other,Urban,Serious,24
+2022,30,Dry,Other,Rural,Serious,43
+2022,30,Dry,Other,Urban,Serious,44
+2023,30,Dry,Other,Rural,Serious,30
+2023,30,Dry,Other,Urban,Serious,33
+2015,40,Dry,Other,Urban,Serious,1
+2019,40,Dry,Other,Rural,Serious,1
+2019,40,Dry,Other,Urban,Serious,1
+2020,40,Dry,Other,Rural,Serious,7
+2020,40,Dry,Other,Urban,Serious,7
+2021,40,Dry,Other,Rural,Serious,5
+2021,40,Dry,Other,Urban,Serious,5
+2022,40,Dry,Other,Rural,Serious,2
+2022,40,Dry,Other,Urban,Serious,2
+2023,40,Dry,Other,Rural,Serious,2
+2023,40,Dry,Other,Urban,Serious,2
+2017,50,Dry,Other,Rural,Serious,1
+2017,50,Dry,Other,Urban,Serious,1
+2018,50,Dry,Other,Rural,Serious,1
+2018,50,Dry,Other,Urban,Serious,1
+2019,50,Dry,Other,Rural,Serious,1
+2019,50,Dry,Other,Urban,Serious,1
+2022,50,Dry,Other,Rural,Serious,1
+2022,50,Dry,Other,Urban,Serious,1
+2023,50,Dry,Other,Rural,Serious,1
+2023,50,Dry,Other,Urban,Serious,1
+2023,20,Dry,Raining with high winds,Rural,Serious,1
+2023,20,Dry,Raining with high winds,Urban,Serious,1
+2020,-1,Dry,Raining without high winds,Rural,Serious,1
+2020,-1,Dry,Raining without high winds,Urban,Serious,1
+2018,20,Dry,Raining without high winds,Rural,Serious,5
+2018,20,Dry,Raining without high winds,Urban,Serious,6
+2019,20,Dry,Raining without high winds,Rural,Serious,3
+2019,20,Dry,Raining without high winds,Urban,Serious,4
+2021,20,Dry,Raining without high winds,Rural,Serious,7
+2021,20,Dry,Raining without high winds,Urban,Serious,8
+2022,20,Dry,Raining without high winds,Rural,Serious,6
+2022,20,Dry,Raining without high winds,Urban,Serious,9
+2023,20,Dry,Raining without high winds,Rural,Serious,6
+2023,20,Dry,Raining without high winds,Urban,Serious,9
+2017,30,Dry,Raining without high winds,Rural,Serious,6
+2017,30,Dry,Raining without high winds,Urban,Serious,6
+2018,30,Dry,Raining without high winds,Rural,Serious,11
+2018,30,Dry,Raining without high winds,Urban,Serious,13
+2019,30,Dry,Raining without high winds,Rural,Serious,7
+2019,30,Dry,Raining without high winds,Urban,Serious,8
+2020,30,Dry,Raining without high winds,Rural,Serious,9
+2020,30,Dry,Raining without high winds,Urban,Serious,10
+2021,30,Dry,Raining without high winds,Rural,Serious,4
+2021,30,Dry,Raining without high winds,Urban,Serious,8
+2022,30,Dry,Raining without high winds,Rural,Serious,11
+2022,30,Dry,Raining without high winds,Urban,Serious,11
+2023,30,Dry,Raining without high winds,Rural,Serious,8
+2023,30,Dry,Raining without high winds,Urban,Serious,8
+2023,40,Dry,Raining without high winds,Rural,Serious,1
+2023,40,Dry,Raining without high winds,Urban,Serious,1
+2020,50,Dry,Raining without high winds,Rural,Serious,7
+2020,50,Dry,Raining without high winds,Urban,Serious,7
+2022,50,Dry,Raining without high winds,Rural,Serious,2
+2022,50,Dry,Raining without high winds,Urban,Serious,2
+2018,60,Dry,Raining without high winds,Rural,Serious,1
+2018,60,Dry,Raining without high winds,Urban,Serious,1
+2023,30,Dry,Snowing with high winds,Rural,Serious,1
+2023,30,Dry,Snowing with high winds,Urban,Serious,1
+2017,30,Dry,Snowing without high winds,Rural,Serious,1
+2017,30,Dry,Snowing without high winds,Urban,Serious,1
+2018,30,Dry,Snowing without high winds,Rural,Serious,2
+2018,30,Dry,Snowing without high winds,Urban,Serious,2
+2021,30,Dry,Snowing without high winds,Rural,Serious,1
+2021,30,Dry,Snowing without high winds,Urban,Serious,1
+2019,-1,Dry,Unknown,Rural,Serious,1
+2019,-1,Dry,Unknown,Urban,Serious,1
+2016,20,Dry,Unknown,Rural,Serious,2
+2016,20,Dry,Unknown,Urban,Serious,3
+2017,20,Dry,Unknown,Rural,Serious,9
+2017,20,Dry,Unknown,Urban,Serious,9
+2018,20,Dry,Unknown,Rural,Serious,2
+2018,20,Dry,Unknown,Urban,Serious,5
+2019,20,Dry,Unknown,Rural,Serious,8
+2019,20,Dry,Unknown,Urban,Serious,9
+2020,20,Dry,Unknown,Rural,Serious,5
+2020,20,Dry,Unknown,Urban,Serious,6
+2021,20,Dry,Unknown,Rural,Serious,12
+2021,20,Dry,Unknown,Urban,Serious,14
+2022,20,Dry,Unknown,Rural,Serious,14
+2022,20,Dry,Unknown,Urban,Serious,18
+2023,20,Dry,Unknown,Rural,Serious,22
+2023,20,Dry,Unknown,Urban,Serious,24
+2014,30,Dry,Unknown,Rural,Serious,19
+2014,30,Dry,Unknown,Urban,Serious,36
+2015,30,Dry,Unknown,Rural,Serious,17
+2015,30,Dry,Unknown,Urban,Serious,28
+2016,30,Dry,Unknown,Rural,Serious,40
+2016,30,Dry,Unknown,Urban,Serious,50
+2017,30,Dry,Unknown,Rural,Serious,33
+2017,30,Dry,Unknown,Urban,Serious,40
+2018,30,Dry,Unknown,Rural,Serious,19
+2018,30,Dry,Unknown,Urban,Serious,22
+2019,30,Dry,Unknown,Rural,Serious,11
+2019,30,Dry,Unknown,Urban,Serious,18
+2020,30,Dry,Unknown,Rural,Serious,14
+2020,30,Dry,Unknown,Urban,Serious,16
+2021,30,Dry,Unknown,Rural,Serious,24
+2021,30,Dry,Unknown,Urban,Serious,27
+2022,30,Dry,Unknown,Rural,Serious,20
+2022,30,Dry,Unknown,Urban,Serious,23
+2023,30,Dry,Unknown,Rural,Serious,19
+2023,30,Dry,Unknown,Urban,Serious,26
+2016,40,Dry,Unknown,Rural,Serious,6
+2016,40,Dry,Unknown,Urban,Serious,6
+2018,40,Dry,Unknown,Rural,Serious,1
+2018,40,Dry,Unknown,Urban,Serious,1
+2019,40,Dry,Unknown,Rural,Serious,1
+2019,40,Dry,Unknown,Urban,Serious,1
+2020,40,Dry,Unknown,Rural,Serious,4
+2020,40,Dry,Unknown,Urban,Serious,4
+2023,40,Dry,Unknown,Rural,Serious,1
+2023,40,Dry,Unknown,Urban,Serious,1
+2015,50,Dry,Unknown,Urban,Serious,1
+2016,50,Dry,Unknown,Rural,Serious,3
+2016,50,Dry,Unknown,Urban,Serious,3
+2017,60,Dry,Unknown,Rural,Serious,1
+2017,60,Dry,Unknown,Urban,Serious,1
+2018,30,Flood,Fine without high winds,Rural,Serious,1
+2018,30,Flood,Fine without high winds,Urban,Serious,1
+2023,40,Flood,Fine without high winds,Rural,Serious,3
+2023,40,Flood,Fine without high winds,Urban,Serious,3
+2014,30,Flood,Raining with high winds,Rural,Serious,1
+2014,30,Flood,Raining with high winds,Urban,Serious,1
+2014,50,Flood,Raining with high winds,Rural,Serious,1
+2014,50,Flood,Raining with high winds,Urban,Serious,1
+2023,50,Flood,Raining without high winds,Rural,Serious,1
+2023,50,Flood,Raining without high winds,Urban,Serious,1
+2017,30,Flood,Unknown,Rural,Serious,1
+2017,30,Flood,Unknown,Urban,Serious,1
+2022,30,Flood,Unknown,Rural,Serious,1
+2022,30,Flood,Unknown,Urban,Serious,1
+2017,30,Frost/Ice,Fine with high winds,Rural,Serious,2
+2017,30,Frost/Ice,Fine with high winds,Urban,Serious,2
+2016,20,Frost/Ice,Fine without high winds,Rural,Serious,1
+2016,20,Frost/Ice,Fine without high winds,Urban,Serious,1
+2017,20,Frost/Ice,Fine without high winds,Rural,Serious,1
+2017,20,Frost/Ice,Fine without high winds,Urban,Serious,1
+2019,20,Frost/Ice,Fine without high winds,Rural,Serious,2
+2019,20,Frost/Ice,Fine without high winds,Urban,Serious,3
+2020,20,Frost/Ice,Fine without high winds,Rural,Serious,2
+2020,20,Frost/Ice,Fine without high winds,Urban,Serious,3
+2021,20,Frost/Ice,Fine without high winds,Rural,Serious,1
+2021,20,Frost/Ice,Fine without high winds,Urban,Serious,1
+2022,20,Frost/Ice,Fine without high winds,Rural,Serious,7
+2022,20,Frost/Ice,Fine without high winds,Urban,Serious,9
+2023,20,Frost/Ice,Fine without high winds,Rural,Serious,4
+2023,20,Frost/Ice,Fine without high winds,Urban,Serious,4
+2014,30,Frost/Ice,Fine without high winds,Rural,Serious,3
+2014,30,Frost/Ice,Fine without high winds,Urban,Serious,4
+2015,30,Frost/Ice,Fine without high winds,Rural,Serious,2
+2015,30,Frost/Ice,Fine without high winds,Urban,Serious,2
+2016,30,Frost/Ice,Fine without high winds,Rural,Serious,4
+2016,30,Frost/Ice,Fine without high winds,Urban,Serious,4
+2017,30,Frost/Ice,Fine without high winds,Rural,Serious,8
+2017,30,Frost/Ice,Fine without high winds,Urban,Serious,14
+2018,30,Frost/Ice,Fine without high winds,Rural,Serious,2
+2018,30,Frost/Ice,Fine without high winds,Urban,Serious,3
+2019,30,Frost/Ice,Fine without high winds,Rural,Serious,6
+2019,30,Frost/Ice,Fine without high winds,Urban,Serious,7
+2020,30,Frost/Ice,Fine without high winds,Urban,Serious,2
+2021,30,Frost/Ice,Fine without high winds,Rural,Serious,3
+2021,30,Frost/Ice,Fine without high winds,Urban,Serious,3
+2022,30,Frost/Ice,Fine without high winds,Rural,Serious,9
+2022,30,Frost/Ice,Fine without high winds,Urban,Serious,10
+2023,30,Frost/Ice,Fine without high winds,Rural,Serious,8
+2023,30,Frost/Ice,Fine without high winds,Urban,Serious,9
+2017,40,Frost/Ice,Fine without high winds,Rural,Serious,1
+2017,40,Frost/Ice,Fine without high winds,Urban,Serious,1
+2021,40,Frost/Ice,Fine without high winds,Urban,Serious,2
+2017,50,Frost/Ice,Fine without high winds,Rural,Serious,1
+2017,50,Frost/Ice,Fine without high winds,Urban,Serious,1
+2018,50,Frost/Ice,Fine without high winds,Rural,Serious,1
+2018,50,Frost/Ice,Fine without high winds,Urban,Serious,1
+2022,50,Frost/Ice,Fine without high winds,Rural,Serious,2
+2022,50,Frost/Ice,Fine without high winds,Urban,Serious,2
+2019,20,Frost/Ice,Fog or mist - if hazard,Rural,Serious,1
+2019,20,Frost/Ice,Fog or mist - if hazard,Urban,Serious,1
+2022,20,Frost/Ice,Fog or mist - if hazard,Rural,Serious,2
+2022,20,Frost/Ice,Fog or mist - if hazard,Urban,Serious,2
+2023,20,Frost/Ice,Fog or mist - if hazard,Urban,Serious,1
+2016,30,Frost/Ice,Fog or mist - if hazard,Rural,Serious,1
+2016,30,Frost/Ice,Fog or mist - if hazard,Urban,Serious,1
+2017,30,Frost/Ice,Fog or mist - if hazard,Urban,Serious,1
+2021,30,Frost/Ice,Fog or mist - if hazard,Rural,Serious,1
+2021,30,Frost/Ice,Fog or mist - if hazard,Urban,Serious,1
+2022,30,Frost/Ice,Fog or mist - if hazard,Rural,Serious,2
+2022,30,Frost/Ice,Fog or mist - if hazard,Urban,Serious,2
+2017,20,Frost/Ice,Other,Urban,Serious,1
+2018,20,Frost/Ice,Other,Urban,Serious,2
+2021,20,Frost/Ice,Other,Rural,Serious,1
+2021,20,Frost/Ice,Other,Urban,Serious,1
+2022,20,Frost/Ice,Other,Rural,Serious,5
+2022,20,Frost/Ice,Other,Urban,Serious,5
+2023,20,Frost/Ice,Other,Rural,Serious,1
+2023,20,Frost/Ice,Other,Urban,Serious,1
+2014,30,Frost/Ice,Other,Rural,Serious,1
+2014,30,Frost/Ice,Other,Urban,Serious,1
+2016,30,Frost/Ice,Other,Rural,Serious,3
+2016,30,Frost/Ice,Other,Urban,Serious,3
+2017,30,Frost/Ice,Other,Rural,Serious,5
+2017,30,Frost/Ice,Other,Urban,Serious,5
+2018,30,Frost/Ice,Other,Rural,Serious,5
+2018,30,Frost/Ice,Other,Urban,Serious,5
+2021,30,Frost/Ice,Other,Urban,Serious,3
+2022,30,Frost/Ice,Other,Rural,Serious,3
+2022,30,Frost/Ice,Other,Urban,Serious,3
+2023,30,Frost/Ice,Other,Rural,Serious,1
+2023,30,Frost/Ice,Other,Urban,Serious,1
+2019,40,Frost/Ice,Other,Rural,Serious,1
+2019,40,Frost/Ice,Other,Urban,Serious,1
+2017,50,Frost/Ice,Other,Rural,Serious,3
+2017,50,Frost/Ice,Other,Urban,Serious,3
+2020,30,Frost/Ice,Raining without high winds,Urban,Serious,1
+2015,30,Frost/Ice,Snowing with high winds,Urban,Serious,1
+2019,30,Frost/Ice,Snowing without high winds,Rural,Serious,1
+2019,30,Frost/Ice,Snowing without high winds,Urban,Serious,1
+2018,20,Frost/Ice,Unknown,Rural,Serious,1
+2018,20,Frost/Ice,Unknown,Urban,Serious,1
+2022,20,Frost/Ice,Unknown,Rural,Serious,1
+2022,20,Frost/Ice,Unknown,Urban,Serious,1
+2018,30,Frost/Ice,Unknown,Rural,Serious,1
+2018,30,Frost/Ice,Unknown,Urban,Serious,1
+2022,30,Frost/Ice,Unknown,Rural,Serious,1
+2022,30,Frost/Ice,Unknown,Urban,Serious,1
+2018,40,Frost/Ice,Unknown,Rural,Serious,1
+2018,40,Frost/Ice,Unknown,Urban,Serious,1
+2022,20,Snow,Fine without high winds,Rural,Serious,2
+2022,20,Snow,Fine without high winds,Urban,Serious,2
+2014,30,Snow,Fine without high winds,Rural,Serious,1
+2014,30,Snow,Fine without high winds,Urban,Serious,1
+2018,30,Snow,Fine without high winds,Urban,Serious,2
+2022,30,Snow,Fine without high winds,Rural,Serious,2
+2022,30,Snow,Fine without high winds,Urban,Serious,4
+2023,30,Snow,Fine without high winds,Urban,Serious,1
+2021,20,Snow,Other,Rural,Serious,1
+2021,20,Snow,Other,Urban,Serious,1
+2018,30,Snow,Other,Rural,Serious,1
+2018,30,Snow,Other,Urban,Serious,1
+2022,40,Snow,Other,Rural,Serious,4
+2022,40,Snow,Other,Urban,Serious,4
+2021,20,Snow,Raining without high winds,Rural,Serious,1
+2021,20,Snow,Raining without high winds,Urban,Serious,1
+2017,30,Snow,Raining without high winds,Rural,Serious,2
+2017,30,Snow,Raining without high winds,Urban,Serious,2
+2022,30,Snow,Raining without high winds,Rural,Serious,2
+2022,30,Snow,Raining without high winds,Urban,Serious,2
+2019,20,Snow,Snowing with high winds,Urban,Serious,1
+2018,70,Snow,Snowing with high winds,Rural,Serious,2
+2018,70,Snow,Snowing with high winds,Urban,Serious,2
+2018,20,Snow,Snowing without high winds,Urban,Serious,1
+2022,20,Snow,Snowing without high winds,Rural,Serious,5
+2022,20,Snow,Snowing without high winds,Urban,Serious,7
+2017,30,Snow,Snowing without high winds,Rural,Serious,2
+2017,30,Snow,Snowing without high winds,Urban,Serious,2
+2018,30,Snow,Snowing without high winds,Rural,Serious,6
+2018,30,Snow,Snowing without high winds,Urban,Serious,6
+2019,30,Snow,Snowing without high winds,Rural,Serious,1
+2019,30,Snow,Snowing without high winds,Urban,Serious,2
+2021,30,Snow,Snowing without high winds,Rural,Serious,1
+2021,30,Snow,Snowing without high winds,Urban,Serious,1
+2022,30,Snow,Snowing without high winds,Rural,Serious,2
+2022,30,Snow,Snowing without high winds,Urban,Serious,2
+2019,70,Snow,Snowing without high winds,Rural,Serious,1
+2019,70,Snow,Snowing without high winds,Urban,Serious,1
+2018,20,Snow,Unknown,Urban,Serious,1
+2017,20,Unknown,Fine without high winds,Rural,Serious,2
+2017,20,Unknown,Fine without high winds,Urban,Serious,5
+2018,20,Unknown,Fine without high winds,Rural,Serious,2
+2018,20,Unknown,Fine without high winds,Urban,Serious,3
+2019,20,Unknown,Fine without high winds,Rural,Serious,5
+2019,20,Unknown,Fine without high winds,Urban,Serious,5
+2020,20,Unknown,Fine without high winds,Rural,Serious,3
+2020,20,Unknown,Fine without high winds,Urban,Serious,3
+2021,20,Unknown,Fine without high winds,Rural,Serious,6
+2021,20,Unknown,Fine without high winds,Urban,Serious,7
+2022,20,Unknown,Fine without high winds,Rural,Serious,5
+2022,20,Unknown,Fine without high winds,Urban,Serious,6
+2023,20,Unknown,Fine without high winds,Rural,Serious,3
+2023,20,Unknown,Fine without high winds,Urban,Serious,4
+2017,30,Unknown,Fine without high winds,Rural,Serious,5
+2017,30,Unknown,Fine without high winds,Urban,Serious,8
+2018,30,Unknown,Fine without high winds,Rural,Serious,11
+2018,30,Unknown,Fine without high winds,Urban,Serious,14
+2019,30,Unknown,Fine without high winds,Rural,Serious,2
+2019,30,Unknown,Fine without high winds,Urban,Serious,4
+2020,30,Unknown,Fine without high winds,Rural,Serious,3
+2020,30,Unknown,Fine without high winds,Urban,Serious,4
+2021,30,Unknown,Fine without high winds,Rural,Serious,5
+2021,30,Unknown,Fine without high winds,Urban,Serious,6
+2022,30,Unknown,Fine without high winds,Rural,Serious,5
+2022,30,Unknown,Fine without high winds,Urban,Serious,7
+2023,30,Unknown,Fine without high winds,Rural,Serious,4
+2023,30,Unknown,Fine without high winds,Urban,Serious,6
+2017,40,Unknown,Fine without high winds,Rural,Serious,1
+2017,40,Unknown,Fine without high winds,Urban,Serious,1
+2023,40,Unknown,Fine without high winds,Rural,Serious,1
+2023,40,Unknown,Fine without high winds,Urban,Serious,1
+2020,20,Unknown,Fog or mist - if hazard,Rural,Serious,1
+2020,20,Unknown,Fog or mist - if hazard,Urban,Serious,1
+2018,30,Unknown,Fog or mist - if hazard,Urban,Serious,1
+2017,20,Unknown,Other,Rural,Serious,2
+2017,20,Unknown,Other,Urban,Serious,3
+2018,20,Unknown,Other,Rural,Serious,1
+2018,20,Unknown,Other,Urban,Serious,1
+2019,20,Unknown,Other,Rural,Serious,1
+2019,20,Unknown,Other,Urban,Serious,1
+2018,30,Unknown,Other,Urban,Serious,1
+2019,30,Unknown,Other,Rural,Serious,5
+2019,30,Unknown,Other,Urban,Serious,5
+2020,30,Unknown,Other,Rural,Serious,1
+2020,30,Unknown,Other,Urban,Serious,1
+2023,30,Unknown,Other,Rural,Serious,1
+2023,30,Unknown,Other,Urban,Serious,1
+2020,40,Unknown,Other,Rural,Serious,1
+2020,40,Unknown,Other,Urban,Serious,1
+2023,20,Unknown,Raining with high winds,Rural,Serious,1
+2023,20,Unknown,Raining with high winds,Urban,Serious,1
+2017,20,Unknown,Raining without high winds,Rural,Serious,1
+2017,20,Unknown,Raining without high winds,Urban,Serious,1
+2018,20,Unknown,Raining without high winds,Urban,Serious,1
+2020,20,Unknown,Raining without high winds,Rural,Serious,1
+2020,20,Unknown,Raining without high winds,Urban,Serious,1
+2021,20,Unknown,Raining without high winds,Rural,Serious,2
+2021,20,Unknown,Raining without high winds,Urban,Serious,2
+2023,20,Unknown,Raining without high winds,Rural,Serious,2
+2023,20,Unknown,Raining without high winds,Urban,Serious,2
+2017,30,Unknown,Raining without high winds,Rural,Serious,1
+2017,30,Unknown,Raining without high winds,Urban,Serious,2
+2018,30,Unknown,Raining without high winds,Rural,Serious,2
+2018,30,Unknown,Raining without high winds,Urban,Serious,2
+2019,30,Unknown,Raining without high winds,Rural,Serious,1
+2019,30,Unknown,Raining without high winds,Urban,Serious,2
+2023,30,Unknown,Raining without high winds,Rural,Serious,1
+2023,30,Unknown,Raining without high winds,Urban,Serious,1
+2022,40,Unknown,Raining without high winds,Urban,Serious,1
+2017,20,Unknown,Unknown,Rural,Serious,9
+2017,20,Unknown,Unknown,Urban,Serious,14
+2018,20,Unknown,Unknown,Rural,Serious,2
+2018,20,Unknown,Unknown,Urban,Serious,3
+2019,20,Unknown,Unknown,Rural,Serious,7
+2019,20,Unknown,Unknown,Urban,Serious,9
+2020,20,Unknown,Unknown,Rural,Serious,8
+2020,20,Unknown,Unknown,Urban,Serious,12
+2021,20,Unknown,Unknown,Rural,Serious,9
+2021,20,Unknown,Unknown,Urban,Serious,13
+2022,20,Unknown,Unknown,Rural,Serious,21
+2022,20,Unknown,Unknown,Urban,Serious,28
+2023,20,Unknown,Unknown,Rural,Serious,21
+2023,20,Unknown,Unknown,Urban,Serious,25
+2017,30,Unknown,Unknown,Rural,Serious,35
+2017,30,Unknown,Unknown,Urban,Serious,46
+2018,30,Unknown,Unknown,Rural,Serious,41
+2018,30,Unknown,Unknown,Urban,Serious,46
+2019,30,Unknown,Unknown,Rural,Serious,33
+2019,30,Unknown,Unknown,Urban,Serious,41
+2020,30,Unknown,Unknown,Rural,Serious,20
+2020,30,Unknown,Unknown,Urban,Serious,23
+2021,30,Unknown,Unknown,Rural,Serious,18
+2021,30,Unknown,Unknown,Urban,Serious,22
+2022,30,Unknown,Unknown,Rural,Serious,27
+2022,30,Unknown,Unknown,Urban,Serious,29
+2023,30,Unknown,Unknown,Rural,Serious,19
+2023,30,Unknown,Unknown,Urban,Serious,22
+2017,40,Unknown,Unknown,Rural,Serious,1
+2017,40,Unknown,Unknown,Urban,Serious,1
+2018,40,Unknown,Unknown,Rural,Serious,1
+2018,40,Unknown,Unknown,Urban,Serious,1
+2019,40,Unknown,Unknown,Rural,Serious,1
+2019,40,Unknown,Unknown,Urban,Serious,1
+2020,40,Unknown,Unknown,Rural,Serious,2
+2020,40,Unknown,Unknown,Urban,Serious,2
+2023,40,Unknown,Unknown,Rural,Serious,1
+2023,40,Unknown,Unknown,Urban,Serious,1
+2017,50,Unknown,Unknown,Rural,Serious,2
+2017,50,Unknown,Unknown,Urban,Serious,2
+2020,50,Unknown,Unknown,Rural,Serious,1
+2020,50,Unknown,Unknown,Urban,Serious,1
+2022,70,Unknown,Unknown,Rural,Serious,1
+2022,70,Unknown,Unknown,Urban,Serious,1
+2015,20,Wet/Damp,Fine with high winds,Rural,Serious,1
+2015,20,Wet/Damp,Fine with high winds,Urban,Serious,1
+2016,20,Wet/Damp,Fine with high winds,Rural,Serious,1
+2016,20,Wet/Damp,Fine with high winds,Urban,Serious,1
+2019,20,Wet/Damp,Fine with high winds,Urban,Serious,1
+2020,20,Wet/Damp,Fine with high winds,Rural,Serious,3
+2020,20,Wet/Damp,Fine with high winds,Urban,Serious,4
+2022,20,Wet/Damp,Fine with high winds,Rural,Serious,1
+2022,20,Wet/Damp,Fine with high winds,Urban,Serious,1
+2023,20,Wet/Damp,Fine with high winds,Rural,Serious,1
+2023,20,Wet/Damp,Fine with high winds,Urban,Serious,1
+2014,30,Wet/Damp,Fine with high winds,Rural,Serious,3
+2014,30,Wet/Damp,Fine with high winds,Urban,Serious,4
+2015,30,Wet/Damp,Fine with high winds,Rural,Serious,1
+2015,30,Wet/Damp,Fine with high winds,Urban,Serious,1
+2017,30,Wet/Damp,Fine with high winds,Rural,Serious,5
+2017,30,Wet/Damp,Fine with high winds,Urban,Serious,5
+2018,30,Wet/Damp,Fine with high winds,Rural,Serious,2
+2018,30,Wet/Damp,Fine with high winds,Urban,Serious,2
+2019,30,Wet/Damp,Fine with high winds,Rural,Serious,8
+2019,30,Wet/Damp,Fine with high winds,Urban,Serious,8
+2020,30,Wet/Damp,Fine with high winds,Rural,Serious,2
+2020,30,Wet/Damp,Fine with high winds,Urban,Serious,4
+2021,30,Wet/Damp,Fine with high winds,Rural,Serious,3
+2021,30,Wet/Damp,Fine with high winds,Urban,Serious,4
+2022,30,Wet/Damp,Fine with high winds,Urban,Serious,3
+2023,30,Wet/Damp,Fine with high winds,Rural,Serious,8
+2023,30,Wet/Damp,Fine with high winds,Urban,Serious,10
+2019,40,Wet/Damp,Fine with high winds,Rural,Serious,1
+2019,40,Wet/Damp,Fine with high winds,Urban,Serious,1
+2020,40,Wet/Damp,Fine with high winds,Rural,Serious,1
+2020,40,Wet/Damp,Fine with high winds,Urban,Serious,1
+2019,-1,Wet/Damp,Fine without high winds,Rural,Serious,1
+2019,-1,Wet/Damp,Fine without high winds,Urban,Serious,1
+2014,20,Wet/Damp,Fine without high winds,Urban,Serious,1
+2015,20,Wet/Damp,Fine without high winds,Urban,Serious,4
+2016,20,Wet/Damp,Fine without high winds,Rural,Serious,11
+2016,20,Wet/Damp,Fine without high winds,Urban,Serious,19
+2017,20,Wet/Damp,Fine without high winds,Rural,Serious,30
+2017,20,Wet/Damp,Fine without high winds,Urban,Serious,43
+2018,20,Wet/Damp,Fine without high winds,Rural,Serious,31
+2018,20,Wet/Damp,Fine without high winds,Urban,Serious,44
+2019,20,Wet/Damp,Fine without high winds,Rural,Serious,49
+2019,20,Wet/Damp,Fine without high winds,Urban,Serious,61
+2020,20,Wet/Damp,Fine without high winds,Rural,Serious,62
+2020,20,Wet/Damp,Fine without high winds,Urban,Serious,74
+2021,20,Wet/Damp,Fine without high winds,Rural,Serious,40
+2021,20,Wet/Damp,Fine without high winds,Urban,Serious,54
+2022,20,Wet/Damp,Fine without high winds,Rural,Serious,50
+2022,20,Wet/Damp,Fine without high winds,Urban,Serious,63
+2023,20,Wet/Damp,Fine without high winds,Rural,Serious,97
+2023,20,Wet/Damp,Fine without high winds,Urban,Serious,121
+2014,30,Wet/Damp,Fine without high winds,Rural,Serious,81
+2014,30,Wet/Damp,Fine without high winds,Urban,Serious,100
+2015,30,Wet/Damp,Fine without high winds,Rural,Serious,51
+2015,30,Wet/Damp,Fine without high winds,Urban,Serious,71
+2016,30,Wet/Damp,Fine without high winds,Rural,Serious,78
+2016,30,Wet/Damp,Fine without high winds,Urban,Serious,100
+2017,30,Wet/Damp,Fine without high winds,Rural,Serious,170
+2017,30,Wet/Damp,Fine without high winds,Urban,Serious,207
+2018,30,Wet/Damp,Fine without high winds,Rural,Serious,123
+2018,30,Wet/Damp,Fine without high winds,Urban,Serious,153
+2019,30,Wet/Damp,Fine without high winds,Rural,Serious,152
+2019,30,Wet/Damp,Fine without high winds,Urban,Serious,176
+2020,30,Wet/Damp,Fine without high winds,Rural,Serious,96
+2020,30,Wet/Damp,Fine without high winds,Urban,Serious,106
+2021,30,Wet/Damp,Fine without high winds,Rural,Serious,96
+2021,30,Wet/Damp,Fine without high winds,Urban,Serious,100
+2022,30,Wet/Damp,Fine without high winds,Rural,Serious,100
+2022,30,Wet/Damp,Fine without high winds,Urban,Serious,108
+2023,30,Wet/Damp,Fine without high winds,Rural,Serious,91
+2023,30,Wet/Damp,Fine without high winds,Urban,Serious,102
+2014,40,Wet/Damp,Fine without high winds,Rural,Serious,6
+2014,40,Wet/Damp,Fine without high winds,Urban,Serious,6
+2015,40,Wet/Damp,Fine without high winds,Rural,Serious,2
+2015,40,Wet/Damp,Fine without high winds,Urban,Serious,2
+2016,40,Wet/Damp,Fine without high winds,Rural,Serious,4
+2016,40,Wet/Damp,Fine without high winds,Urban,Serious,4
+2017,40,Wet/Damp,Fine without high winds,Rural,Serious,19
+2017,40,Wet/Damp,Fine without high winds,Urban,Serious,25
+2018,40,Wet/Damp,Fine without high winds,Rural,Serious,17
+2018,40,Wet/Damp,Fine without high winds,Urban,Serious,21
+2019,40,Wet/Damp,Fine without high winds,Rural,Serious,11
+2019,40,Wet/Damp,Fine without high winds,Urban,Serious,14
+2020,40,Wet/Damp,Fine without high winds,Rural,Serious,18
+2020,40,Wet/Damp,Fine without high winds,Urban,Serious,18
+2021,40,Wet/Damp,Fine without high winds,Rural,Serious,14
+2021,40,Wet/Damp,Fine without high winds,Urban,Serious,16
+2022,40,Wet/Damp,Fine without high winds,Rural,Serious,8
+2022,40,Wet/Damp,Fine without high winds,Urban,Serious,11
+2023,40,Wet/Damp,Fine without high winds,Rural,Serious,4
+2023,40,Wet/Damp,Fine without high winds,Urban,Serious,5
+2014,50,Wet/Damp,Fine without high winds,Rural,Serious,4
+2014,50,Wet/Damp,Fine without high winds,Urban,Serious,4
+2015,50,Wet/Damp,Fine without high winds,Rural,Serious,3
+2015,50,Wet/Damp,Fine without high winds,Urban,Serious,3
+2016,50,Wet/Damp,Fine without high winds,Urban,Serious,2
+2017,50,Wet/Damp,Fine without high winds,Rural,Serious,2
+2017,50,Wet/Damp,Fine without high winds,Urban,Serious,2
+2018,50,Wet/Damp,Fine without high winds,Rural,Serious,4
+2018,50,Wet/Damp,Fine without high winds,Urban,Serious,4
+2019,50,Wet/Damp,Fine without high winds,Rural,Serious,5
+2019,50,Wet/Damp,Fine without high winds,Urban,Serious,7
+2020,50,Wet/Damp,Fine without high winds,Rural,Serious,2
+2020,50,Wet/Damp,Fine without high winds,Urban,Serious,4
+2021,50,Wet/Damp,Fine without high winds,Rural,Serious,6
+2021,50,Wet/Damp,Fine without high winds,Urban,Serious,6
+2022,50,Wet/Damp,Fine without high winds,Rural,Serious,11
+2022,50,Wet/Damp,Fine without high winds,Urban,Serious,11
+2023,50,Wet/Damp,Fine without high winds,Rural,Serious,15
+2023,50,Wet/Damp,Fine without high winds,Urban,Serious,15
+2015,60,Wet/Damp,Fine without high winds,Rural,Serious,1
+2015,60,Wet/Damp,Fine without high winds,Urban,Serious,1
+2016,60,Wet/Damp,Fine without high winds,Rural,Serious,2
+2016,60,Wet/Damp,Fine without high winds,Urban,Serious,2
+2018,60,Wet/Damp,Fine without high winds,Rural,Serious,1
+2018,60,Wet/Damp,Fine without high winds,Urban,Serious,1
+2019,60,Wet/Damp,Fine without high winds,Rural,Serious,1
+2019,60,Wet/Damp,Fine without high winds,Urban,Serious,1
+2020,60,Wet/Damp,Fine without high winds,Rural,Serious,3
+2020,60,Wet/Damp,Fine without high winds,Urban,Serious,3
+2023,60,Wet/Damp,Fine without high winds,Rural,Serious,2
+2023,60,Wet/Damp,Fine without high winds,Urban,Serious,2
+2016,70,Wet/Damp,Fine without high winds,Rural,Serious,2
+2016,70,Wet/Damp,Fine without high winds,Urban,Serious,2
+2018,70,Wet/Damp,Fine without high winds,Rural,Serious,4
+2018,70,Wet/Damp,Fine without high winds,Urban,Serious,4
+2019,70,Wet/Damp,Fine without high winds,Rural,Serious,5
+2019,70,Wet/Damp,Fine without high winds,Urban,Serious,5
+2021,70,Wet/Damp,Fine without high winds,Rural,Serious,7
+2021,70,Wet/Damp,Fine without high winds,Urban,Serious,7
+2023,70,Wet/Damp,Fine without high winds,Rural,Serious,4
+2023,70,Wet/Damp,Fine without high winds,Urban,Serious,4
+2016,20,Wet/Damp,Fog or mist - if hazard,Rural,Serious,1
+2016,20,Wet/Damp,Fog or mist - if hazard,Urban,Serious,1
+2018,20,Wet/Damp,Fog or mist - if hazard,Urban,Serious,1
+2020,20,Wet/Damp,Fog or mist - if hazard,Rural,Serious,1
+2020,20,Wet/Damp,Fog or mist - if hazard,Urban,Serious,2
+2021,20,Wet/Damp,Fog or mist - if hazard,Rural,Serious,2
+2021,20,Wet/Damp,Fog or mist - if hazard,Urban,Serious,2
+2022,20,Wet/Damp,Fog or mist - if hazard,Rural,Serious,1
+2022,20,Wet/Damp,Fog or mist - if hazard,Urban,Serious,1
+2023,20,Wet/Damp,Fog or mist - if hazard,Rural,Serious,1
+2023,20,Wet/Damp,Fog or mist - if hazard,Urban,Serious,1
+2015,30,Wet/Damp,Fog or mist - if hazard,Rural,Serious,1
+2015,30,Wet/Damp,Fog or mist - if hazard,Urban,Serious,2
+2016,30,Wet/Damp,Fog or mist - if hazard,Rural,Serious,3
+2016,30,Wet/Damp,Fog or mist - if hazard,Urban,Serious,3
+2019,30,Wet/Damp,Fog or mist - if hazard,Rural,Serious,3
+2019,30,Wet/Damp,Fog or mist - if hazard,Urban,Serious,3
+2020,30,Wet/Damp,Fog or mist - if hazard,Rural,Serious,3
+2020,30,Wet/Damp,Fog or mist - if hazard,Urban,Serious,3
+2021,30,Wet/Damp,Fog or mist - if hazard,Rural,Serious,1
+2021,30,Wet/Damp,Fog or mist - if hazard,Urban,Serious,1
+2022,30,Wet/Damp,Fog or mist - if hazard,Rural,Serious,1
+2022,30,Wet/Damp,Fog or mist - if hazard,Urban,Serious,1
+2021,40,Wet/Damp,Fog or mist - if hazard,Rural,Serious,1
+2021,40,Wet/Damp,Fog or mist - if hazard,Urban,Serious,1
+2015,20,Wet/Damp,Other,Rural,Serious,1
+2015,20,Wet/Damp,Other,Urban,Serious,1
+2016,20,Wet/Damp,Other,Rural,Serious,3
+2016,20,Wet/Damp,Other,Urban,Serious,4
+2017,20,Wet/Damp,Other,Rural,Serious,5
+2017,20,Wet/Damp,Other,Urban,Serious,7
+2018,20,Wet/Damp,Other,Rural,Serious,6
+2018,20,Wet/Damp,Other,Urban,Serious,6
+2019,20,Wet/Damp,Other,Rural,Serious,7
+2019,20,Wet/Damp,Other,Urban,Serious,13
+2020,20,Wet/Damp,Other,Rural,Serious,14
+2020,20,Wet/Damp,Other,Urban,Serious,14
+2021,20,Wet/Damp,Other,Rural,Serious,16
+2021,20,Wet/Damp,Other,Urban,Serious,24
+2022,20,Wet/Damp,Other,Rural,Serious,18
+2022,20,Wet/Damp,Other,Urban,Serious,22
+2023,20,Wet/Damp,Other,Rural,Serious,13
+2023,20,Wet/Damp,Other,Urban,Serious,17
+2014,30,Wet/Damp,Other,Rural,Serious,11
+2014,30,Wet/Damp,Other,Urban,Serious,13
+2015,30,Wet/Damp,Other,Rural,Serious,5
+2015,30,Wet/Damp,Other,Urban,Serious,5
+2016,30,Wet/Damp,Other,Rural,Serious,13
+2016,30,Wet/Damp,Other,Urban,Serious,15
+2017,30,Wet/Damp,Other,Rural,Serious,31
+2017,30,Wet/Damp,Other,Urban,Serious,35
+2018,30,Wet/Damp,Other,Rural,Serious,26
+2018,30,Wet/Damp,Other,Urban,Serious,35
+2019,30,Wet/Damp,Other,Rural,Serious,15
+2019,30,Wet/Damp,Other,Urban,Serious,19
+2020,30,Wet/Damp,Other,Rural,Serious,12
+2020,30,Wet/Damp,Other,Urban,Serious,13
+2021,30,Wet/Damp,Other,Rural,Serious,26
+2021,30,Wet/Damp,Other,Urban,Serious,30
+2022,30,Wet/Damp,Other,Rural,Serious,16
+2022,30,Wet/Damp,Other,Urban,Serious,18
+2023,30,Wet/Damp,Other,Rural,Serious,22
+2023,30,Wet/Damp,Other,Urban,Serious,22
+2015,40,Wet/Damp,Other,Rural,Serious,1
+2015,40,Wet/Damp,Other,Urban,Serious,1
+2016,40,Wet/Damp,Other,Rural,Serious,1
+2016,40,Wet/Damp,Other,Urban,Serious,1
+2017,40,Wet/Damp,Other,Rural,Serious,3
+2017,40,Wet/Damp,Other,Urban,Serious,3
+2018,40,Wet/Damp,Other,Rural,Serious,2
+2018,40,Wet/Damp,Other,Urban,Serious,2
+2022,40,Wet/Damp,Other,Rural,Serious,2
+2022,40,Wet/Damp,Other,Urban,Serious,2
+2023,40,Wet/Damp,Other,Rural,Serious,2
+2023,40,Wet/Damp,Other,Urban,Serious,2
+2016,50,Wet/Damp,Other,Rural,Serious,2
+2016,50,Wet/Damp,Other,Urban,Serious,2
+2017,50,Wet/Damp,Other,Rural,Serious,2
+2017,50,Wet/Damp,Other,Urban,Serious,2
+2018,50,Wet/Damp,Other,Rural,Serious,3
+2018,50,Wet/Damp,Other,Urban,Serious,5
+2019,50,Wet/Damp,Other,Rural,Serious,1
+2019,50,Wet/Damp,Other,Urban,Serious,1
+2021,50,Wet/Damp,Other,Rural,Serious,1
+2021,50,Wet/Damp,Other,Urban,Serious,1
+2023,50,Wet/Damp,Other,Urban,Serious,1
+2016,70,Wet/Damp,Other,Rural,Serious,3
+2016,70,Wet/Damp,Other,Urban,Serious,3
+2023,70,Wet/Damp,Other,Rural,Serious,2
+2023,70,Wet/Damp,Other,Urban,Serious,2
+2016,20,Wet/Damp,Raining with high winds,Urban,Serious,2
+2017,20,Wet/Damp,Raining with high winds,Rural,Serious,3
+2017,20,Wet/Damp,Raining with high winds,Urban,Serious,5
+2018,20,Wet/Damp,Raining with high winds,Rural,Serious,1
+2018,20,Wet/Damp,Raining with high winds,Urban,Serious,2
+2019,20,Wet/Damp,Raining with high winds,Rural,Serious,1
+2019,20,Wet/Damp,Raining with high winds,Urban,Serious,4
+2020,20,Wet/Damp,Raining with high winds,Rural,Serious,3
+2020,20,Wet/Damp,Raining with high winds,Urban,Serious,9
+2021,20,Wet/Damp,Raining with high winds,Rural,Serious,8
+2021,20,Wet/Damp,Raining with high winds,Urban,Serious,10
+2022,20,Wet/Damp,Raining with high winds,Rural,Serious,5
+2022,20,Wet/Damp,Raining with high winds,Urban,Serious,9
+2023,20,Wet/Damp,Raining with high winds,Rural,Serious,6
+2023,20,Wet/Damp,Raining with high winds,Urban,Serious,10
+2014,30,Wet/Damp,Raining with high winds,Rural,Serious,7
+2014,30,Wet/Damp,Raining with high winds,Urban,Serious,10
+2015,30,Wet/Damp,Raining with high winds,Rural,Serious,7
+2015,30,Wet/Damp,Raining with high winds,Urban,Serious,7
+2016,30,Wet/Damp,Raining with high winds,Rural,Serious,14
+2016,30,Wet/Damp,Raining with high winds,Urban,Serious,14
+2017,30,Wet/Damp,Raining with high winds,Rural,Serious,2
+2017,30,Wet/Damp,Raining with high winds,Urban,Serious,3
+2018,30,Wet/Damp,Raining with high winds,Rural,Serious,3
+2018,30,Wet/Damp,Raining with high winds,Urban,Serious,3
+2019,30,Wet/Damp,Raining with high winds,Rural,Serious,14
+2019,30,Wet/Damp,Raining with high winds,Urban,Serious,17
+2020,30,Wet/Damp,Raining with high winds,Rural,Serious,14
+2020,30,Wet/Damp,Raining with high winds,Urban,Serious,14
+2021,30,Wet/Damp,Raining with high winds,Rural,Serious,12
+2021,30,Wet/Damp,Raining with high winds,Urban,Serious,13
+2022,30,Wet/Damp,Raining with high winds,Rural,Serious,1
+2022,30,Wet/Damp,Raining with high winds,Urban,Serious,2
+2023,30,Wet/Damp,Raining with high winds,Rural,Serious,4
+2023,30,Wet/Damp,Raining with high winds,Urban,Serious,5
+2015,40,Wet/Damp,Raining with high winds,Rural,Serious,1
+2015,40,Wet/Damp,Raining with high winds,Urban,Serious,1
+2017,40,Wet/Damp,Raining with high winds,Rural,Serious,2
+2017,40,Wet/Damp,Raining with high winds,Urban,Serious,2
+2020,40,Wet/Damp,Raining with high winds,Rural,Serious,5
+2020,40,Wet/Damp,Raining with high winds,Urban,Serious,5
+2021,40,Wet/Damp,Raining with high winds,Rural,Serious,1
+2021,40,Wet/Damp,Raining with high winds,Urban,Serious,1
+2023,40,Wet/Damp,Raining with high winds,Rural,Serious,1
+2023,40,Wet/Damp,Raining with high winds,Urban,Serious,1
+2019,50,Wet/Damp,Raining with high winds,Rural,Serious,1
+2019,50,Wet/Damp,Raining with high winds,Urban,Serious,1
+2020,50,Wet/Damp,Raining with high winds,Rural,Serious,1
+2020,50,Wet/Damp,Raining with high winds,Urban,Serious,1
+2014,20,Wet/Damp,Raining without high winds,Rural,Serious,3
+2014,20,Wet/Damp,Raining without high winds,Urban,Serious,5
+2015,20,Wet/Damp,Raining without high winds,Rural,Serious,7
+2015,20,Wet/Damp,Raining without high winds,Urban,Serious,8
+2016,20,Wet/Damp,Raining without high winds,Rural,Serious,10
+2016,20,Wet/Damp,Raining without high winds,Urban,Serious,20
+2017,20,Wet/Damp,Raining without high winds,Rural,Serious,38
+2017,20,Wet/Damp,Raining without high winds,Urban,Serious,53
+2018,20,Wet/Damp,Raining without high winds,Rural,Serious,60
+2018,20,Wet/Damp,Raining without high winds,Urban,Serious,86
+2019,20,Wet/Damp,Raining without high winds,Rural,Serious,79
+2019,20,Wet/Damp,Raining without high winds,Urban,Serious,99
+2020,20,Wet/Damp,Raining without high winds,Rural,Serious,66
+2020,20,Wet/Damp,Raining without high winds,Urban,Serious,102
+2021,20,Wet/Damp,Raining without high winds,Rural,Serious,96
+2021,20,Wet/Damp,Raining without high winds,Urban,Serious,129
+2022,20,Wet/Damp,Raining without high winds,Rural,Serious,121
+2022,20,Wet/Damp,Raining without high winds,Urban,Serious,149
+2023,20,Wet/Damp,Raining without high winds,Rural,Serious,133
+2023,20,Wet/Damp,Raining without high winds,Urban,Serious,171
+2014,30,Wet/Damp,Raining without high winds,Rural,Serious,113
+2014,30,Wet/Damp,Raining without high winds,Urban,Serious,144
+2015,30,Wet/Damp,Raining without high winds,Rural,Serious,78
+2015,30,Wet/Damp,Raining without high winds,Urban,Serious,108
+2016,30,Wet/Damp,Raining without high winds,Rural,Serious,134
+2016,30,Wet/Damp,Raining without high winds,Urban,Serious,157
+2017,30,Wet/Damp,Raining without high winds,Rural,Serious,208
+2017,30,Wet/Damp,Raining without high winds,Urban,Serious,269
+2018,30,Wet/Damp,Raining without high winds,Rural,Serious,229
+2018,30,Wet/Damp,Raining without high winds,Urban,Serious,273
+2019,30,Wet/Damp,Raining without high winds,Rural,Serious,238
+2019,30,Wet/Damp,Raining without high winds,Urban,Serious,268
+2020,30,Wet/Damp,Raining without high winds,Rural,Serious,153
+2020,30,Wet/Damp,Raining without high winds,Urban,Serious,177
+2021,30,Wet/Damp,Raining without high winds,Rural,Serious,102
+2021,30,Wet/Damp,Raining without high winds,Urban,Serious,114
+2022,30,Wet/Damp,Raining without high winds,Rural,Serious,126
+2022,30,Wet/Damp,Raining without high winds,Urban,Serious,141
+2023,30,Wet/Damp,Raining without high winds,Rural,Serious,130
+2023,30,Wet/Damp,Raining without high winds,Urban,Serious,146
+2014,40,Wet/Damp,Raining without high winds,Rural,Serious,19
+2014,40,Wet/Damp,Raining without high winds,Urban,Serious,19
+2015,40,Wet/Damp,Raining without high winds,Rural,Serious,3
+2015,40,Wet/Damp,Raining without high winds,Urban,Serious,3
+2016,40,Wet/Damp,Raining without high winds,Rural,Serious,7
+2016,40,Wet/Damp,Raining without high winds,Urban,Serious,7
+2017,40,Wet/Damp,Raining without high winds,Rural,Serious,12
+2017,40,Wet/Damp,Raining without high winds,Urban,Serious,14
+2018,40,Wet/Damp,Raining without high winds,Rural,Serious,12
+2018,40,Wet/Damp,Raining without high winds,Urban,Serious,18
+2019,40,Wet/Damp,Raining without high winds,Rural,Serious,15
+2019,40,Wet/Damp,Raining without high winds,Urban,Serious,15
+2020,40,Wet/Damp,Raining without high winds,Rural,Serious,6
+2020,40,Wet/Damp,Raining without high winds,Urban,Serious,9
+2021,40,Wet/Damp,Raining without high winds,Rural,Serious,4
+2021,40,Wet/Damp,Raining without high winds,Urban,Serious,5
+2022,40,Wet/Damp,Raining without high winds,Rural,Serious,8
+2022,40,Wet/Damp,Raining without high winds,Urban,Serious,10
+2023,40,Wet/Damp,Raining without high winds,Rural,Serious,16
+2023,40,Wet/Damp,Raining without high winds,Urban,Serious,16
+2014,50,Wet/Damp,Raining without high winds,Rural,Serious,3
+2014,50,Wet/Damp,Raining without high winds,Urban,Serious,4
+2015,50,Wet/Damp,Raining without high winds,Rural,Serious,1
+2015,50,Wet/Damp,Raining without high winds,Urban,Serious,1
+2016,50,Wet/Damp,Raining without high winds,Rural,Serious,5
+2016,50,Wet/Damp,Raining without high winds,Urban,Serious,6
+2017,50,Wet/Damp,Raining without high winds,Rural,Serious,6
+2017,50,Wet/Damp,Raining without high winds,Urban,Serious,7
+2018,50,Wet/Damp,Raining without high winds,Rural,Serious,8
+2018,50,Wet/Damp,Raining without high winds,Urban,Serious,9
+2019,50,Wet/Damp,Raining without high winds,Rural,Serious,10
+2019,50,Wet/Damp,Raining without high winds,Urban,Serious,11
+2021,50,Wet/Damp,Raining without high winds,Rural,Serious,8
+2021,50,Wet/Damp,Raining without high winds,Urban,Serious,8
+2022,50,Wet/Damp,Raining without high winds,Rural,Serious,9
+2022,50,Wet/Damp,Raining without high winds,Urban,Serious,9
+2023,50,Wet/Damp,Raining without high winds,Rural,Serious,12
+2023,50,Wet/Damp,Raining without high winds,Urban,Serious,12
+2018,60,Wet/Damp,Raining without high winds,Rural,Serious,2
+2018,60,Wet/Damp,Raining without high winds,Urban,Serious,2
+2020,60,Wet/Damp,Raining without high winds,Rural,Serious,1
+2020,60,Wet/Damp,Raining without high winds,Urban,Serious,1
+2017,70,Wet/Damp,Raining without high winds,Rural,Serious,2
+2017,70,Wet/Damp,Raining without high winds,Urban,Serious,2
+2018,70,Wet/Damp,Raining without high winds,Rural,Serious,2
+2018,70,Wet/Damp,Raining without high winds,Urban,Serious,2
+2019,70,Wet/Damp,Raining without high winds,Rural,Serious,3
+2019,70,Wet/Damp,Raining without high winds,Urban,Serious,3
+2020,70,Wet/Damp,Raining without high winds,Rural,Serious,1
+2020,70,Wet/Damp,Raining without high winds,Urban,Serious,1
+2021,70,Wet/Damp,Raining without high winds,Rural,Serious,1
+2021,70,Wet/Damp,Raining without high winds,Urban,Serious,1
+2023,70,Wet/Damp,Raining without high winds,Rural,Serious,1
+2023,70,Wet/Damp,Raining without high winds,Urban,Serious,1
+2018,40,Wet/Damp,Snowing with high winds,Rural,Serious,1
+2018,40,Wet/Damp,Snowing with high winds,Urban,Serious,1
+2017,20,Wet/Damp,Snowing without high winds,Urban,Serious,1
+2018,20,Wet/Damp,Snowing without high winds,Urban,Serious,2
+2019,20,Wet/Damp,Snowing without high winds,Rural,Serious,2
+2019,20,Wet/Damp,Snowing without high winds,Urban,Serious,3
+2021,20,Wet/Damp,Snowing without high winds,Rural,Serious,4
+2021,20,Wet/Damp,Snowing without high winds,Urban,Serious,4
+2023,20,Wet/Damp,Snowing without high winds,Rural,Serious,2
+2023,20,Wet/Damp,Snowing without high winds,Urban,Serious,2
+2016,30,Wet/Damp,Snowing without high winds,Rural,Serious,2
+2016,30,Wet/Damp,Snowing without high winds,Urban,Serious,2
+2017,30,Wet/Damp,Snowing without high winds,Rural,Serious,3
+2017,30,Wet/Damp,Snowing without high winds,Urban,Serious,5
+2018,30,Wet/Damp,Snowing without high winds,Rural,Serious,2
+2018,30,Wet/Damp,Snowing without high winds,Urban,Serious,3
+2019,30,Wet/Damp,Snowing without high winds,Rural,Serious,1
+2019,30,Wet/Damp,Snowing without high winds,Urban,Serious,1
+2021,30,Wet/Damp,Snowing without high winds,Rural,Serious,2
+2021,30,Wet/Damp,Snowing without high winds,Urban,Serious,2
+2022,30,Wet/Damp,Snowing without high winds,Rural,Serious,1
+2022,30,Wet/Damp,Snowing without high winds,Urban,Serious,1
+2022,40,Wet/Damp,Snowing without high winds,Rural,Serious,1
+2022,40,Wet/Damp,Snowing without high winds,Urban,Serious,1
+2017,70,Wet/Damp,Snowing without high winds,Rural,Serious,1
+2017,70,Wet/Damp,Snowing without high winds,Urban,Serious,1
+2018,70,Wet/Damp,Snowing without high winds,Rural,Serious,3
+2018,70,Wet/Damp,Snowing without high winds,Urban,Serious,3
+2016,20,Wet/Damp,Unknown,Rural,Serious,1
+2016,20,Wet/Damp,Unknown,Urban,Serious,1
+2017,20,Wet/Damp,Unknown,Urban,Serious,2
+2019,20,Wet/Damp,Unknown,Rural,Serious,1
+2019,20,Wet/Damp,Unknown,Urban,Serious,2
+2020,20,Wet/Damp,Unknown,Rural,Serious,4
+2020,20,Wet/Damp,Unknown,Urban,Serious,4
+2021,20,Wet/Damp,Unknown,Rural,Serious,1
+2021,20,Wet/Damp,Unknown,Urban,Serious,4
+2022,20,Wet/Damp,Unknown,Rural,Serious,2
+2022,20,Wet/Damp,Unknown,Urban,Serious,5
+2023,20,Wet/Damp,Unknown,Rural,Serious,6
+2023,20,Wet/Damp,Unknown,Urban,Serious,6
+2014,30,Wet/Damp,Unknown,Rural,Serious,2
+2014,30,Wet/Damp,Unknown,Urban,Serious,3
+2015,30,Wet/Damp,Unknown,Rural,Serious,2
+2015,30,Wet/Damp,Unknown,Urban,Serious,5
+2016,30,Wet/Damp,Unknown,Rural,Serious,10
+2016,30,Wet/Damp,Unknown,Urban,Serious,12
+2017,30,Wet/Damp,Unknown,Rural,Serious,12
+2017,30,Wet/Damp,Unknown,Urban,Serious,13
+2018,30,Wet/Damp,Unknown,Rural,Serious,7
+2018,30,Wet/Damp,Unknown,Urban,Serious,7
+2019,30,Wet/Damp,Unknown,Rural,Serious,5
+2019,30,Wet/Damp,Unknown,Urban,Serious,5
+2020,30,Wet/Damp,Unknown,Rural,Serious,2
+2020,30,Wet/Damp,Unknown,Urban,Serious,2
+2021,30,Wet/Damp,Unknown,Rural,Serious,9
+2021,30,Wet/Damp,Unknown,Urban,Serious,9
+2022,30,Wet/Damp,Unknown,Rural,Serious,6
+2022,30,Wet/Damp,Unknown,Urban,Serious,6
+2023,30,Wet/Damp,Unknown,Rural,Serious,3
+2023,30,Wet/Damp,Unknown,Urban,Serious,4
+2016,40,Wet/Damp,Unknown,Rural,Serious,2
+2016,40,Wet/Damp,Unknown,Urban,Serious,2
+2017,40,Wet/Damp,Unknown,Rural,Serious,1
+2017,40,Wet/Damp,Unknown,Urban,Serious,1
+2018,40,Wet/Damp,Unknown,Rural,Serious,1
+2018,40,Wet/Damp,Unknown,Urban,Serious,1
+2021,40,Wet/Damp,Unknown,Rural,Serious,2
+2021,40,Wet/Damp,Unknown,Urban,Serious,2
+2023,50,Wet/Damp,Unknown,Rural,Serious,6
+2023,50,Wet/Damp,Unknown,Urban,Serious,6
+2014,20,Dry,Fine with high winds,Urban,Slight,3
+2016,20,Dry,Fine with high winds,Rural,Slight,5
+2016,20,Dry,Fine with high winds,Urban,Slight,8
+2017,20,Dry,Fine with high winds,Rural,Slight,16
+2017,20,Dry,Fine with high winds,Urban,Slight,23
+2018,20,Dry,Fine with high winds,Rural,Slight,16
+2018,20,Dry,Fine with high winds,Urban,Slight,25
+2019,20,Dry,Fine with high winds,Rural,Slight,25
+2019,20,Dry,Fine with high winds,Urban,Slight,40
+2020,20,Dry,Fine with high winds,Rural,Slight,23
+2020,20,Dry,Fine with high winds,Urban,Slight,42
+2021,20,Dry,Fine with high winds,Rural,Slight,30
+2021,20,Dry,Fine with high winds,Urban,Slight,51
+2022,20,Dry,Fine with high winds,Rural,Slight,30
+2022,20,Dry,Fine with high winds,Urban,Slight,43
+2023,20,Dry,Fine with high winds,Rural,Slight,36
+2023,20,Dry,Fine with high winds,Urban,Slight,47
+2014,30,Dry,Fine with high winds,Rural,Slight,40
+2014,30,Dry,Fine with high winds,Urban,Slight,53
+2015,30,Dry,Fine with high winds,Rural,Slight,75
+2015,30,Dry,Fine with high winds,Urban,Slight,95
+2016,30,Dry,Fine with high winds,Rural,Slight,46
+2016,30,Dry,Fine with high winds,Urban,Slight,55
+2017,30,Dry,Fine with high winds,Rural,Slight,94
+2017,30,Dry,Fine with high winds,Urban,Slight,109
+2018,30,Dry,Fine with high winds,Rural,Slight,60
+2018,30,Dry,Fine with high winds,Urban,Slight,80
+2019,30,Dry,Fine with high winds,Rural,Slight,83
+2019,30,Dry,Fine with high winds,Urban,Slight,100
+2020,30,Dry,Fine with high winds,Rural,Slight,80
+2020,30,Dry,Fine with high winds,Urban,Slight,88
+2021,30,Dry,Fine with high winds,Rural,Slight,33
+2021,30,Dry,Fine with high winds,Urban,Slight,38
+2022,30,Dry,Fine with high winds,Rural,Slight,44
+2022,30,Dry,Fine with high winds,Urban,Slight,54
+2023,30,Dry,Fine with high winds,Rural,Slight,34
+2023,30,Dry,Fine with high winds,Urban,Slight,40
+2015,40,Dry,Fine with high winds,Rural,Slight,1
+2015,40,Dry,Fine with high winds,Urban,Slight,2
+2016,40,Dry,Fine with high winds,Rural,Slight,1
+2016,40,Dry,Fine with high winds,Urban,Slight,1
+2017,40,Dry,Fine with high winds,Rural,Slight,5
+2017,40,Dry,Fine with high winds,Urban,Slight,5
+2018,40,Dry,Fine with high winds,Rural,Slight,6
+2018,40,Dry,Fine with high winds,Urban,Slight,8
+2019,40,Dry,Fine with high winds,Rural,Slight,13
+2019,40,Dry,Fine with high winds,Urban,Slight,13
+2020,40,Dry,Fine with high winds,Rural,Slight,4
+2020,40,Dry,Fine with high winds,Urban,Slight,4
+2021,40,Dry,Fine with high winds,Rural,Slight,3
+2021,40,Dry,Fine with high winds,Urban,Slight,5
+2022,40,Dry,Fine with high winds,Rural,Slight,10
+2022,40,Dry,Fine with high winds,Urban,Slight,10
+2023,40,Dry,Fine with high winds,Rural,Slight,3
+2023,40,Dry,Fine with high winds,Urban,Slight,3
+2014,50,Dry,Fine with high winds,Rural,Slight,3
+2014,50,Dry,Fine with high winds,Urban,Slight,3
+2015,50,Dry,Fine with high winds,Rural,Slight,6
+2015,50,Dry,Fine with high winds,Urban,Slight,6
+2016,50,Dry,Fine with high winds,Rural,Slight,9
+2016,50,Dry,Fine with high winds,Urban,Slight,10
+2017,50,Dry,Fine with high winds,Rural,Slight,6
+2017,50,Dry,Fine with high winds,Urban,Slight,6
+2018,50,Dry,Fine with high winds,Rural,Slight,4
+2018,50,Dry,Fine with high winds,Urban,Slight,4
+2019,50,Dry,Fine with high winds,Rural,Slight,4
+2019,50,Dry,Fine with high winds,Urban,Slight,4
+2020,50,Dry,Fine with high winds,Rural,Slight,11
+2020,50,Dry,Fine with high winds,Urban,Slight,11
+2021,50,Dry,Fine with high winds,Rural,Slight,2
+2021,50,Dry,Fine with high winds,Urban,Slight,2
+2015,70,Dry,Fine with high winds,Rural,Slight,5
+2015,70,Dry,Fine with high winds,Urban,Slight,5
+2016,70,Dry,Fine with high winds,Rural,Slight,2
+2016,70,Dry,Fine with high winds,Urban,Slight,2
+2017,70,Dry,Fine with high winds,Rural,Slight,2
+2017,70,Dry,Fine with high winds,Urban,Slight,2
+2018,70,Dry,Fine with high winds,Rural,Slight,1
+2018,70,Dry,Fine with high winds,Urban,Slight,1
+2021,70,Dry,Fine with high winds,Rural,Slight,4
+2021,70,Dry,Fine with high winds,Urban,Slight,4
+2023,70,Dry,Fine with high winds,Rural,Slight,2
+2023,70,Dry,Fine with high winds,Urban,Slight,2
+2019,-1,Dry,Fine without high winds,Rural,Slight,28
+2019,-1,Dry,Fine without high winds,Urban,Slight,30
+2020,-1,Dry,Fine without high winds,Rural,Slight,2
+2020,-1,Dry,Fine without high winds,Urban,Slight,2
+2015,10,Dry,Fine without high winds,Rural,Slight,2
+2015,10,Dry,Fine without high winds,Urban,Slight,2
+2014,20,Dry,Fine without high winds,Rural,Slight,80
+2014,20,Dry,Fine without high winds,Urban,Slight,179
+2015,20,Dry,Fine without high winds,Rural,Slight,249
+2015,20,Dry,Fine without high winds,Urban,Slight,396
+2016,20,Dry,Fine without high winds,Rural,Slight,950
+2016,20,Dry,Fine without high winds,Urban,Slight,1336
+2017,20,Dry,Fine without high winds,Rural,Slight,2223
+2017,20,Dry,Fine without high winds,Urban,Slight,3148
+2018,20,Dry,Fine without high winds,Rural,Slight,2518
+2018,20,Dry,Fine without high winds,Urban,Slight,3526
+2019,20,Dry,Fine without high winds,Rural,Slight,2786
+2019,20,Dry,Fine without high winds,Urban,Slight,3813
+2020,20,Dry,Fine without high winds,Rural,Slight,2753
+2020,20,Dry,Fine without high winds,Urban,Slight,3776
+2021,20,Dry,Fine without high winds,Rural,Slight,3898
+2021,20,Dry,Fine without high winds,Urban,Slight,5265
+2022,20,Dry,Fine without high winds,Rural,Slight,4360
+2022,20,Dry,Fine without high winds,Urban,Slight,5769
+2023,20,Dry,Fine without high winds,Rural,Slight,4286
+2023,20,Dry,Fine without high winds,Urban,Slight,5681
+2014,30,Dry,Fine without high winds,Rural,Slight,11970
+2014,30,Dry,Fine without high winds,Urban,Slight,14845
+2015,30,Dry,Fine without high winds,Rural,Slight,11184
+2015,30,Dry,Fine without high winds,Urban,Slight,13958
+2016,30,Dry,Fine without high winds,Rural,Slight,10603
+2016,30,Dry,Fine without high winds,Urban,Slight,13087
+2017,30,Dry,Fine without high winds,Rural,Slight,9505
+2017,30,Dry,Fine without high winds,Urban,Slight,11578
+2018,30,Dry,Fine without high winds,Rural,Slight,8540
+2018,30,Dry,Fine without high winds,Urban,Slight,10356
+2019,30,Dry,Fine without high winds,Rural,Slight,7105
+2019,30,Dry,Fine without high winds,Urban,Slight,8546
+2020,30,Dry,Fine without high winds,Rural,Slight,5196
+2020,30,Dry,Fine without high winds,Urban,Slight,6079
+2021,30,Dry,Fine without high winds,Rural,Slight,5263
+2021,30,Dry,Fine without high winds,Urban,Slight,6122
+2022,30,Dry,Fine without high winds,Rural,Slight,4953
+2022,30,Dry,Fine without high winds,Urban,Slight,5810
+2023,30,Dry,Fine without high winds,Rural,Slight,4040
+2023,30,Dry,Fine without high winds,Urban,Slight,4631
+2014,40,Dry,Fine without high winds,Rural,Slight,468
+2014,40,Dry,Fine without high winds,Urban,Slight,559
+2015,40,Dry,Fine without high winds,Rural,Slight,471
+2015,40,Dry,Fine without high winds,Urban,Slight,586
+2016,40,Dry,Fine without high winds,Rural,Slight,600
+2016,40,Dry,Fine without high winds,Urban,Slight,709
+2017,40,Dry,Fine without high winds,Rural,Slight,879
+2017,40,Dry,Fine without high winds,Urban,Slight,1021
+2018,40,Dry,Fine without high winds,Rural,Slight,808
+2018,40,Dry,Fine without high winds,Urban,Slight,945
+2019,40,Dry,Fine without high winds,Rural,Slight,677
+2019,40,Dry,Fine without high winds,Urban,Slight,818
+2020,40,Dry,Fine without high winds,Rural,Slight,502
+2020,40,Dry,Fine without high winds,Urban,Slight,597
+2021,40,Dry,Fine without high winds,Rural,Slight,586
+2021,40,Dry,Fine without high winds,Urban,Slight,696
+2022,40,Dry,Fine without high winds,Rural,Slight,651
+2022,40,Dry,Fine without high winds,Urban,Slight,746
+2023,40,Dry,Fine without high winds,Rural,Slight,491
+2023,40,Dry,Fine without high winds,Urban,Slight,561
+2014,50,Dry,Fine without high winds,Rural,Slight,317
+2014,50,Dry,Fine without high winds,Urban,Slight,344
+2015,50,Dry,Fine without high winds,Rural,Slight,355
+2015,50,Dry,Fine without high winds,Urban,Slight,372
+2016,50,Dry,Fine without high winds,Rural,Slight,368
+2016,50,Dry,Fine without high winds,Urban,Slight,392
+2017,50,Dry,Fine without high winds,Rural,Slight,524
+2017,50,Dry,Fine without high winds,Urban,Slight,568
+2018,50,Dry,Fine without high winds,Rural,Slight,491
+2018,50,Dry,Fine without high winds,Urban,Slight,526
+2019,50,Dry,Fine without high winds,Rural,Slight,446
+2019,50,Dry,Fine without high winds,Urban,Slight,465
+2020,50,Dry,Fine without high winds,Rural,Slight,298
+2020,50,Dry,Fine without high winds,Urban,Slight,311
+2021,50,Dry,Fine without high winds,Rural,Slight,363
+2021,50,Dry,Fine without high winds,Urban,Slight,378
+2022,50,Dry,Fine without high winds,Rural,Slight,369
+2022,50,Dry,Fine without high winds,Urban,Slight,381
+2023,50,Dry,Fine without high winds,Rural,Slight,356
+2023,50,Dry,Fine without high winds,Urban,Slight,367
+2014,60,Dry,Fine without high winds,Rural,Slight,8
+2014,60,Dry,Fine without high winds,Urban,Slight,8
+2015,60,Dry,Fine without high winds,Rural,Slight,13
+2015,60,Dry,Fine without high winds,Urban,Slight,13
+2016,60,Dry,Fine without high winds,Rural,Slight,12
+2016,60,Dry,Fine without high winds,Urban,Slight,12
+2017,60,Dry,Fine without high winds,Rural,Slight,45
+2017,60,Dry,Fine without high winds,Urban,Slight,48
+2018,60,Dry,Fine without high winds,Rural,Slight,39
+2018,60,Dry,Fine without high winds,Urban,Slight,41
+2019,60,Dry,Fine without high winds,Rural,Slight,20
+2019,60,Dry,Fine without high winds,Urban,Slight,21
+2020,60,Dry,Fine without high winds,Rural,Slight,17
+2020,60,Dry,Fine without high winds,Urban,Slight,18
+2021,60,Dry,Fine without high winds,Rural,Slight,25
+2021,60,Dry,Fine without high winds,Urban,Slight,28
+2022,60,Dry,Fine without high winds,Rural,Slight,16
+2022,60,Dry,Fine without high winds,Urban,Slight,16
+2023,60,Dry,Fine without high winds,Rural,Slight,24
+2023,60,Dry,Fine without high winds,Urban,Slight,25
+2014,70,Dry,Fine without high winds,Rural,Slight,106
+2014,70,Dry,Fine without high winds,Urban,Slight,107
+2015,70,Dry,Fine without high winds,Rural,Slight,115
+2015,70,Dry,Fine without high winds,Urban,Slight,115
+2016,70,Dry,Fine without high winds,Rural,Slight,100
+2016,70,Dry,Fine without high winds,Urban,Slight,100
+2017,70,Dry,Fine without high winds,Rural,Slight,168
+2017,70,Dry,Fine without high winds,Urban,Slight,170
+2018,70,Dry,Fine without high winds,Rural,Slight,172
+2018,70,Dry,Fine without high winds,Urban,Slight,172
+2019,70,Dry,Fine without high winds,Rural,Slight,129
+2019,70,Dry,Fine without high winds,Urban,Slight,129
+2020,70,Dry,Fine without high winds,Rural,Slight,86
+2020,70,Dry,Fine without high winds,Urban,Slight,88
+2021,70,Dry,Fine without high winds,Rural,Slight,115
+2021,70,Dry,Fine without high winds,Urban,Slight,116
+2022,70,Dry,Fine without high winds,Rural,Slight,112
+2022,70,Dry,Fine without high winds,Urban,Slight,112
+2023,70,Dry,Fine without high winds,Rural,Slight,93
+2023,70,Dry,Fine without high winds,Urban,Slight,93
+2020,-1,Dry,Fog or mist - if hazard,Rural,Slight,1
+2020,-1,Dry,Fog or mist - if hazard,Urban,Slight,1
+2016,20,Dry,Fog or mist - if hazard,Rural,Slight,7
+2016,20,Dry,Fog or mist - if hazard,Urban,Slight,9
+2018,20,Dry,Fog or mist - if hazard,Rural,Slight,1
+2018,20,Dry,Fog or mist - if hazard,Urban,Slight,2
+2019,20,Dry,Fog or mist - if hazard,Rural,Slight,1
+2019,20,Dry,Fog or mist - if hazard,Urban,Slight,2
+2020,20,Dry,Fog or mist - if hazard,Rural,Slight,1
+2020,20,Dry,Fog or mist - if hazard,Urban,Slight,3
+2021,20,Dry,Fog or mist - if hazard,Rural,Slight,3
+2021,20,Dry,Fog or mist - if hazard,Urban,Slight,4
+2022,20,Dry,Fog or mist - if hazard,Rural,Slight,2
+2022,20,Dry,Fog or mist - if hazard,Urban,Slight,4
+2023,20,Dry,Fog or mist - if hazard,Rural,Slight,5
+2023,20,Dry,Fog or mist - if hazard,Urban,Slight,6
+2014,30,Dry,Fog or mist - if hazard,Rural,Slight,2
+2014,30,Dry,Fog or mist - if hazard,Urban,Slight,2
+2015,30,Dry,Fog or mist - if hazard,Rural,Slight,2
+2015,30,Dry,Fog or mist - if hazard,Urban,Slight,3
+2016,30,Dry,Fog or mist - if hazard,Rural,Slight,9
+2016,30,Dry,Fog or mist - if hazard,Urban,Slight,11
+2017,30,Dry,Fog or mist - if hazard,Rural,Slight,4
+2017,30,Dry,Fog or mist - if hazard,Urban,Slight,5
+2018,30,Dry,Fog or mist - if hazard,Rural,Slight,3
+2018,30,Dry,Fog or mist - if hazard,Urban,Slight,4
+2019,30,Dry,Fog or mist - if hazard,Rural,Slight,3
+2019,30,Dry,Fog or mist - if hazard,Urban,Slight,3
+2020,30,Dry,Fog or mist - if hazard,Rural,Slight,13
+2020,30,Dry,Fog or mist - if hazard,Urban,Slight,15
+2021,30,Dry,Fog or mist - if hazard,Rural,Slight,9
+2021,30,Dry,Fog or mist - if hazard,Urban,Slight,9
+2022,30,Dry,Fog or mist - if hazard,Rural,Slight,6
+2022,30,Dry,Fog or mist - if hazard,Urban,Slight,8
+2016,40,Dry,Fog or mist - if hazard,Urban,Slight,2
+2018,40,Dry,Fog or mist - if hazard,Rural,Slight,2
+2018,40,Dry,Fog or mist - if hazard,Urban,Slight,2
+2019,40,Dry,Fog or mist - if hazard,Rural,Slight,1
+2019,40,Dry,Fog or mist - if hazard,Urban,Slight,1
+2020,40,Dry,Fog or mist - if hazard,Rural,Slight,1
+2020,40,Dry,Fog or mist - if hazard,Urban,Slight,1
+2022,40,Dry,Fog or mist - if hazard,Rural,Slight,1
+2022,40,Dry,Fog or mist - if hazard,Urban,Slight,1
+2019,50,Dry,Fog or mist - if hazard,Rural,Slight,1
+2019,50,Dry,Fog or mist - if hazard,Urban,Slight,1
+2020,50,Dry,Fog or mist - if hazard,Rural,Slight,1
+2020,50,Dry,Fog or mist - if hazard,Urban,Slight,1
+2015,70,Dry,Fog or mist - if hazard,Rural,Slight,2
+2015,70,Dry,Fog or mist - if hazard,Urban,Slight,2
+2019,-1,Dry,Other,Rural,Slight,2
+2019,-1,Dry,Other,Urban,Slight,2
+2015,20,Dry,Other,Rural,Slight,1
+2015,20,Dry,Other,Urban,Slight,2
+2016,20,Dry,Other,Rural,Slight,13
+2016,20,Dry,Other,Urban,Slight,19
+2017,20,Dry,Other,Rural,Slight,44
+2017,20,Dry,Other,Urban,Slight,56
+2018,20,Dry,Other,Rural,Slight,144
+2018,20,Dry,Other,Urban,Slight,179
+2019,20,Dry,Other,Rural,Slight,158
+2019,20,Dry,Other,Urban,Slight,217
+2020,20,Dry,Other,Rural,Slight,166
+2020,20,Dry,Other,Urban,Slight,237
+2021,20,Dry,Other,Rural,Slight,233
+2021,20,Dry,Other,Urban,Slight,291
+2022,20,Dry,Other,Rural,Slight,273
+2022,20,Dry,Other,Urban,Slight,358
+2023,20,Dry,Other,Rural,Slight,269
+2023,20,Dry,Other,Urban,Slight,333
+2014,30,Dry,Other,Rural,Slight,49
+2014,30,Dry,Other,Urban,Slight,63
+2015,30,Dry,Other,Rural,Slight,34
+2015,30,Dry,Other,Urban,Slight,47
+2016,30,Dry,Other,Rural,Slight,45
+2016,30,Dry,Other,Urban,Slight,60
+2017,30,Dry,Other,Rural,Slight,172
+2017,30,Dry,Other,Urban,Slight,204
+2018,30,Dry,Other,Rural,Slight,298
+2018,30,Dry,Other,Urban,Slight,377
+2019,30,Dry,Other,Rural,Slight,270
+2019,30,Dry,Other,Urban,Slight,325
+2020,30,Dry,Other,Rural,Slight,248
+2020,30,Dry,Other,Urban,Slight,296
+2021,30,Dry,Other,Rural,Slight,267
+2021,30,Dry,Other,Urban,Slight,300
+2022,30,Dry,Other,Rural,Slight,302
+2022,30,Dry,Other,Urban,Slight,341
+2023,30,Dry,Other,Rural,Slight,232
+2023,30,Dry,Other,Urban,Slight,263
+2014,40,Dry,Other,Rural,Slight,1
+2014,40,Dry,Other,Urban,Slight,1
+2016,40,Dry,Other,Rural,Slight,7
+2016,40,Dry,Other,Urban,Slight,8
+2017,40,Dry,Other,Rural,Slight,14
+2017,40,Dry,Other,Urban,Slight,14
+2018,40,Dry,Other,Rural,Slight,25
+2018,40,Dry,Other,Urban,Slight,31
+2019,40,Dry,Other,Rural,Slight,27
+2019,40,Dry,Other,Urban,Slight,31
+2020,40,Dry,Other,Rural,Slight,28
+2020,40,Dry,Other,Urban,Slight,32
+2021,40,Dry,Other,Rural,Slight,27
+2021,40,Dry,Other,Urban,Slight,30
+2022,40,Dry,Other,Rural,Slight,15
+2022,40,Dry,Other,Urban,Slight,19
+2023,40,Dry,Other,Rural,Slight,27
+2023,40,Dry,Other,Urban,Slight,36
+2016,50,Dry,Other,Rural,Slight,2
+2016,50,Dry,Other,Urban,Slight,2
+2017,50,Dry,Other,Rural,Slight,5
+2017,50,Dry,Other,Urban,Slight,5
+2018,50,Dry,Other,Rural,Slight,5
+2018,50,Dry,Other,Urban,Slight,7
+2019,50,Dry,Other,Rural,Slight,5
+2019,50,Dry,Other,Urban,Slight,6
+2020,50,Dry,Other,Rural,Slight,10
+2020,50,Dry,Other,Urban,Slight,10
+2021,50,Dry,Other,Rural,Slight,13
+2021,50,Dry,Other,Urban,Slight,13
+2022,50,Dry,Other,Rural,Slight,18
+2022,50,Dry,Other,Urban,Slight,19
+2023,50,Dry,Other,Rural,Slight,6
+2023,50,Dry,Other,Urban,Slight,7
+2018,60,Dry,Other,Rural,Slight,2
+2018,60,Dry,Other,Urban,Slight,2
+2019,60,Dry,Other,Rural,Slight,1
+2019,60,Dry,Other,Urban,Slight,1
+2022,60,Dry,Other,Rural,Slight,1
+2022,60,Dry,Other,Urban,Slight,1
+2018,70,Dry,Other,Rural,Slight,2
+2018,70,Dry,Other,Urban,Slight,2
+2019,70,Dry,Other,Rural,Slight,2
+2019,70,Dry,Other,Urban,Slight,2
+2021,70,Dry,Other,Rural,Slight,2
+2021,70,Dry,Other,Urban,Slight,2
+2023,70,Dry,Other,Rural,Slight,3
+2023,70,Dry,Other,Urban,Slight,3
+2019,20,Dry,Raining with high winds,Urban,Slight,2
+2021,20,Dry,Raining with high winds,Rural,Slight,3
+2021,20,Dry,Raining with high winds,Urban,Slight,3
+2022,20,Dry,Raining with high winds,Rural,Slight,1
+2022,20,Dry,Raining with high winds,Urban,Slight,1
+2023,20,Dry,Raining with high winds,Rural,Slight,3
+2023,20,Dry,Raining with high winds,Urban,Slight,3
+2017,30,Dry,Raining with high winds,Urban,Slight,7
+2019,30,Dry,Raining with high winds,Rural,Slight,2
+2019,30,Dry,Raining with high winds,Urban,Slight,2
+2020,30,Dry,Raining with high winds,Rural,Slight,1
+2020,30,Dry,Raining with high winds,Urban,Slight,1
+2022,30,Dry,Raining with high winds,Rural,Slight,2
+2022,30,Dry,Raining with high winds,Urban,Slight,2
+2023,30,Dry,Raining with high winds,Urban,Slight,1
+2019,40,Dry,Raining with high winds,Rural,Slight,1
+2019,40,Dry,Raining with high winds,Urban,Slight,1
+2020,40,Dry,Raining with high winds,Rural,Slight,1
+2020,40,Dry,Raining with high winds,Urban,Slight,1
+2017,50,Dry,Raining with high winds,Rural,Slight,4
+2017,50,Dry,Raining with high winds,Urban,Slight,4
+2016,20,Dry,Raining without high winds,Rural,Slight,4
+2016,20,Dry,Raining without high winds,Urban,Slight,4
+2017,20,Dry,Raining without high winds,Rural,Slight,11
+2017,20,Dry,Raining without high winds,Urban,Slight,23
+2018,20,Dry,Raining without high winds,Rural,Slight,13
+2018,20,Dry,Raining without high winds,Urban,Slight,17
+2019,20,Dry,Raining without high winds,Rural,Slight,21
+2019,20,Dry,Raining without high winds,Urban,Slight,25
+2020,20,Dry,Raining without high winds,Rural,Slight,18
+2020,20,Dry,Raining without high winds,Urban,Slight,27
+2021,20,Dry,Raining without high winds,Rural,Slight,17
+2021,20,Dry,Raining without high winds,Urban,Slight,29
+2022,20,Dry,Raining without high winds,Rural,Slight,27
+2022,20,Dry,Raining without high winds,Urban,Slight,33
+2023,20,Dry,Raining without high winds,Rural,Slight,25
+2023,20,Dry,Raining without high winds,Urban,Slight,38
+2016,30,Dry,Raining without high winds,Rural,Slight,16
+2016,30,Dry,Raining without high winds,Urban,Slight,22
+2017,30,Dry,Raining without high winds,Rural,Slight,75
+2017,30,Dry,Raining without high winds,Urban,Slight,92
+2018,30,Dry,Raining without high winds,Rural,Slight,53
+2018,30,Dry,Raining without high winds,Urban,Slight,74
+2019,30,Dry,Raining without high winds,Rural,Slight,52
+2019,30,Dry,Raining without high winds,Urban,Slight,58
+2020,30,Dry,Raining without high winds,Rural,Slight,40
+2020,30,Dry,Raining without high winds,Urban,Slight,48
+2021,30,Dry,Raining without high winds,Rural,Slight,38
+2021,30,Dry,Raining without high winds,Urban,Slight,45
+2022,30,Dry,Raining without high winds,Rural,Slight,29
+2022,30,Dry,Raining without high winds,Urban,Slight,37
+2023,30,Dry,Raining without high winds,Rural,Slight,35
+2023,30,Dry,Raining without high winds,Urban,Slight,45
+2017,40,Dry,Raining without high winds,Urban,Slight,2
+2018,40,Dry,Raining without high winds,Rural,Slight,4
+2018,40,Dry,Raining without high winds,Urban,Slight,4
+2019,40,Dry,Raining without high winds,Rural,Slight,3
+2019,40,Dry,Raining without high winds,Urban,Slight,3
+2020,40,Dry,Raining without high winds,Rural,Slight,6
+2020,40,Dry,Raining without high winds,Urban,Slight,6
+2021,40,Dry,Raining without high winds,Rural,Slight,1
+2021,40,Dry,Raining without high winds,Urban,Slight,1
+2022,40,Dry,Raining without high winds,Rural,Slight,5
+2022,40,Dry,Raining without high winds,Urban,Slight,7
+2023,40,Dry,Raining without high winds,Rural,Slight,1
+2023,40,Dry,Raining without high winds,Urban,Slight,3
+2019,50,Dry,Raining without high winds,Rural,Slight,2
+2019,50,Dry,Raining without high winds,Urban,Slight,2
+2020,50,Dry,Raining without high winds,Rural,Slight,3
+2020,50,Dry,Raining without high winds,Urban,Slight,3
+2021,50,Dry,Raining without high winds,Rural,Slight,1
+2021,50,Dry,Raining without high winds,Urban,Slight,1
+2023,50,Dry,Raining without high winds,Rural,Slight,3
+2023,50,Dry,Raining without high winds,Urban,Slight,3
+2018,70,Dry,Raining without high winds,Rural,Slight,1
+2018,70,Dry,Raining without high winds,Urban,Slight,1
+2019,70,Dry,Raining without high winds,Rural,Slight,1
+2019,70,Dry,Raining without high winds,Urban,Slight,1
+2020,70,Dry,Raining without high winds,Rural,Slight,3
+2020,70,Dry,Raining without high winds,Urban,Slight,3
+2021,70,Dry,Raining without high winds,Rural,Slight,2
+2021,70,Dry,Raining without high winds,Urban,Slight,2
+2019,-1,Dry,Snowing with high winds,Rural,Slight,1
+2019,-1,Dry,Snowing with high winds,Urban,Slight,1
+2022,30,Dry,Snowing with high winds,Rural,Slight,1
+2022,30,Dry,Snowing with high winds,Urban,Slight,1
+2017,20,Dry,Snowing without high winds,Rural,Slight,4
+2017,20,Dry,Snowing without high winds,Urban,Slight,5
+2018,20,Dry,Snowing without high winds,Rural,Slight,1
+2018,20,Dry,Snowing without high winds,Urban,Slight,1
+2020,20,Dry,Snowing without high winds,Rural,Slight,1
+2020,20,Dry,Snowing without high winds,Urban,Slight,3
+2021,20,Dry,Snowing without high winds,Rural,Slight,2
+2021,20,Dry,Snowing without high winds,Urban,Slight,3
+2022,20,Dry,Snowing without high winds,Rural,Slight,1
+2022,20,Dry,Snowing without high winds,Urban,Slight,2
+2016,30,Dry,Snowing without high winds,Rural,Slight,2
+2016,30,Dry,Snowing without high winds,Urban,Slight,2
+2017,30,Dry,Snowing without high winds,Rural,Slight,2
+2017,30,Dry,Snowing without high winds,Urban,Slight,2
+2018,30,Dry,Snowing without high winds,Rural,Slight,1
+2018,30,Dry,Snowing without high winds,Urban,Slight,4
+2019,30,Dry,Snowing without high winds,Rural,Slight,1
+2019,30,Dry,Snowing without high winds,Urban,Slight,1
+2020,30,Dry,Snowing without high winds,Rural,Slight,2
+2020,30,Dry,Snowing without high winds,Urban,Slight,2
+2021,30,Dry,Snowing without high winds,Rural,Slight,5
+2021,30,Dry,Snowing without high winds,Urban,Slight,5
+2022,30,Dry,Snowing without high winds,Urban,Slight,1
+2023,30,Dry,Snowing without high winds,Rural,Slight,3
+2023,30,Dry,Snowing without high winds,Urban,Slight,3
+2017,40,Dry,Snowing without high winds,Rural,Slight,1
+2017,40,Dry,Snowing without high winds,Urban,Slight,1
+2019,40,Dry,Snowing without high winds,Rural,Slight,1
+2019,40,Dry,Snowing without high winds,Urban,Slight,1
+2019,50,Dry,Snowing without high winds,Rural,Slight,3
+2019,50,Dry,Snowing without high winds,Urban,Slight,3
+2019,-1,Dry,Unknown,Rural,Slight,1
+2019,-1,Dry,Unknown,Urban,Slight,2
+2016,20,Dry,Unknown,Rural,Slight,15
+2016,20,Dry,Unknown,Urban,Slight,16
+2017,20,Dry,Unknown,Rural,Slight,36
+2017,20,Dry,Unknown,Urban,Slight,48
+2018,20,Dry,Unknown,Rural,Slight,40
+2018,20,Dry,Unknown,Urban,Slight,47
+2019,20,Dry,Unknown,Rural,Slight,26
+2019,20,Dry,Unknown,Urban,Slight,43
+2020,20,Dry,Unknown,Rural,Slight,57
+2020,20,Dry,Unknown,Urban,Slight,73
+2021,20,Dry,Unknown,Rural,Slight,67
+2021,20,Dry,Unknown,Urban,Slight,75
+2022,20,Dry,Unknown,Rural,Slight,88
+2022,20,Dry,Unknown,Urban,Slight,119
+2023,20,Dry,Unknown,Rural,Slight,94
+2023,20,Dry,Unknown,Urban,Slight,125
+2014,30,Dry,Unknown,Rural,Slight,235
+2014,30,Dry,Unknown,Urban,Slight,354
+2015,30,Dry,Unknown,Rural,Slight,197
+2015,30,Dry,Unknown,Urban,Slight,266
+2016,30,Dry,Unknown,Rural,Slight,358
+2016,30,Dry,Unknown,Urban,Slight,524
+2017,30,Dry,Unknown,Rural,Slight,133
+2017,30,Dry,Unknown,Urban,Slight,170
+2018,30,Dry,Unknown,Rural,Slight,76
+2018,30,Dry,Unknown,Urban,Slight,94
+2019,30,Dry,Unknown,Rural,Slight,103
+2019,30,Dry,Unknown,Urban,Slight,120
+2020,30,Dry,Unknown,Rural,Slight,79
+2020,30,Dry,Unknown,Urban,Slight,101
+2021,30,Dry,Unknown,Rural,Slight,107
+2021,30,Dry,Unknown,Urban,Slight,128
+2022,30,Dry,Unknown,Rural,Slight,130
+2022,30,Dry,Unknown,Urban,Slight,148
+2023,30,Dry,Unknown,Rural,Slight,130
+2023,30,Dry,Unknown,Urban,Slight,152
+2014,40,Dry,Unknown,Rural,Slight,10
+2014,40,Dry,Unknown,Urban,Slight,14
+2015,40,Dry,Unknown,Rural,Slight,6
+2015,40,Dry,Unknown,Urban,Slight,9
+2016,40,Dry,Unknown,Rural,Slight,21
+2016,40,Dry,Unknown,Urban,Slight,28
+2017,40,Dry,Unknown,Rural,Slight,4
+2017,40,Dry,Unknown,Urban,Slight,4
+2018,40,Dry,Unknown,Rural,Slight,8
+2018,40,Dry,Unknown,Urban,Slight,9
+2019,40,Dry,Unknown,Rural,Slight,4
+2019,40,Dry,Unknown,Urban,Slight,5
+2020,40,Dry,Unknown,Rural,Slight,7
+2020,40,Dry,Unknown,Urban,Slight,7
+2021,40,Dry,Unknown,Rural,Slight,2
+2021,40,Dry,Unknown,Urban,Slight,2
+2022,40,Dry,Unknown,Rural,Slight,9
+2022,40,Dry,Unknown,Urban,Slight,11
+2023,40,Dry,Unknown,Rural,Slight,5
+2023,40,Dry,Unknown,Urban,Slight,5
+2014,50,Dry,Unknown,Rural,Slight,2
+2014,50,Dry,Unknown,Urban,Slight,2
+2015,50,Dry,Unknown,Rural,Slight,5
+2015,50,Dry,Unknown,Urban,Slight,5
+2016,50,Dry,Unknown,Rural,Slight,11
+2016,50,Dry,Unknown,Urban,Slight,14
+2017,50,Dry,Unknown,Rural,Slight,4
+2017,50,Dry,Unknown,Urban,Slight,4
+2019,50,Dry,Unknown,Rural,Slight,5
+2019,50,Dry,Unknown,Urban,Slight,5
+2020,50,Dry,Unknown,Rural,Slight,2
+2020,50,Dry,Unknown,Urban,Slight,4
+2021,50,Dry,Unknown,Urban,Slight,1
+2022,50,Dry,Unknown,Rural,Slight,5
+2022,50,Dry,Unknown,Urban,Slight,5
+2023,50,Dry,Unknown,Rural,Slight,3
+2023,50,Dry,Unknown,Urban,Slight,5
+2014,60,Dry,Unknown,Rural,Slight,2
+2014,60,Dry,Unknown,Urban,Slight,2
+2018,60,Dry,Unknown,Rural,Slight,1
+2018,60,Dry,Unknown,Urban,Slight,1
+2022,60,Dry,Unknown,Rural,Slight,1
+2022,60,Dry,Unknown,Urban,Slight,1
+2015,70,Dry,Unknown,Rural,Slight,2
+2015,70,Dry,Unknown,Urban,Slight,2
+2016,70,Dry,Unknown,Rural,Slight,7
+2016,70,Dry,Unknown,Urban,Slight,7
+2018,70,Dry,Unknown,Rural,Slight,2
+2018,70,Dry,Unknown,Urban,Slight,2
+2019,70,Dry,Unknown,Rural,Slight,1
+2019,70,Dry,Unknown,Urban,Slight,1
+2021,70,Dry,Unknown,Rural,Slight,1
+2021,70,Dry,Unknown,Urban,Slight,1
+2023,70,Dry,Unknown,Rural,Slight,1
+2023,70,Dry,Unknown,Urban,Slight,1
+2022,20,Flood,Fine with high winds,Urban,Slight,1
+2019,20,Flood,Fine without high winds,Rural,Slight,1
+2019,20,Flood,Fine without high winds,Urban,Slight,1
+2022,20,Flood,Fine without high winds,Rural,Slight,2
+2022,20,Flood,Fine without high winds,Urban,Slight,2
+2017,30,Flood,Fine without high winds,Rural,Slight,4
+2017,30,Flood,Fine without high winds,Urban,Slight,4
+2018,30,Flood,Fine without high winds,Rural,Slight,2
+2018,30,Flood,Fine without high winds,Urban,Slight,2
+2022,30,Flood,Fine without high winds,Rural,Slight,3
+2022,30,Flood,Fine without high winds,Urban,Slight,3
+2023,30,Flood,Fine without high winds,Rural,Slight,1
+2023,30,Flood,Fine without high winds,Urban,Slight,1
+2018,40,Flood,Fine without high winds,Rural,Slight,1
+2018,40,Flood,Fine without high winds,Urban,Slight,1
+2020,20,Flood,Fog or mist - if hazard,Rural,Slight,2
+2020,20,Flood,Fog or mist - if hazard,Urban,Slight,2
+2018,30,Flood,Other,Rural,Slight,1
+2018,30,Flood,Other,Urban,Slight,2
+2023,30,Flood,Other,Rural,Slight,2
+2023,30,Flood,Other,Urban,Slight,2
+2020,20,Flood,Raining with high winds,Rural,Slight,1
+2020,20,Flood,Raining with high winds,Urban,Slight,1
+2014,30,Flood,Raining with high winds,Rural,Slight,7
+2014,30,Flood,Raining with high winds,Urban,Slight,9
+2015,30,Flood,Raining with high winds,Rural,Slight,9
+2015,30,Flood,Raining with high winds,Urban,Slight,9
+2016,30,Flood,Raining with high winds,Rural,Slight,2
+2016,30,Flood,Raining with high winds,Urban,Slight,2
+2018,30,Flood,Raining with high winds,Rural,Slight,1
+2018,30,Flood,Raining with high winds,Urban,Slight,1
+2020,40,Flood,Raining with high winds,Rural,Slight,1
+2020,40,Flood,Raining with high winds,Urban,Slight,1
+2021,50,Flood,Raining with high winds,Rural,Slight,2
+2021,50,Flood,Raining with high winds,Urban,Slight,2
+2021,20,Flood,Raining without high winds,Rural,Slight,3
+2021,20,Flood,Raining without high winds,Urban,Slight,3
+2023,20,Flood,Raining without high winds,Urban,Slight,1
+2014,30,Flood,Raining without high winds,Rural,Slight,2
+2014,30,Flood,Raining without high winds,Urban,Slight,2
+2015,30,Flood,Raining without high winds,Rural,Slight,1
+2015,30,Flood,Raining without high winds,Urban,Slight,1
+2016,30,Flood,Raining without high winds,Rural,Slight,2
+2016,30,Flood,Raining without high winds,Urban,Slight,2
+2017,30,Flood,Raining without high winds,Urban,Slight,1
+2018,30,Flood,Raining without high winds,Rural,Slight,2
+2018,30,Flood,Raining without high winds,Urban,Slight,2
+2020,30,Flood,Raining without high winds,Rural,Slight,1
+2020,30,Flood,Raining without high winds,Urban,Slight,1
+2014,40,Flood,Raining without high winds,Rural,Slight,2
+2014,40,Flood,Raining without high winds,Urban,Slight,2
+2018,40,Flood,Raining without high winds,Rural,Slight,1
+2018,40,Flood,Raining without high winds,Urban,Slight,1
+2017,50,Flood,Raining without high winds,Rural,Slight,6
+2017,50,Flood,Raining without high winds,Urban,Slight,6
+2018,50,Flood,Raining without high winds,Rural,Slight,3
+2018,50,Flood,Raining without high winds,Urban,Slight,3
+2021,50,Flood,Raining without high winds,Rural,Slight,2
+2021,50,Flood,Raining without high winds,Urban,Slight,2
+2023,50,Flood,Raining without high winds,Rural,Slight,1
+2023,50,Flood,Raining without high winds,Urban,Slight,1
+2019,70,Flood,Raining without high winds,Rural,Slight,3
+2019,70,Flood,Raining without high winds,Urban,Slight,3
+2020,70,Flood,Raining without high winds,Rural,Slight,1
+2020,70,Flood,Raining without high winds,Urban,Slight,1
+2022,70,Flood,Raining without high winds,Rural,Slight,2
+2022,70,Flood,Raining without high winds,Urban,Slight,2
+2023,20,Flood,Unknown,Rural,Slight,1
+2023,20,Flood,Unknown,Urban,Slight,1
+2019,30,Flood,Unknown,Urban,Slight,1
+2021,30,Flood,Unknown,Urban,Slight,1
+2022,20,Frost/Ice,Fine with high winds,Rural,Slight,2
+2022,20,Frost/Ice,Fine with high winds,Urban,Slight,2
+2018,30,Frost/Ice,Fine with high winds,Rural,Slight,1
+2018,30,Frost/Ice,Fine with high winds,Urban,Slight,1
+2019,30,Frost/Ice,Fine with high winds,Rural,Slight,1
+2019,30,Frost/Ice,Fine with high winds,Urban,Slight,1
+2023,30,Frost/Ice,Fine with high winds,Rural,Slight,1
+2023,30,Frost/Ice,Fine with high winds,Urban,Slight,1
+2014,20,Frost/Ice,Fine without high winds,Rural,Slight,1
+2014,20,Frost/Ice,Fine without high winds,Urban,Slight,1
+2015,20,Frost/Ice,Fine without high winds,Urban,Slight,1
+2016,20,Frost/Ice,Fine without high winds,Urban,Slight,1
+2017,20,Frost/Ice,Fine without high winds,Rural,Slight,10
+2017,20,Frost/Ice,Fine without high winds,Urban,Slight,15
+2018,20,Frost/Ice,Fine without high winds,Rural,Slight,7
+2018,20,Frost/Ice,Fine without high winds,Urban,Slight,10
+2019,20,Frost/Ice,Fine without high winds,Rural,Slight,8
+2019,20,Frost/Ice,Fine without high winds,Urban,Slight,11
+2020,20,Frost/Ice,Fine without high winds,Rural,Slight,5
+2020,20,Frost/Ice,Fine without high winds,Urban,Slight,7
+2021,20,Frost/Ice,Fine without high winds,Rural,Slight,2
+2021,20,Frost/Ice,Fine without high winds,Urban,Slight,4
+2022,20,Frost/Ice,Fine without high winds,Rural,Slight,21
+2022,20,Frost/Ice,Fine without high winds,Urban,Slight,36
+2023,20,Frost/Ice,Fine without high winds,Rural,Slight,17
+2023,20,Frost/Ice,Fine without high winds,Urban,Slight,23
+2014,30,Frost/Ice,Fine without high winds,Rural,Slight,29
+2014,30,Frost/Ice,Fine without high winds,Urban,Slight,38
+2015,30,Frost/Ice,Fine without high winds,Rural,Slight,17
+2015,30,Frost/Ice,Fine without high winds,Urban,Slight,22
+2016,30,Frost/Ice,Fine without high winds,Rural,Slight,52
+2016,30,Frost/Ice,Fine without high winds,Urban,Slight,62
+2017,30,Frost/Ice,Fine without high winds,Rural,Slight,94
+2017,30,Frost/Ice,Fine without high winds,Urban,Slight,108
+2018,30,Frost/Ice,Fine without high winds,Rural,Slight,27
+2018,30,Frost/Ice,Fine without high winds,Urban,Slight,31
+2019,30,Frost/Ice,Fine without high winds,Rural,Slight,25
+2019,30,Frost/Ice,Fine without high winds,Urban,Slight,29
+2020,30,Frost/Ice,Fine without high winds,Rural,Slight,13
+2020,30,Frost/Ice,Fine without high winds,Urban,Slight,13
+2021,30,Frost/Ice,Fine without high winds,Rural,Slight,14
+2021,30,Frost/Ice,Fine without high winds,Urban,Slight,20
+2022,30,Frost/Ice,Fine without high winds,Rural,Slight,31
+2022,30,Frost/Ice,Fine without high winds,Urban,Slight,32
+2023,30,Frost/Ice,Fine without high winds,Rural,Slight,21
+2023,30,Frost/Ice,Fine without high winds,Urban,Slight,24
+2014,40,Frost/Ice,Fine without high winds,Rural,Slight,1
+2014,40,Frost/Ice,Fine without high winds,Urban,Slight,1
+2015,40,Frost/Ice,Fine without high winds,Rural,Slight,3
+2015,40,Frost/Ice,Fine without high winds,Urban,Slight,3
+2016,40,Frost/Ice,Fine without high winds,Rural,Slight,5
+2016,40,Frost/Ice,Fine without high winds,Urban,Slight,5
+2017,40,Frost/Ice,Fine without high winds,Rural,Slight,4
+2017,40,Frost/Ice,Fine without high winds,Urban,Slight,4
+2018,40,Frost/Ice,Fine without high winds,Rural,Slight,1
+2018,40,Frost/Ice,Fine without high winds,Urban,Slight,1
+2019,40,Frost/Ice,Fine without high winds,Rural,Slight,1
+2019,40,Frost/Ice,Fine without high winds,Urban,Slight,1
+2020,40,Frost/Ice,Fine without high winds,Rural,Slight,3
+2020,40,Frost/Ice,Fine without high winds,Urban,Slight,3
+2021,40,Frost/Ice,Fine without high winds,Urban,Slight,2
+2022,40,Frost/Ice,Fine without high winds,Rural,Slight,10
+2022,40,Frost/Ice,Fine without high winds,Urban,Slight,11
+2023,40,Frost/Ice,Fine without high winds,Rural,Slight,5
+2023,40,Frost/Ice,Fine without high winds,Urban,Slight,5
+2014,50,Frost/Ice,Fine without high winds,Rural,Slight,3
+2014,50,Frost/Ice,Fine without high winds,Urban,Slight,3
+2015,50,Frost/Ice,Fine without high winds,Rural,Slight,2
+2015,50,Frost/Ice,Fine without high winds,Urban,Slight,2
+2017,50,Frost/Ice,Fine without high winds,Rural,Slight,3
+2017,50,Frost/Ice,Fine without high winds,Urban,Slight,3
+2018,50,Frost/Ice,Fine without high winds,Rural,Slight,1
+2018,50,Frost/Ice,Fine without high winds,Urban,Slight,1
+2019,50,Frost/Ice,Fine without high winds,Rural,Slight,2
+2019,50,Frost/Ice,Fine without high winds,Urban,Slight,2
+2021,50,Frost/Ice,Fine without high winds,Rural,Slight,1
+2021,50,Frost/Ice,Fine without high winds,Urban,Slight,1
+2023,50,Frost/Ice,Fine without high winds,Rural,Slight,2
+2023,50,Frost/Ice,Fine without high winds,Urban,Slight,2
+2016,60,Frost/Ice,Fine without high winds,Rural,Slight,1
+2016,60,Frost/Ice,Fine without high winds,Urban,Slight,1
+2017,60,Frost/Ice,Fine without high winds,Rural,Slight,2
+2017,60,Frost/Ice,Fine without high winds,Urban,Slight,2
+2016,20,Frost/Ice,Fog or mist - if hazard,Rural,Slight,1
+2016,20,Frost/Ice,Fog or mist - if hazard,Urban,Slight,1
+2020,20,Frost/Ice,Fog or mist - if hazard,Rural,Slight,1
+2020,20,Frost/Ice,Fog or mist - if hazard,Urban,Slight,1
+2022,20,Frost/Ice,Fog or mist - if hazard,Rural,Slight,5
+2022,20,Frost/Ice,Fog or mist - if hazard,Urban,Slight,5
+2014,30,Frost/Ice,Fog or mist - if hazard,Rural,Slight,1
+2014,30,Frost/Ice,Fog or mist - if hazard,Urban,Slight,1
+2015,30,Frost/Ice,Fog or mist - if hazard,Rural,Slight,3
+2015,30,Frost/Ice,Fog or mist - if hazard,Urban,Slight,3
+2016,30,Frost/Ice,Fog or mist - if hazard,Rural,Slight,6
+2016,30,Frost/Ice,Fog or mist - if hazard,Urban,Slight,6
+2017,30,Frost/Ice,Fog or mist - if hazard,Rural,Slight,2
+2017,30,Frost/Ice,Fog or mist - if hazard,Urban,Slight,4
+2019,30,Frost/Ice,Fog or mist - if hazard,Rural,Slight,1
+2019,30,Frost/Ice,Fog or mist - if hazard,Urban,Slight,1
+2021,30,Frost/Ice,Fog or mist - if hazard,Rural,Slight,1
+2021,30,Frost/Ice,Fog or mist - if hazard,Urban,Slight,1
+2022,30,Frost/Ice,Fog or mist - if hazard,Rural,Slight,4
+2022,30,Frost/Ice,Fog or mist - if hazard,Urban,Slight,7
+2019,40,Frost/Ice,Fog or mist - if hazard,Urban,Slight,2
+2022,40,Frost/Ice,Fog or mist - if hazard,Rural,Slight,5
+2022,40,Frost/Ice,Fog or mist - if hazard,Urban,Slight,5
+2016,50,Frost/Ice,Fog or mist - if hazard,Rural,Slight,1
+2016,50,Frost/Ice,Fog or mist - if hazard,Urban,Slight,1
+2017,50,Frost/Ice,Fog or mist - if hazard,Rural,Slight,3
+2017,50,Frost/Ice,Fog or mist - if hazard,Urban,Slight,3
+2023,50,Frost/Ice,Fog or mist - if hazard,Rural,Slight,1
+2023,50,Frost/Ice,Fog or mist - if hazard,Urban,Slight,1
+2017,20,Frost/Ice,Other,Rural,Slight,3
+2017,20,Frost/Ice,Other,Urban,Slight,5
+2019,20,Frost/Ice,Other,Rural,Slight,1
+2019,20,Frost/Ice,Other,Urban,Slight,2
+2020,20,Frost/Ice,Other,Rural,Slight,2
+2020,20,Frost/Ice,Other,Urban,Slight,2
+2021,20,Frost/Ice,Other,Rural,Slight,5
+2021,20,Frost/Ice,Other,Urban,Slight,6
+2022,20,Frost/Ice,Other,Rural,Slight,16
+2022,20,Frost/Ice,Other,Urban,Slight,16
+2023,20,Frost/Ice,Other,Rural,Slight,8
+2023,20,Frost/Ice,Other,Urban,Slight,8
+2014,30,Frost/Ice,Other,Rural,Slight,10
+2014,30,Frost/Ice,Other,Urban,Slight,13
+2015,30,Frost/Ice,Other,Rural,Slight,7
+2015,30,Frost/Ice,Other,Urban,Slight,10
+2016,30,Frost/Ice,Other,Rural,Slight,8
+2016,30,Frost/Ice,Other,Urban,Slight,9
+2017,30,Frost/Ice,Other,Rural,Slight,27
+2017,30,Frost/Ice,Other,Urban,Slight,34
+2018,30,Frost/Ice,Other,Rural,Slight,10
+2018,30,Frost/Ice,Other,Urban,Slight,12
+2019,30,Frost/Ice,Other,Rural,Slight,12
+2019,30,Frost/Ice,Other,Urban,Slight,12
+2020,30,Frost/Ice,Other,Rural,Slight,2
+2020,30,Frost/Ice,Other,Urban,Slight,3
+2021,30,Frost/Ice,Other,Rural,Slight,9
+2021,30,Frost/Ice,Other,Urban,Slight,11
+2022,30,Frost/Ice,Other,Rural,Slight,16
+2022,30,Frost/Ice,Other,Urban,Slight,20
+2023,30,Frost/Ice,Other,Rural,Slight,6
+2023,30,Frost/Ice,Other,Urban,Slight,8
+2016,40,Frost/Ice,Other,Rural,Slight,2
+2016,40,Frost/Ice,Other,Urban,Slight,2
+2017,40,Frost/Ice,Other,Rural,Slight,4
+2017,40,Frost/Ice,Other,Urban,Slight,5
+2019,40,Frost/Ice,Other,Rural,Slight,2
+2019,40,Frost/Ice,Other,Urban,Slight,2
+2020,40,Frost/Ice,Other,Urban,Slight,1
+2021,40,Frost/Ice,Other,Rural,Slight,5
+2021,40,Frost/Ice,Other,Urban,Slight,5
+2022,40,Frost/Ice,Other,Rural,Slight,5
+2022,40,Frost/Ice,Other,Urban,Slight,5
+2023,40,Frost/Ice,Other,Rural,Slight,3
+2023,40,Frost/Ice,Other,Urban,Slight,3
+2018,50,Frost/Ice,Other,Rural,Slight,4
+2018,50,Frost/Ice,Other,Urban,Slight,4
+2019,50,Frost/Ice,Other,Rural,Slight,1
+2019,50,Frost/Ice,Other,Urban,Slight,1
+2022,50,Frost/Ice,Other,Rural,Slight,1
+2022,50,Frost/Ice,Other,Urban,Slight,1
+2023,70,Frost/Ice,Other,Rural,Slight,1
+2023,70,Frost/Ice,Other,Urban,Slight,1
+2023,20,Frost/Ice,Raining with high winds,Urban,Slight,1
+2014,30,Frost/Ice,Raining with high winds,Rural,Slight,2
+2014,30,Frost/Ice,Raining with high winds,Urban,Slight,2
+2015,30,Frost/Ice,Raining with high winds,Rural,Slight,3
+2015,30,Frost/Ice,Raining with high winds,Urban,Slight,3
+2017,20,Frost/Ice,Raining without high winds,Urban,Slight,1
+2019,20,Frost/Ice,Raining without high winds,Rural,Slight,1
+2019,20,Frost/Ice,Raining without high winds,Urban,Slight,1
+2021,20,Frost/Ice,Raining without high winds,Rural,Slight,1
+2021,20,Frost/Ice,Raining without high winds,Urban,Slight,1
+2014,30,Frost/Ice,Raining without high winds,Rural,Slight,2
+2014,30,Frost/Ice,Raining without high winds,Urban,Slight,2
+2017,30,Frost/Ice,Raining without high winds,Rural,Slight,7
+2017,30,Frost/Ice,Raining without high winds,Urban,Slight,7
+2021,30,Frost/Ice,Raining without high winds,Rural,Slight,2
+2021,30,Frost/Ice,Raining without high winds,Urban,Slight,2
+2017,40,Frost/Ice,Raining without high winds,Rural,Slight,1
+2017,40,Frost/Ice,Raining without high winds,Urban,Slight,1
+2018,40,Frost/Ice,Raining without high winds,Urban,Slight,1
+2018,50,Frost/Ice,Raining without high winds,Rural,Slight,2
+2018,50,Frost/Ice,Raining without high winds,Urban,Slight,2
+2018,30,Frost/Ice,Snowing with high winds,Rural,Slight,2
+2018,30,Frost/Ice,Snowing with high winds,Urban,Slight,2
+2018,20,Frost/Ice,Snowing without high winds,Rural,Slight,1
+2018,20,Frost/Ice,Snowing without high winds,Urban,Slight,10
+2019,20,Frost/Ice,Snowing without high winds,Rural,Slight,1
+2019,20,Frost/Ice,Snowing without high winds,Urban,Slight,1
+2021,20,Frost/Ice,Snowing without high winds,Rural,Slight,8
+2021,20,Frost/Ice,Snowing without high winds,Urban,Slight,8
+2022,20,Frost/Ice,Snowing without high winds,Rural,Slight,3
+2022,20,Frost/Ice,Snowing without high winds,Urban,Slight,3
+2015,30,Frost/Ice,Snowing without high winds,Rural,Slight,1
+2015,30,Frost/Ice,Snowing without high winds,Urban,Slight,1
+2016,30,Frost/Ice,Snowing without high winds,Rural,Slight,1
+2016,30,Frost/Ice,Snowing without high winds,Urban,Slight,1
+2017,30,Frost/Ice,Snowing without high winds,Rural,Slight,6
+2017,30,Frost/Ice,Snowing without high winds,Urban,Slight,6
+2018,30,Frost/Ice,Snowing without high winds,Rural,Slight,15
+2018,30,Frost/Ice,Snowing without high winds,Urban,Slight,18
+2019,30,Frost/Ice,Snowing without high winds,Rural,Slight,2
+2019,30,Frost/Ice,Snowing without high winds,Urban,Slight,2
+2021,30,Frost/Ice,Snowing without high winds,Rural,Slight,7
+2021,30,Frost/Ice,Snowing without high winds,Urban,Slight,7
+2022,30,Frost/Ice,Snowing without high winds,Rural,Slight,2
+2022,30,Frost/Ice,Snowing without high winds,Urban,Slight,2
+2021,50,Frost/Ice,Snowing without high winds,Rural,Slight,2
+2021,50,Frost/Ice,Snowing without high winds,Urban,Slight,2
+2017,20,Frost/Ice,Unknown,Rural,Slight,2
+2017,20,Frost/Ice,Unknown,Urban,Slight,2
+2022,20,Frost/Ice,Unknown,Rural,Slight,1
+2022,20,Frost/Ice,Unknown,Urban,Slight,1
+2023,20,Frost/Ice,Unknown,Rural,Slight,1
+2023,20,Frost/Ice,Unknown,Urban,Slight,3
+2014,30,Frost/Ice,Unknown,Rural,Slight,2
+2014,30,Frost/Ice,Unknown,Urban,Slight,3
+2015,30,Frost/Ice,Unknown,Urban,Slight,1
+2016,30,Frost/Ice,Unknown,Urban,Slight,1
+2017,30,Frost/Ice,Unknown,Rural,Slight,3
+2017,30,Frost/Ice,Unknown,Urban,Slight,3
+2018,30,Frost/Ice,Unknown,Urban,Slight,2
+2022,30,Frost/Ice,Unknown,Rural,Slight,7
+2022,30,Frost/Ice,Unknown,Urban,Slight,8
+2023,30,Frost/Ice,Unknown,Rural,Slight,1
+2023,30,Frost/Ice,Unknown,Urban,Slight,1
+2020,50,Frost/Ice,Unknown,Rural,Slight,1
+2020,50,Frost/Ice,Unknown,Urban,Slight,1
+2017,30,Snow,Fine with high winds,Rural,Slight,1
+2017,30,Snow,Fine with high winds,Urban,Slight,1
+2018,30,Snow,Fine with high winds,Rural,Slight,1
+2018,30,Snow,Fine with high winds,Urban,Slight,1
+2018,20,Snow,Fine without high winds,Urban,Slight,2
+2020,20,Snow,Fine without high winds,Rural,Slight,1
+2020,20,Snow,Fine without high winds,Urban,Slight,1
+2021,20,Snow,Fine without high winds,Rural,Slight,3
+2021,20,Snow,Fine without high winds,Urban,Slight,3
+2022,20,Snow,Fine without high winds,Rural,Slight,2
+2022,20,Snow,Fine without high winds,Urban,Slight,5
+2015,30,Snow,Fine without high winds,Rural,Slight,3
+2015,30,Snow,Fine without high winds,Urban,Slight,4
+2017,30,Snow,Fine without high winds,Rural,Slight,2
+2017,30,Snow,Fine without high winds,Urban,Slight,3
+2020,30,Snow,Fine without high winds,Rural,Slight,2
+2020,30,Snow,Fine without high winds,Urban,Slight,2
+2021,30,Snow,Fine without high winds,Rural,Slight,2
+2021,30,Snow,Fine without high winds,Urban,Slight,3
+2022,30,Snow,Fine without high winds,Rural,Slight,2
+2022,30,Snow,Fine without high winds,Urban,Slight,3
+2018,40,Snow,Fine without high winds,Rural,Slight,3
+2018,40,Snow,Fine without high winds,Urban,Slight,3
+2021,40,Snow,Fine without high winds,Rural,Slight,1
+2021,40,Snow,Fine without high winds,Urban,Slight,1
+2023,40,Snow,Fine without high winds,Rural,Slight,3
+2023,40,Snow,Fine without high winds,Urban,Slight,3
+2017,50,Snow,Fine without high winds,Rural,Slight,1
+2017,50,Snow,Fine without high winds,Urban,Slight,1
+2018,50,Snow,Fine without high winds,Rural,Slight,1
+2018,50,Snow,Fine without high winds,Urban,Slight,1
+2018,20,Snow,Other,Urban,Slight,1
+2021,20,Snow,Other,Rural,Slight,1
+2021,20,Snow,Other,Urban,Slight,1
+2022,20,Snow,Other,Rural,Slight,1
+2022,20,Snow,Other,Urban,Slight,1
+2017,30,Snow,Other,Rural,Slight,2
+2017,30,Snow,Other,Urban,Slight,2
+2018,30,Snow,Other,Rural,Slight,4
+2018,30,Snow,Other,Urban,Slight,5
+2019,30,Snow,Other,Rural,Slight,1
+2019,30,Snow,Other,Urban,Slight,1
+2021,30,Snow,Other,Rural,Slight,1
+2021,30,Snow,Other,Urban,Slight,1
+2022,30,Snow,Other,Rural,Slight,2
+2022,30,Snow,Other,Urban,Slight,2
+2017,30,Snow,Raining with high winds,Rural,Slight,1
+2017,30,Snow,Raining with high winds,Urban,Slight,1
+2017,30,Snow,Raining without high winds,Rural,Slight,1
+2017,30,Snow,Raining without high winds,Urban,Slight,1
+2018,30,Snow,Raining without high winds,Urban,Slight,2
+2019,30,Snow,Raining without high winds,Urban,Slight,2
+2020,30,Snow,Raining without high winds,Rural,Slight,5
+2020,30,Snow,Raining without high winds,Urban,Slight,5
+2022,30,Snow,Raining without high winds,Urban,Slight,2
+2018,40,Snow,Raining without high winds,Rural,Slight,2
+2018,40,Snow,Raining without high winds,Urban,Slight,2
+2017,20,Snow,Snowing with high winds,Urban,Slight,1
+2018,20,Snow,Snowing with high winds,Rural,Slight,2
+2018,20,Snow,Snowing with high winds,Urban,Slight,2
+2019,20,Snow,Snowing with high winds,Rural,Slight,1
+2019,20,Snow,Snowing with high winds,Urban,Slight,1
+2018,30,Snow,Snowing with high winds,Rural,Slight,16
+2018,30,Snow,Snowing with high winds,Urban,Slight,19
+2021,30,Snow,Snowing with high winds,Urban,Slight,2
+2017,20,Snow,Snowing without high winds,Rural,Slight,4
+2017,20,Snow,Snowing without high winds,Urban,Slight,4
+2018,20,Snow,Snowing without high winds,Rural,Slight,10
+2018,20,Snow,Snowing without high winds,Urban,Slight,11
+2019,20,Snow,Snowing without high winds,Rural,Slight,5
+2019,20,Snow,Snowing without high winds,Urban,Slight,8
+2021,20,Snow,Snowing without high winds,Rural,Slight,4
+2021,20,Snow,Snowing without high winds,Urban,Slight,9
+2022,20,Snow,Snowing without high winds,Rural,Slight,4
+2022,20,Snow,Snowing without high winds,Urban,Slight,7
+2023,20,Snow,Snowing without high winds,Rural,Slight,4
+2023,20,Snow,Snowing without high winds,Urban,Slight,5
+2015,30,Snow,Snowing without high winds,Rural,Slight,1
+2015,30,Snow,Snowing without high winds,Urban,Slight,1
+2016,30,Snow,Snowing without high winds,Rural,Slight,2
+2016,30,Snow,Snowing without high winds,Urban,Slight,2
+2017,30,Snow,Snowing without high winds,Rural,Slight,22
+2017,30,Snow,Snowing without high winds,Urban,Slight,26
+2018,30,Snow,Snowing without high winds,Rural,Slight,40
+2018,30,Snow,Snowing without high winds,Urban,Slight,46
+2019,30,Snow,Snowing without high winds,Rural,Slight,9
+2019,30,Snow,Snowing without high winds,Urban,Slight,10
+2020,30,Snow,Snowing without high winds,Urban,Slight,1
+2021,30,Snow,Snowing without high winds,Rural,Slight,13
+2021,30,Snow,Snowing without high winds,Urban,Slight,16
+2022,30,Snow,Snowing without high winds,Rural,Slight,8
+2022,30,Snow,Snowing without high winds,Urban,Slight,8
+2023,30,Snow,Snowing without high winds,Rural,Slight,3
+2023,30,Snow,Snowing without high winds,Urban,Slight,3
+2018,40,Snow,Snowing without high winds,Rural,Slight,1
+2018,40,Snow,Snowing without high winds,Urban,Slight,1
+2019,40,Snow,Snowing without high winds,Rural,Slight,1
+2019,40,Snow,Snowing without high winds,Urban,Slight,1
+2022,40,Snow,Snowing without high winds,Rural,Slight,2
+2022,40,Snow,Snowing without high winds,Urban,Slight,2
+2023,40,Snow,Snowing without high winds,Rural,Slight,1
+2023,40,Snow,Snowing without high winds,Urban,Slight,1
+2017,50,Snow,Snowing without high winds,Rural,Slight,1
+2017,50,Snow,Snowing without high winds,Urban,Slight,1
+2018,70,Snow,Snowing without high winds,Rural,Slight,1
+2018,70,Snow,Snowing without high winds,Urban,Slight,1
+2022,70,Snow,Snowing without high winds,Rural,Slight,3
+2022,70,Snow,Snowing without high winds,Urban,Slight,3
+2018,20,Snow,Unknown,Rural,Slight,2
+2018,20,Snow,Unknown,Urban,Slight,2
+2019,20,Unknown,Fine with high winds,Rural,Slight,1
+2019,20,Unknown,Fine with high winds,Urban,Slight,1
+2020,20,Unknown,Fine with high winds,Rural,Slight,2
+2020,20,Unknown,Fine with high winds,Urban,Slight,2
+2021,20,Unknown,Fine with high winds,Rural,Slight,1
+2021,20,Unknown,Fine with high winds,Urban,Slight,1
+2022,20,Unknown,Fine with high winds,Rural,Slight,2
+2022,20,Unknown,Fine with high winds,Urban,Slight,3
+2017,30,Unknown,Fine with high winds,Rural,Slight,1
+2017,30,Unknown,Fine with high winds,Urban,Slight,3
+2018,30,Unknown,Fine with high winds,Rural,Slight,1
+2018,30,Unknown,Fine with high winds,Urban,Slight,1
+2019,30,Unknown,Fine with high winds,Rural,Slight,1
+2019,30,Unknown,Fine with high winds,Urban,Slight,1
+2022,30,Unknown,Fine with high winds,Rural,Slight,1
+2022,30,Unknown,Fine with high winds,Urban,Slight,1
+2023,30,Unknown,Fine with high winds,Rural,Slight,1
+2023,30,Unknown,Fine with high winds,Urban,Slight,1
+2022,70,Unknown,Fine with high winds,Rural,Slight,1
+2022,70,Unknown,Fine with high winds,Urban,Slight,1
+2019,-1,Unknown,Fine without high winds,Rural,Slight,1
+2019,-1,Unknown,Fine without high winds,Urban,Slight,1
+2017,20,Unknown,Fine without high winds,Rural,Slight,22
+2017,20,Unknown,Fine without high winds,Urban,Slight,35
+2018,20,Unknown,Fine without high winds,Rural,Slight,23
+2018,20,Unknown,Fine without high winds,Urban,Slight,27
+2019,20,Unknown,Fine without high winds,Rural,Slight,22
+2019,20,Unknown,Fine without high winds,Urban,Slight,35
+2020,20,Unknown,Fine without high winds,Rural,Slight,21
+2020,20,Unknown,Fine without high winds,Urban,Slight,37
+2021,20,Unknown,Fine without high winds,Rural,Slight,32
+2021,20,Unknown,Fine without high winds,Urban,Slight,41
+2022,20,Unknown,Fine without high winds,Rural,Slight,36
+2022,20,Unknown,Fine without high winds,Urban,Slight,47
+2023,20,Unknown,Fine without high winds,Rural,Slight,45
+2023,20,Unknown,Fine without high winds,Urban,Slight,62
+2017,30,Unknown,Fine without high winds,Rural,Slight,87
+2017,30,Unknown,Fine without high winds,Urban,Slight,112
+2018,30,Unknown,Fine without high winds,Rural,Slight,82
+2018,30,Unknown,Fine without high winds,Urban,Slight,95
+2019,30,Unknown,Fine without high winds,Rural,Slight,65
+2019,30,Unknown,Fine without high winds,Urban,Slight,71
+2020,30,Unknown,Fine without high winds,Rural,Slight,65
+2020,30,Unknown,Fine without high winds,Urban,Slight,81
+2021,30,Unknown,Fine without high winds,Rural,Slight,50
+2021,30,Unknown,Fine without high winds,Urban,Slight,61
+2022,30,Unknown,Fine without high winds,Rural,Slight,32
+2022,30,Unknown,Fine without high winds,Urban,Slight,36
+2023,30,Unknown,Fine without high winds,Rural,Slight,45
+2023,30,Unknown,Fine without high winds,Urban,Slight,54
+2017,40,Unknown,Fine without high winds,Rural,Slight,4
+2017,40,Unknown,Fine without high winds,Urban,Slight,4
+2018,40,Unknown,Fine without high winds,Rural,Slight,3
+2018,40,Unknown,Fine without high winds,Urban,Slight,3
+2019,40,Unknown,Fine without high winds,Rural,Slight,4
+2019,40,Unknown,Fine without high winds,Urban,Slight,4
+2020,40,Unknown,Fine without high winds,Rural,Slight,11
+2020,40,Unknown,Fine without high winds,Urban,Slight,11
+2021,40,Unknown,Fine without high winds,Rural,Slight,3
+2021,40,Unknown,Fine without high winds,Urban,Slight,6
+2022,40,Unknown,Fine without high winds,Rural,Slight,4
+2022,40,Unknown,Fine without high winds,Urban,Slight,4
+2023,40,Unknown,Fine without high winds,Rural,Slight,2
+2023,40,Unknown,Fine without high winds,Urban,Slight,2
+2017,50,Unknown,Fine without high winds,Rural,Slight,4
+2017,50,Unknown,Fine without high winds,Urban,Slight,5
+2018,50,Unknown,Fine without high winds,Rural,Slight,2
+2018,50,Unknown,Fine without high winds,Urban,Slight,2
+2019,50,Unknown,Fine without high winds,Rural,Slight,3
+2019,50,Unknown,Fine without high winds,Urban,Slight,3
+2020,50,Unknown,Fine without high winds,Rural,Slight,2
+2020,50,Unknown,Fine without high winds,Urban,Slight,2
+2021,50,Unknown,Fine without high winds,Rural,Slight,3
+2021,50,Unknown,Fine without high winds,Urban,Slight,3
+2023,50,Unknown,Fine without high winds,Rural,Slight,1
+2023,50,Unknown,Fine without high winds,Urban,Slight,1
+2019,60,Unknown,Fine without high winds,Rural,Slight,1
+2019,60,Unknown,Fine without high winds,Urban,Slight,1
+2020,60,Unknown,Fine without high winds,Rural,Slight,1
+2020,60,Unknown,Fine without high winds,Urban,Slight,1
+2017,70,Unknown,Fine without high winds,Rural,Slight,1
+2017,70,Unknown,Fine without high winds,Urban,Slight,1
+2019,70,Unknown,Fine without high winds,Rural,Slight,2
+2019,70,Unknown,Fine without high winds,Urban,Slight,2
+2022,70,Unknown,Fine without high winds,Rural,Slight,1
+2022,70,Unknown,Fine without high winds,Urban,Slight,1
+2021,30,Unknown,Fog or mist - if hazard,Rural,Slight,1
+2021,30,Unknown,Fog or mist - if hazard,Urban,Slight,1
+2020,60,Unknown,Fog or mist - if hazard,Rural,Slight,1
+2020,60,Unknown,Fog or mist - if hazard,Urban,Slight,1
+2017,20,Unknown,Other,Rural,Slight,2
+2017,20,Unknown,Other,Urban,Slight,3
+2018,20,Unknown,Other,Rural,Slight,5
+2018,20,Unknown,Other,Urban,Slight,6
+2019,20,Unknown,Other,Rural,Slight,5
+2019,20,Unknown,Other,Urban,Slight,5
+2020,20,Unknown,Other,Rural,Slight,7
+2020,20,Unknown,Other,Urban,Slight,9
+2021,20,Unknown,Other,Rural,Slight,8
+2021,20,Unknown,Other,Urban,Slight,9
+2022,20,Unknown,Other,Rural,Slight,6
+2022,20,Unknown,Other,Urban,Slight,8
+2023,20,Unknown,Other,Rural,Slight,7
+2023,20,Unknown,Other,Urban,Slight,8
+2017,30,Unknown,Other,Rural,Slight,10
+2017,30,Unknown,Other,Urban,Slight,15
+2018,30,Unknown,Other,Rural,Slight,16
+2018,30,Unknown,Other,Urban,Slight,20
+2019,30,Unknown,Other,Rural,Slight,15
+2019,30,Unknown,Other,Urban,Slight,18
+2020,30,Unknown,Other,Rural,Slight,10
+2020,30,Unknown,Other,Urban,Slight,12
+2021,30,Unknown,Other,Rural,Slight,5
+2021,30,Unknown,Other,Urban,Slight,8
+2022,30,Unknown,Other,Rural,Slight,9
+2022,30,Unknown,Other,Urban,Slight,12
+2023,30,Unknown,Other,Rural,Slight,5
+2023,30,Unknown,Other,Urban,Slight,6
+2018,40,Unknown,Other,Rural,Slight,2
+2018,40,Unknown,Other,Urban,Slight,2
+2019,40,Unknown,Other,Urban,Slight,1
+2020,40,Unknown,Other,Rural,Slight,1
+2020,40,Unknown,Other,Urban,Slight,1
+2021,40,Unknown,Other,Rural,Slight,1
+2021,40,Unknown,Other,Urban,Slight,1
+2023,40,Unknown,Other,Rural,Slight,1
+2023,40,Unknown,Other,Urban,Slight,1
+2018,50,Unknown,Other,Rural,Slight,2
+2018,50,Unknown,Other,Urban,Slight,2
+2019,50,Unknown,Other,Rural,Slight,1
+2019,50,Unknown,Other,Urban,Slight,1
+2018,20,Unknown,Raining with high winds,Urban,Slight,1
+2019,20,Unknown,Raining with high winds,Rural,Slight,2
+2019,20,Unknown,Raining with high winds,Urban,Slight,2
+2020,20,Unknown,Raining with high winds,Urban,Slight,1
+2021,20,Unknown,Raining with high winds,Urban,Slight,2
+2022,20,Unknown,Raining with high winds,Urban,Slight,1
+2018,30,Unknown,Raining with high winds,Rural,Slight,2
+2018,30,Unknown,Raining with high winds,Urban,Slight,4
+2020,30,Unknown,Raining with high winds,Rural,Slight,3
+2020,30,Unknown,Raining with high winds,Urban,Slight,3
+2021,30,Unknown,Raining with high winds,Rural,Slight,3
+2021,30,Unknown,Raining with high winds,Urban,Slight,3
+2019,40,Unknown,Raining with high winds,Rural,Slight,1
+2019,40,Unknown,Raining with high winds,Urban,Slight,1
+2017,20,Unknown,Raining without high winds,Rural,Slight,2
+2017,20,Unknown,Raining without high winds,Urban,Slight,2
+2018,20,Unknown,Raining without high winds,Rural,Slight,3
+2018,20,Unknown,Raining without high winds,Urban,Slight,5
+2019,20,Unknown,Raining without high winds,Rural,Slight,8
+2019,20,Unknown,Raining without high winds,Urban,Slight,12
+2020,20,Unknown,Raining without high winds,Rural,Slight,7
+2020,20,Unknown,Raining without high winds,Urban,Slight,9
+2021,20,Unknown,Raining without high winds,Rural,Slight,4
+2021,20,Unknown,Raining without high winds,Urban,Slight,8
+2022,20,Unknown,Raining without high winds,Rural,Slight,10
+2022,20,Unknown,Raining without high winds,Urban,Slight,14
+2023,20,Unknown,Raining without high winds,Rural,Slight,13
+2023,20,Unknown,Raining without high winds,Urban,Slight,17
+2017,30,Unknown,Raining without high winds,Rural,Slight,11
+2017,30,Unknown,Raining without high winds,Urban,Slight,14
+2018,30,Unknown,Raining without high winds,Rural,Slight,14
+2018,30,Unknown,Raining without high winds,Urban,Slight,16
+2019,30,Unknown,Raining without high winds,Rural,Slight,17
+2019,30,Unknown,Raining without high winds,Urban,Slight,18
+2020,30,Unknown,Raining without high winds,Rural,Slight,11
+2020,30,Unknown,Raining without high winds,Urban,Slight,14
+2021,30,Unknown,Raining without high winds,Rural,Slight,10
+2021,30,Unknown,Raining without high winds,Urban,Slight,10
+2022,30,Unknown,Raining without high winds,Rural,Slight,7
+2022,30,Unknown,Raining without high winds,Urban,Slight,8
+2023,30,Unknown,Raining without high winds,Rural,Slight,9
+2023,30,Unknown,Raining without high winds,Urban,Slight,12
+2018,40,Unknown,Raining without high winds,Rural,Slight,2
+2018,40,Unknown,Raining without high winds,Urban,Slight,3
+2020,40,Unknown,Raining without high winds,Rural,Slight,2
+2020,40,Unknown,Raining without high winds,Urban,Slight,3
+2021,40,Unknown,Raining without high winds,Rural,Slight,1
+2021,40,Unknown,Raining without high winds,Urban,Slight,1
+2023,40,Unknown,Raining without high winds,Rural,Slight,1
+2023,40,Unknown,Raining without high winds,Urban,Slight,3
+2018,50,Unknown,Raining without high winds,Rural,Slight,1
+2018,50,Unknown,Raining without high winds,Urban,Slight,1
+2019,50,Unknown,Raining without high winds,Rural,Slight,1
+2019,50,Unknown,Raining without high winds,Urban,Slight,1
+2020,50,Unknown,Raining without high winds,Urban,Slight,1
+2021,50,Unknown,Raining without high winds,Rural,Slight,1
+2021,50,Unknown,Raining without high winds,Urban,Slight,1
+2022,50,Unknown,Raining without high winds,Rural,Slight,1
+2022,50,Unknown,Raining without high winds,Urban,Slight,1
+2023,50,Unknown,Raining without high winds,Rural,Slight,1
+2023,50,Unknown,Raining without high winds,Urban,Slight,1
+2018,70,Unknown,Raining without high winds,Rural,Slight,1
+2018,70,Unknown,Raining without high winds,Urban,Slight,1
+2021,20,Unknown,Snowing without high winds,Rural,Slight,1
+2021,20,Unknown,Snowing without high winds,Urban,Slight,1
+2017,30,Unknown,Snowing without high winds,Rural,Slight,1
+2017,30,Unknown,Snowing without high winds,Urban,Slight,2
+2018,30,Unknown,Snowing without high winds,Rural,Slight,1
+2018,30,Unknown,Snowing without high winds,Urban,Slight,1
+2019,30,Unknown,Snowing without high winds,Rural,Slight,2
+2019,30,Unknown,Snowing without high winds,Urban,Slight,2
+2022,30,Unknown,Snowing without high winds,Rural,Slight,1
+2022,30,Unknown,Snowing without high winds,Urban,Slight,1
+2019,-1,Unknown,Unknown,Rural,Slight,2
+2019,-1,Unknown,Unknown,Urban,Slight,2
+2017,20,Unknown,Unknown,Rural,Slight,69
+2017,20,Unknown,Unknown,Urban,Slight,102
+2018,20,Unknown,Unknown,Rural,Slight,51
+2018,20,Unknown,Unknown,Urban,Slight,63
+2019,20,Unknown,Unknown,Rural,Slight,78
+2019,20,Unknown,Unknown,Urban,Slight,96
+2020,20,Unknown,Unknown,Rural,Slight,83
+2020,20,Unknown,Unknown,Urban,Slight,103
+2021,20,Unknown,Unknown,Rural,Slight,139
+2021,20,Unknown,Unknown,Urban,Slight,165
+2022,20,Unknown,Unknown,Rural,Slight,188
+2022,20,Unknown,Unknown,Urban,Slight,244
+2023,20,Unknown,Unknown,Rural,Slight,307
+2023,20,Unknown,Unknown,Urban,Slight,388
+2017,30,Unknown,Unknown,Rural,Slight,657
+2017,30,Unknown,Unknown,Urban,Slight,813
+2018,30,Unknown,Unknown,Rural,Slight,331
+2018,30,Unknown,Unknown,Urban,Slight,409
+2019,30,Unknown,Unknown,Rural,Slight,281
+2019,30,Unknown,Unknown,Urban,Slight,346
+2020,30,Unknown,Unknown,Rural,Slight,185
+2020,30,Unknown,Unknown,Urban,Slight,227
+2021,30,Unknown,Unknown,Rural,Slight,206
+2021,30,Unknown,Unknown,Urban,Slight,259
+2022,30,Unknown,Unknown,Rural,Slight,207
+2022,30,Unknown,Unknown,Urban,Slight,245
+2023,30,Unknown,Unknown,Rural,Slight,287
+2023,30,Unknown,Unknown,Urban,Slight,336
+2017,40,Unknown,Unknown,Rural,Slight,20
+2017,40,Unknown,Unknown,Urban,Slight,22
+2018,40,Unknown,Unknown,Rural,Slight,9
+2018,40,Unknown,Unknown,Urban,Slight,12
+2019,40,Unknown,Unknown,Rural,Slight,6
+2019,40,Unknown,Unknown,Urban,Slight,8
+2020,40,Unknown,Unknown,Rural,Slight,9
+2020,40,Unknown,Unknown,Urban,Slight,10
+2021,40,Unknown,Unknown,Rural,Slight,9
+2021,40,Unknown,Unknown,Urban,Slight,10
+2022,40,Unknown,Unknown,Rural,Slight,9
+2022,40,Unknown,Unknown,Urban,Slight,10
+2023,40,Unknown,Unknown,Rural,Slight,7
+2023,40,Unknown,Unknown,Urban,Slight,9
+2017,50,Unknown,Unknown,Rural,Slight,4
+2017,50,Unknown,Unknown,Urban,Slight,5
+2018,50,Unknown,Unknown,Rural,Slight,9
+2018,50,Unknown,Unknown,Urban,Slight,10
+2019,50,Unknown,Unknown,Rural,Slight,4
+2019,50,Unknown,Unknown,Urban,Slight,5
+2020,50,Unknown,Unknown,Rural,Slight,3
+2020,50,Unknown,Unknown,Urban,Slight,5
+2021,50,Unknown,Unknown,Rural,Slight,6
+2021,50,Unknown,Unknown,Urban,Slight,7
+2022,50,Unknown,Unknown,Rural,Slight,7
+2022,50,Unknown,Unknown,Urban,Slight,10
+2023,50,Unknown,Unknown,Rural,Slight,2
+2023,50,Unknown,Unknown,Urban,Slight,2
+2017,60,Unknown,Unknown,Rural,Slight,2
+2017,60,Unknown,Unknown,Urban,Slight,2
+2018,60,Unknown,Unknown,Rural,Slight,1
+2018,60,Unknown,Unknown,Urban,Slight,1
+2019,60,Unknown,Unknown,Rural,Slight,2
+2019,60,Unknown,Unknown,Urban,Slight,2
+2020,60,Unknown,Unknown,Urban,Slight,1
+2021,60,Unknown,Unknown,Rural,Slight,1
+2021,60,Unknown,Unknown,Urban,Slight,1
+2022,60,Unknown,Unknown,Rural,Slight,1
+2022,60,Unknown,Unknown,Urban,Slight,1
+2023,60,Unknown,Unknown,Rural,Slight,1
+2023,60,Unknown,Unknown,Urban,Slight,1
+2017,70,Unknown,Unknown,Rural,Slight,6
+2017,70,Unknown,Unknown,Urban,Slight,6
+2018,70,Unknown,Unknown,Rural,Slight,6
+2018,70,Unknown,Unknown,Urban,Slight,6
+2019,70,Unknown,Unknown,Rural,Slight,3
+2019,70,Unknown,Unknown,Urban,Slight,3
+2020,70,Unknown,Unknown,Rural,Slight,1
+2020,70,Unknown,Unknown,Urban,Slight,1
+2021,70,Unknown,Unknown,Rural,Slight,1
+2021,70,Unknown,Unknown,Urban,Slight,1
+2022,70,Unknown,Unknown,Rural,Slight,1
+2022,70,Unknown,Unknown,Urban,Slight,1
+2023,70,Unknown,Unknown,Rural,Slight,5
+2023,70,Unknown,Unknown,Urban,Slight,5
+2016,20,Wet/Damp,Fine with high winds,Rural,Slight,5
+2016,20,Wet/Damp,Fine with high winds,Urban,Slight,8
+2017,20,Wet/Damp,Fine with high winds,Rural,Slight,5
+2017,20,Wet/Damp,Fine with high winds,Urban,Slight,6
+2018,20,Wet/Damp,Fine with high winds,Rural,Slight,8
+2018,20,Wet/Damp,Fine with high winds,Urban,Slight,8
+2019,20,Wet/Damp,Fine with high winds,Rural,Slight,6
+2019,20,Wet/Damp,Fine with high winds,Urban,Slight,9
+2020,20,Wet/Damp,Fine with high winds,Rural,Slight,10
+2020,20,Wet/Damp,Fine with high winds,Urban,Slight,12
+2021,20,Wet/Damp,Fine with high winds,Rural,Slight,11
+2021,20,Wet/Damp,Fine with high winds,Urban,Slight,11
+2022,20,Wet/Damp,Fine with high winds,Rural,Slight,8
+2022,20,Wet/Damp,Fine with high winds,Urban,Slight,10
+2023,20,Wet/Damp,Fine with high winds,Rural,Slight,9
+2023,20,Wet/Damp,Fine with high winds,Urban,Slight,14
+2014,30,Wet/Damp,Fine with high winds,Rural,Slight,46
+2014,30,Wet/Damp,Fine with high winds,Urban,Slight,55
+2015,30,Wet/Damp,Fine with high winds,Rural,Slight,31
+2015,30,Wet/Damp,Fine with high winds,Urban,Slight,37
+2016,30,Wet/Damp,Fine with high winds,Rural,Slight,13
+2016,30,Wet/Damp,Fine with high winds,Urban,Slight,19
+2017,30,Wet/Damp,Fine with high winds,Rural,Slight,12
+2017,30,Wet/Damp,Fine with high winds,Urban,Slight,16
+2018,30,Wet/Damp,Fine with high winds,Rural,Slight,13
+2018,30,Wet/Damp,Fine with high winds,Urban,Slight,18
+2019,30,Wet/Damp,Fine with high winds,Rural,Slight,26
+2019,30,Wet/Damp,Fine with high winds,Urban,Slight,32
+2020,30,Wet/Damp,Fine with high winds,Rural,Slight,17
+2020,30,Wet/Damp,Fine with high winds,Urban,Slight,22
+2021,30,Wet/Damp,Fine with high winds,Rural,Slight,17
+2021,30,Wet/Damp,Fine with high winds,Urban,Slight,19
+2022,30,Wet/Damp,Fine with high winds,Rural,Slight,8
+2022,30,Wet/Damp,Fine with high winds,Urban,Slight,12
+2023,30,Wet/Damp,Fine with high winds,Rural,Slight,13
+2023,30,Wet/Damp,Fine with high winds,Urban,Slight,13
+2014,40,Wet/Damp,Fine with high winds,Rural,Slight,6
+2014,40,Wet/Damp,Fine with high winds,Urban,Slight,6
+2015,40,Wet/Damp,Fine with high winds,Rural,Slight,3
+2015,40,Wet/Damp,Fine with high winds,Urban,Slight,4
+2016,40,Wet/Damp,Fine with high winds,Rural,Slight,2
+2016,40,Wet/Damp,Fine with high winds,Urban,Slight,2
+2017,40,Wet/Damp,Fine with high winds,Rural,Slight,2
+2017,40,Wet/Damp,Fine with high winds,Urban,Slight,2
+2018,40,Wet/Damp,Fine with high winds,Rural,Slight,5
+2018,40,Wet/Damp,Fine with high winds,Urban,Slight,5
+2019,40,Wet/Damp,Fine with high winds,Rural,Slight,4
+2019,40,Wet/Damp,Fine with high winds,Urban,Slight,4
+2022,40,Wet/Damp,Fine with high winds,Rural,Slight,1
+2022,40,Wet/Damp,Fine with high winds,Urban,Slight,1
+2023,40,Wet/Damp,Fine with high winds,Rural,Slight,4
+2023,40,Wet/Damp,Fine with high winds,Urban,Slight,4
+2014,50,Wet/Damp,Fine with high winds,Rural,Slight,2
+2014,50,Wet/Damp,Fine with high winds,Urban,Slight,2
+2018,50,Wet/Damp,Fine with high winds,Rural,Slight,1
+2018,50,Wet/Damp,Fine with high winds,Urban,Slight,1
+2021,50,Wet/Damp,Fine with high winds,Rural,Slight,3
+2021,50,Wet/Damp,Fine with high winds,Urban,Slight,3
+2022,50,Wet/Damp,Fine with high winds,Rural,Slight,2
+2022,50,Wet/Damp,Fine with high winds,Urban,Slight,2
+2019,-1,Wet/Damp,Fine without high winds,Rural,Slight,3
+2019,-1,Wet/Damp,Fine without high winds,Urban,Slight,3
+2014,20,Wet/Damp,Fine without high winds,Rural,Slight,6
+2014,20,Wet/Damp,Fine without high winds,Urban,Slight,18
+2015,20,Wet/Damp,Fine without high winds,Rural,Slight,12
+2015,20,Wet/Damp,Fine without high winds,Urban,Slight,32
+2016,20,Wet/Damp,Fine without high winds,Rural,Slight,125
+2016,20,Wet/Damp,Fine without high winds,Urban,Slight,182
+2017,20,Wet/Damp,Fine without high winds,Rural,Slight,211
+2017,20,Wet/Damp,Fine without high winds,Urban,Slight,301
+2018,20,Wet/Damp,Fine without high winds,Rural,Slight,208
+2018,20,Wet/Damp,Fine without high winds,Urban,Slight,276
+2019,20,Wet/Damp,Fine without high winds,Rural,Slight,262
+2019,20,Wet/Damp,Fine without high winds,Urban,Slight,376
+2020,20,Wet/Damp,Fine without high winds,Rural,Slight,345
+2020,20,Wet/Damp,Fine without high winds,Urban,Slight,460
+2021,20,Wet/Damp,Fine without high winds,Rural,Slight,307
+2021,20,Wet/Damp,Fine without high winds,Urban,Slight,443
+2022,20,Wet/Damp,Fine without high winds,Rural,Slight,395
+2022,20,Wet/Damp,Fine without high winds,Urban,Slight,525
+2023,20,Wet/Damp,Fine without high winds,Rural,Slight,425
+2023,20,Wet/Damp,Fine without high winds,Urban,Slight,597
+2014,30,Wet/Damp,Fine without high winds,Rural,Slight,1102
+2014,30,Wet/Damp,Fine without high winds,Urban,Slight,1358
+2015,30,Wet/Damp,Fine without high winds,Rural,Slight,700
+2015,30,Wet/Damp,Fine without high winds,Urban,Slight,885
+2016,30,Wet/Damp,Fine without high winds,Rural,Slight,867
+2016,30,Wet/Damp,Fine without high winds,Urban,Slight,1071
+2017,30,Wet/Damp,Fine without high winds,Rural,Slight,1015
+2017,30,Wet/Damp,Fine without high winds,Urban,Slight,1223
+2018,30,Wet/Damp,Fine without high winds,Rural,Slight,772
+2018,30,Wet/Damp,Fine without high winds,Urban,Slight,920
+2019,30,Wet/Damp,Fine without high winds,Rural,Slight,788
+2019,30,Wet/Damp,Fine without high winds,Urban,Slight,954
+2020,30,Wet/Damp,Fine without high winds,Rural,Slight,609
+2020,30,Wet/Damp,Fine without high winds,Urban,Slight,709
+2021,30,Wet/Damp,Fine without high winds,Rural,Slight,496
+2021,30,Wet/Damp,Fine without high winds,Urban,Slight,576
+2022,30,Wet/Damp,Fine without high winds,Rural,Slight,524
+2022,30,Wet/Damp,Fine without high winds,Urban,Slight,608
+2023,30,Wet/Damp,Fine without high winds,Rural,Slight,456
+2023,30,Wet/Damp,Fine without high winds,Urban,Slight,544
+2014,40,Wet/Damp,Fine without high winds,Rural,Slight,48
+2014,40,Wet/Damp,Fine without high winds,Urban,Slight,54
+2015,40,Wet/Damp,Fine without high winds,Rural,Slight,25
+2015,40,Wet/Damp,Fine without high winds,Urban,Slight,34
+2016,40,Wet/Damp,Fine without high winds,Rural,Slight,72
+2016,40,Wet/Damp,Fine without high winds,Urban,Slight,91
+2017,40,Wet/Damp,Fine without high winds,Rural,Slight,123
+2017,40,Wet/Damp,Fine without high winds,Urban,Slight,137
+2018,40,Wet/Damp,Fine without high winds,Rural,Slight,104
+2018,40,Wet/Damp,Fine without high winds,Urban,Slight,116
+2019,40,Wet/Damp,Fine without high winds,Rural,Slight,108
+2019,40,Wet/Damp,Fine without high winds,Urban,Slight,123
+2020,40,Wet/Damp,Fine without high winds,Rural,Slight,68
+2020,40,Wet/Damp,Fine without high winds,Urban,Slight,79
+2021,40,Wet/Damp,Fine without high winds,Rural,Slight,56
+2021,40,Wet/Damp,Fine without high winds,Urban,Slight,65
+2022,40,Wet/Damp,Fine without high winds,Rural,Slight,52
+2022,40,Wet/Damp,Fine without high winds,Urban,Slight,68
+2023,40,Wet/Damp,Fine without high winds,Rural,Slight,55
+2023,40,Wet/Damp,Fine without high winds,Urban,Slight,59
+2014,50,Wet/Damp,Fine without high winds,Rural,Slight,48
+2014,50,Wet/Damp,Fine without high winds,Urban,Slight,52
+2015,50,Wet/Damp,Fine without high winds,Rural,Slight,28
+2015,50,Wet/Damp,Fine without high winds,Urban,Slight,30
+2016,50,Wet/Damp,Fine without high winds,Rural,Slight,45
+2016,50,Wet/Damp,Fine without high winds,Urban,Slight,50
+2017,50,Wet/Damp,Fine without high winds,Rural,Slight,76
+2017,50,Wet/Damp,Fine without high winds,Urban,Slight,81
+2018,50,Wet/Damp,Fine without high winds,Rural,Slight,54
+2018,50,Wet/Damp,Fine without high winds,Urban,Slight,58
+2019,50,Wet/Damp,Fine without high winds,Rural,Slight,59
+2019,50,Wet/Damp,Fine without high winds,Urban,Slight,63
+2020,50,Wet/Damp,Fine without high winds,Rural,Slight,44
+2020,50,Wet/Damp,Fine without high winds,Urban,Slight,44
+2021,50,Wet/Damp,Fine without high winds,Rural,Slight,61
+2021,50,Wet/Damp,Fine without high winds,Urban,Slight,62
+2022,50,Wet/Damp,Fine without high winds,Rural,Slight,46
+2022,50,Wet/Damp,Fine without high winds,Urban,Slight,46
+2023,50,Wet/Damp,Fine without high winds,Rural,Slight,42
+2023,50,Wet/Damp,Fine without high winds,Urban,Slight,42
+2014,60,Wet/Damp,Fine without high winds,Rural,Slight,6
+2014,60,Wet/Damp,Fine without high winds,Urban,Slight,6
+2015,60,Wet/Damp,Fine without high winds,Rural,Slight,2
+2015,60,Wet/Damp,Fine without high winds,Urban,Slight,2
+2016,60,Wet/Damp,Fine without high winds,Rural,Slight,5
+2016,60,Wet/Damp,Fine without high winds,Urban,Slight,5
+2017,60,Wet/Damp,Fine without high winds,Rural,Slight,2
+2017,60,Wet/Damp,Fine without high winds,Urban,Slight,4
+2018,60,Wet/Damp,Fine without high winds,Rural,Slight,7
+2018,60,Wet/Damp,Fine without high winds,Urban,Slight,7
+2019,60,Wet/Damp,Fine without high winds,Rural,Slight,4
+2019,60,Wet/Damp,Fine without high winds,Urban,Slight,4
+2020,60,Wet/Damp,Fine without high winds,Rural,Slight,2
+2020,60,Wet/Damp,Fine without high winds,Urban,Slight,2
+2021,60,Wet/Damp,Fine without high winds,Rural,Slight,5
+2021,60,Wet/Damp,Fine without high winds,Urban,Slight,5
+2022,60,Wet/Damp,Fine without high winds,Rural,Slight,6
+2022,60,Wet/Damp,Fine without high winds,Urban,Slight,6
+2023,60,Wet/Damp,Fine without high winds,Rural,Slight,2
+2023,60,Wet/Damp,Fine without high winds,Urban,Slight,2
+2014,70,Wet/Damp,Fine without high winds,Rural,Slight,8
+2014,70,Wet/Damp,Fine without high winds,Urban,Slight,8
+2015,70,Wet/Damp,Fine without high winds,Rural,Slight,10
+2015,70,Wet/Damp,Fine without high winds,Urban,Slight,10
+2016,70,Wet/Damp,Fine without high winds,Rural,Slight,16
+2016,70,Wet/Damp,Fine without high winds,Urban,Slight,16
+2017,70,Wet/Damp,Fine without high winds,Rural,Slight,13
+2017,70,Wet/Damp,Fine without high winds,Urban,Slight,13
+2018,70,Wet/Damp,Fine without high winds,Rural,Slight,5
+2018,70,Wet/Damp,Fine without high winds,Urban,Slight,5
+2019,70,Wet/Damp,Fine without high winds,Rural,Slight,4
+2019,70,Wet/Damp,Fine without high winds,Urban,Slight,4
+2020,70,Wet/Damp,Fine without high winds,Rural,Slight,17
+2020,70,Wet/Damp,Fine without high winds,Urban,Slight,17
+2021,70,Wet/Damp,Fine without high winds,Rural,Slight,11
+2021,70,Wet/Damp,Fine without high winds,Urban,Slight,11
+2022,70,Wet/Damp,Fine without high winds,Rural,Slight,13
+2022,70,Wet/Damp,Fine without high winds,Urban,Slight,13
+2023,70,Wet/Damp,Fine without high winds,Rural,Slight,16
+2023,70,Wet/Damp,Fine without high winds,Urban,Slight,16
+2016,20,Wet/Damp,Fog or mist - if hazard,Rural,Slight,7
+2016,20,Wet/Damp,Fog or mist - if hazard,Urban,Slight,9
+2017,20,Wet/Damp,Fog or mist - if hazard,Rural,Slight,1
+2017,20,Wet/Damp,Fog or mist - if hazard,Urban,Slight,1
+2018,20,Wet/Damp,Fog or mist - if hazard,Rural,Slight,1
+2018,20,Wet/Damp,Fog or mist - if hazard,Urban,Slight,1
+2019,20,Wet/Damp,Fog or mist - if hazard,Rural,Slight,1
+2019,20,Wet/Damp,Fog or mist - if hazard,Urban,Slight,1
+2020,20,Wet/Damp,Fog or mist - if hazard,Rural,Slight,7
+2020,20,Wet/Damp,Fog or mist - if hazard,Urban,Slight,7
+2021,20,Wet/Damp,Fog or mist - if hazard,Rural,Slight,5
+2021,20,Wet/Damp,Fog or mist - if hazard,Urban,Slight,5
+2022,20,Wet/Damp,Fog or mist - if hazard,Rural,Slight,7
+2022,20,Wet/Damp,Fog or mist - if hazard,Urban,Slight,8
+2023,20,Wet/Damp,Fog or mist - if hazard,Rural,Slight,9
+2023,20,Wet/Damp,Fog or mist - if hazard,Urban,Slight,11
+2014,30,Wet/Damp,Fog or mist - if hazard,Rural,Slight,7
+2014,30,Wet/Damp,Fog or mist - if hazard,Urban,Slight,8
+2015,30,Wet/Damp,Fog or mist - if hazard,Rural,Slight,14
+2015,30,Wet/Damp,Fog or mist - if hazard,Urban,Slight,16
+2016,30,Wet/Damp,Fog or mist - if hazard,Rural,Slight,43
+2016,30,Wet/Damp,Fog or mist - if hazard,Urban,Slight,54
+2017,30,Wet/Damp,Fog or mist - if hazard,Rural,Slight,7
+2017,30,Wet/Damp,Fog or mist - if hazard,Urban,Slight,11
+2018,30,Wet/Damp,Fog or mist - if hazard,Rural,Slight,1
+2018,30,Wet/Damp,Fog or mist - if hazard,Urban,Slight,1
+2019,30,Wet/Damp,Fog or mist - if hazard,Rural,Slight,6
+2019,30,Wet/Damp,Fog or mist - if hazard,Urban,Slight,7
+2020,30,Wet/Damp,Fog or mist - if hazard,Rural,Slight,6
+2020,30,Wet/Damp,Fog or mist - if hazard,Urban,Slight,7
+2021,30,Wet/Damp,Fog or mist - if hazard,Rural,Slight,14
+2021,30,Wet/Damp,Fog or mist - if hazard,Urban,Slight,15
+2022,30,Wet/Damp,Fog or mist - if hazard,Rural,Slight,8
+2022,30,Wet/Damp,Fog or mist - if hazard,Urban,Slight,8
+2023,30,Wet/Damp,Fog or mist - if hazard,Rural,Slight,8
+2023,30,Wet/Damp,Fog or mist - if hazard,Urban,Slight,8
+2016,40,Wet/Damp,Fog or mist - if hazard,Rural,Slight,4
+2016,40,Wet/Damp,Fog or mist - if hazard,Urban,Slight,4
+2017,40,Wet/Damp,Fog or mist - if hazard,Urban,Slight,1
+2020,40,Wet/Damp,Fog or mist - if hazard,Rural,Slight,1
+2020,40,Wet/Damp,Fog or mist - if hazard,Urban,Slight,1
+2022,40,Wet/Damp,Fog or mist - if hazard,Urban,Slight,2
+2023,40,Wet/Damp,Fog or mist - if hazard,Rural,Slight,1
+2023,40,Wet/Damp,Fog or mist - if hazard,Urban,Slight,1
+2016,50,Wet/Damp,Fog or mist - if hazard,Rural,Slight,1
+2016,50,Wet/Damp,Fog or mist - if hazard,Urban,Slight,1
+2017,50,Wet/Damp,Fog or mist - if hazard,Urban,Slight,2
+2020,50,Wet/Damp,Fog or mist - if hazard,Rural,Slight,3
+2020,50,Wet/Damp,Fog or mist - if hazard,Urban,Slight,3
+2021,50,Wet/Damp,Fog or mist - if hazard,Urban,Slight,1
+2014,60,Wet/Damp,Fog or mist - if hazard,Rural,Slight,1
+2014,60,Wet/Damp,Fog or mist - if hazard,Urban,Slight,1
+2014,70,Wet/Damp,Fog or mist - if hazard,Rural,Slight,2
+2014,70,Wet/Damp,Fog or mist - if hazard,Urban,Slight,2
+2020,70,Wet/Damp,Fog or mist - if hazard,Rural,Slight,2
+2020,70,Wet/Damp,Fog or mist - if hazard,Urban,Slight,2
+2019,-1,Wet/Damp,Other,Rural,Slight,1
+2019,-1,Wet/Damp,Other,Urban,Slight,1
+2014,20,Wet/Damp,Other,Rural,Slight,2
+2014,20,Wet/Damp,Other,Urban,Slight,2
+2015,20,Wet/Damp,Other,Rural,Slight,1
+2015,20,Wet/Damp,Other,Urban,Slight,2
+2016,20,Wet/Damp,Other,Rural,Slight,12
+2016,20,Wet/Damp,Other,Urban,Slight,23
+2017,20,Wet/Damp,Other,Rural,Slight,41
+2017,20,Wet/Damp,Other,Urban,Slight,72
+2018,20,Wet/Damp,Other,Rural,Slight,25
+2018,20,Wet/Damp,Other,Urban,Slight,43
+2019,20,Wet/Damp,Other,Rural,Slight,54
+2019,20,Wet/Damp,Other,Urban,Slight,74
+2020,20,Wet/Damp,Other,Rural,Slight,71
+2020,20,Wet/Damp,Other,Urban,Slight,96
+2021,20,Wet/Damp,Other,Rural,Slight,70
+2021,20,Wet/Damp,Other,Urban,Slight,82
+2022,20,Wet/Damp,Other,Rural,Slight,70
+2022,20,Wet/Damp,Other,Urban,Slight,91
+2023,20,Wet/Damp,Other,Rural,Slight,76
+2023,20,Wet/Damp,Other,Urban,Slight,105
+2014,30,Wet/Damp,Other,Rural,Slight,99
+2014,30,Wet/Damp,Other,Urban,Slight,138
+2015,30,Wet/Damp,Other,Rural,Slight,64
+2015,30,Wet/Damp,Other,Urban,Slight,86
+2016,30,Wet/Damp,Other,Rural,Slight,112
+2016,30,Wet/Damp,Other,Urban,Slight,136
+2017,30,Wet/Damp,Other,Rural,Slight,190
+2017,30,Wet/Damp,Other,Urban,Slight,225
+2018,30,Wet/Damp,Other,Rural,Slight,108
+2018,30,Wet/Damp,Other,Urban,Slight,135
+2019,30,Wet/Damp,Other,Rural,Slight,145
+2019,30,Wet/Damp,Other,Urban,Slight,172
+2020,30,Wet/Damp,Other,Rural,Slight,103
+2020,30,Wet/Damp,Other,Urban,Slight,126
+2021,30,Wet/Damp,Other,Rural,Slight,94
+2021,30,Wet/Damp,Other,Urban,Slight,108
+2022,30,Wet/Damp,Other,Rural,Slight,113
+2022,30,Wet/Damp,Other,Urban,Slight,134
+2023,30,Wet/Damp,Other,Rural,Slight,72
+2023,30,Wet/Damp,Other,Urban,Slight,90
+2014,40,Wet/Damp,Other,Rural,Slight,5
+2014,40,Wet/Damp,Other,Urban,Slight,7
+2015,40,Wet/Damp,Other,Rural,Slight,7
+2015,40,Wet/Damp,Other,Urban,Slight,8
+2016,40,Wet/Damp,Other,Rural,Slight,8
+2016,40,Wet/Damp,Other,Urban,Slight,12
+2017,40,Wet/Damp,Other,Rural,Slight,26
+2017,40,Wet/Damp,Other,Urban,Slight,30
+2018,40,Wet/Damp,Other,Rural,Slight,10
+2018,40,Wet/Damp,Other,Urban,Slight,11
+2019,40,Wet/Damp,Other,Rural,Slight,21
+2019,40,Wet/Damp,Other,Urban,Slight,22
+2020,40,Wet/Damp,Other,Rural,Slight,12
+2020,40,Wet/Damp,Other,Urban,Slight,12
+2021,40,Wet/Damp,Other,Rural,Slight,6
+2021,40,Wet/Damp,Other,Urban,Slight,9
+2022,40,Wet/Damp,Other,Rural,Slight,9
+2022,40,Wet/Damp,Other,Urban,Slight,10
+2023,40,Wet/Damp,Other,Rural,Slight,8
+2023,40,Wet/Damp,Other,Urban,Slight,11
+2014,50,Wet/Damp,Other,Rural,Slight,4
+2014,50,Wet/Damp,Other,Urban,Slight,4
+2015,50,Wet/Damp,Other,Rural,Slight,4
+2015,50,Wet/Damp,Other,Urban,Slight,4
+2016,50,Wet/Damp,Other,Rural,Slight,4
+2016,50,Wet/Damp,Other,Urban,Slight,4
+2017,50,Wet/Damp,Other,Rural,Slight,13
+2017,50,Wet/Damp,Other,Urban,Slight,14
+2018,50,Wet/Damp,Other,Rural,Slight,10
+2018,50,Wet/Damp,Other,Urban,Slight,10
+2019,50,Wet/Damp,Other,Rural,Slight,14
+2019,50,Wet/Damp,Other,Urban,Slight,14
+2020,50,Wet/Damp,Other,Rural,Slight,4
+2020,50,Wet/Damp,Other,Urban,Slight,4
+2021,50,Wet/Damp,Other,Rural,Slight,12
+2021,50,Wet/Damp,Other,Urban,Slight,12
+2022,50,Wet/Damp,Other,Rural,Slight,9
+2022,50,Wet/Damp,Other,Urban,Slight,9
+2023,50,Wet/Damp,Other,Rural,Slight,5
+2023,50,Wet/Damp,Other,Urban,Slight,5
+2019,60,Wet/Damp,Other,Rural,Slight,1
+2019,60,Wet/Damp,Other,Urban,Slight,1
+2023,60,Wet/Damp,Other,Rural,Slight,2
+2023,60,Wet/Damp,Other,Urban,Slight,2
+2014,70,Wet/Damp,Other,Rural,Slight,2
+2014,70,Wet/Damp,Other,Urban,Slight,2
+2019,70,Wet/Damp,Other,Rural,Slight,4
+2019,70,Wet/Damp,Other,Urban,Slight,4
+2020,70,Wet/Damp,Other,Rural,Slight,1
+2020,70,Wet/Damp,Other,Urban,Slight,1
+2022,70,Wet/Damp,Other,Rural,Slight,1
+2022,70,Wet/Damp,Other,Urban,Slight,1
+2023,70,Wet/Damp,Other,Rural,Slight,2
+2023,70,Wet/Damp,Other,Urban,Slight,2
+2014,20,Wet/Damp,Raining with high winds,Rural,Slight,2
+2014,20,Wet/Damp,Raining with high winds,Urban,Slight,3
+2015,20,Wet/Damp,Raining with high winds,Rural,Slight,2
+2015,20,Wet/Damp,Raining with high winds,Urban,Slight,4
+2016,20,Wet/Damp,Raining with high winds,Rural,Slight,4
+2016,20,Wet/Damp,Raining with high winds,Urban,Slight,5
+2017,20,Wet/Damp,Raining with high winds,Rural,Slight,6
+2017,20,Wet/Damp,Raining with high winds,Urban,Slight,18
+2018,20,Wet/Damp,Raining with high winds,Rural,Slight,20
+2018,20,Wet/Damp,Raining with high winds,Urban,Slight,29
+2019,20,Wet/Damp,Raining with high winds,Rural,Slight,21
+2019,20,Wet/Damp,Raining with high winds,Urban,Slight,32
+2020,20,Wet/Damp,Raining with high winds,Rural,Slight,47
+2020,20,Wet/Damp,Raining with high winds,Urban,Slight,70
+2021,20,Wet/Damp,Raining with high winds,Rural,Slight,34
+2021,20,Wet/Damp,Raining with high winds,Urban,Slight,56
+2022,20,Wet/Damp,Raining with high winds,Rural,Slight,29
+2022,20,Wet/Damp,Raining with high winds,Urban,Slight,35
+2023,20,Wet/Damp,Raining with high winds,Rural,Slight,35
+2023,20,Wet/Damp,Raining with high winds,Urban,Slight,52
+2014,30,Wet/Damp,Raining with high winds,Rural,Slight,86
+2014,30,Wet/Damp,Raining with high winds,Urban,Slight,108
+2015,30,Wet/Damp,Raining with high winds,Rural,Slight,76
+2015,30,Wet/Damp,Raining with high winds,Urban,Slight,91
+2016,30,Wet/Damp,Raining with high winds,Rural,Slight,83
+2016,30,Wet/Damp,Raining with high winds,Urban,Slight,92
+2017,30,Wet/Damp,Raining with high winds,Rural,Slight,46
+2017,30,Wet/Damp,Raining with high winds,Urban,Slight,62
+2018,30,Wet/Damp,Raining with high winds,Rural,Slight,56
+2018,30,Wet/Damp,Raining with high winds,Urban,Slight,65
+2019,30,Wet/Damp,Raining with high winds,Rural,Slight,68
+2019,30,Wet/Damp,Raining with high winds,Urban,Slight,82
+2020,30,Wet/Damp,Raining with high winds,Rural,Slight,93
+2020,30,Wet/Damp,Raining with high winds,Urban,Slight,99
+2021,30,Wet/Damp,Raining with high winds,Rural,Slight,56
+2021,30,Wet/Damp,Raining with high winds,Urban,Slight,58
+2022,30,Wet/Damp,Raining with high winds,Rural,Slight,36
+2022,30,Wet/Damp,Raining with high winds,Urban,Slight,40
+2023,30,Wet/Damp,Raining with high winds,Rural,Slight,34
+2023,30,Wet/Damp,Raining with high winds,Urban,Slight,39
+2014,40,Wet/Damp,Raining with high winds,Rural,Slight,2
+2014,40,Wet/Damp,Raining with high winds,Urban,Slight,2
+2015,40,Wet/Damp,Raining with high winds,Rural,Slight,3
+2015,40,Wet/Damp,Raining with high winds,Urban,Slight,3
+2016,40,Wet/Damp,Raining with high winds,Urban,Slight,2
+2017,40,Wet/Damp,Raining with high winds,Rural,Slight,3
+2017,40,Wet/Damp,Raining with high winds,Urban,Slight,4
+2018,40,Wet/Damp,Raining with high winds,Rural,Slight,7
+2018,40,Wet/Damp,Raining with high winds,Urban,Slight,7
+2019,40,Wet/Damp,Raining with high winds,Rural,Slight,8
+2019,40,Wet/Damp,Raining with high winds,Urban,Slight,9
+2020,40,Wet/Damp,Raining with high winds,Rural,Slight,9
+2020,40,Wet/Damp,Raining with high winds,Urban,Slight,10
+2021,40,Wet/Damp,Raining with high winds,Rural,Slight,8
+2021,40,Wet/Damp,Raining with high winds,Urban,Slight,8
+2022,40,Wet/Damp,Raining with high winds,Rural,Slight,5
+2022,40,Wet/Damp,Raining with high winds,Urban,Slight,5
+2023,40,Wet/Damp,Raining with high winds,Rural,Slight,1
+2023,40,Wet/Damp,Raining with high winds,Urban,Slight,1
+2014,50,Wet/Damp,Raining with high winds,Rural,Slight,9
+2014,50,Wet/Damp,Raining with high winds,Urban,Slight,9
+2015,50,Wet/Damp,Raining with high winds,Rural,Slight,2
+2015,50,Wet/Damp,Raining with high winds,Urban,Slight,2
+2016,50,Wet/Damp,Raining with high winds,Rural,Slight,1
+2016,50,Wet/Damp,Raining with high winds,Urban,Slight,1
+2017,50,Wet/Damp,Raining with high winds,Rural,Slight,3
+2017,50,Wet/Damp,Raining with high winds,Urban,Slight,3
+2018,50,Wet/Damp,Raining with high winds,Rural,Slight,1
+2018,50,Wet/Damp,Raining with high winds,Urban,Slight,1
+2019,50,Wet/Damp,Raining with high winds,Rural,Slight,4
+2019,50,Wet/Damp,Raining with high winds,Urban,Slight,5
+2020,50,Wet/Damp,Raining with high winds,Rural,Slight,17
+2020,50,Wet/Damp,Raining with high winds,Urban,Slight,17
+2021,50,Wet/Damp,Raining with high winds,Rural,Slight,8
+2021,50,Wet/Damp,Raining with high winds,Urban,Slight,8
+2022,50,Wet/Damp,Raining with high winds,Rural,Slight,4
+2022,50,Wet/Damp,Raining with high winds,Urban,Slight,4
+2023,50,Wet/Damp,Raining with high winds,Rural,Slight,3
+2023,50,Wet/Damp,Raining with high winds,Urban,Slight,3
+2016,60,Wet/Damp,Raining with high winds,Rural,Slight,1
+2016,60,Wet/Damp,Raining with high winds,Urban,Slight,1
+2023,60,Wet/Damp,Raining with high winds,Rural,Slight,1
+2023,60,Wet/Damp,Raining with high winds,Urban,Slight,1
+2014,70,Wet/Damp,Raining with high winds,Rural,Slight,4
+2014,70,Wet/Damp,Raining with high winds,Urban,Slight,4
+2017,70,Wet/Damp,Raining with high winds,Rural,Slight,2
+2017,70,Wet/Damp,Raining with high winds,Urban,Slight,2
+2018,70,Wet/Damp,Raining with high winds,Rural,Slight,5
+2018,70,Wet/Damp,Raining with high winds,Urban,Slight,5
+2020,70,Wet/Damp,Raining with high winds,Rural,Slight,1
+2020,70,Wet/Damp,Raining with high winds,Urban,Slight,1
+2021,70,Wet/Damp,Raining with high winds,Rural,Slight,3
+2021,70,Wet/Damp,Raining with high winds,Urban,Slight,3
+2022,70,Wet/Damp,Raining with high winds,Rural,Slight,1
+2022,70,Wet/Damp,Raining with high winds,Urban,Slight,1
+2023,70,Wet/Damp,Raining with high winds,Rural,Slight,9
+2023,70,Wet/Damp,Raining with high winds,Urban,Slight,9
+2019,-1,Wet/Damp,Raining without high winds,Rural,Slight,5
+2019,-1,Wet/Damp,Raining without high winds,Urban,Slight,7
+2020,-1,Wet/Damp,Raining without high winds,Rural,Slight,1
+2020,-1,Wet/Damp,Raining without high winds,Urban,Slight,1
+2014,20,Wet/Damp,Raining without high winds,Rural,Slight,7
+2014,20,Wet/Damp,Raining without high winds,Urban,Slight,21
+2015,20,Wet/Damp,Raining without high winds,Rural,Slight,37
+2015,20,Wet/Damp,Raining without high winds,Urban,Slight,64
+2016,20,Wet/Damp,Raining without high winds,Rural,Slight,110
+2016,20,Wet/Damp,Raining without high winds,Urban,Slight,151
+2017,20,Wet/Damp,Raining without high winds,Rural,Slight,313
+2017,20,Wet/Damp,Raining without high winds,Urban,Slight,456
+2018,20,Wet/Damp,Raining without high winds,Rural,Slight,408
+2018,20,Wet/Damp,Raining without high winds,Urban,Slight,572
+2019,20,Wet/Damp,Raining without high winds,Rural,Slight,491
+2019,20,Wet/Damp,Raining without high winds,Urban,Slight,699
+2020,20,Wet/Damp,Raining without high winds,Rural,Slight,536
+2020,20,Wet/Damp,Raining without high winds,Urban,Slight,730
+2021,20,Wet/Damp,Raining without high winds,Rural,Slight,536
+2021,20,Wet/Damp,Raining without high winds,Urban,Slight,729
+2022,20,Wet/Damp,Raining without high winds,Rural,Slight,524
+2022,20,Wet/Damp,Raining without high winds,Urban,Slight,709
+2023,20,Wet/Damp,Raining without high winds,Rural,Slight,704
+2023,20,Wet/Damp,Raining without high winds,Urban,Slight,937
+2014,30,Wet/Damp,Raining without high winds,Rural,Slight,1570
+2014,30,Wet/Damp,Raining without high winds,Urban,Slight,1949
+2015,30,Wet/Damp,Raining without high winds,Rural,Slight,1150
+2015,30,Wet/Damp,Raining without high winds,Urban,Slight,1430
+2016,30,Wet/Damp,Raining without high winds,Rural,Slight,1157
+2016,30,Wet/Damp,Raining without high winds,Urban,Slight,1408
+2017,30,Wet/Damp,Raining without high winds,Rural,Slight,1458
+2017,30,Wet/Damp,Raining without high winds,Urban,Slight,1796
+2018,30,Wet/Damp,Raining without high winds,Rural,Slight,1275
+2018,30,Wet/Damp,Raining without high winds,Urban,Slight,1541
+2019,30,Wet/Damp,Raining without high winds,Rural,Slight,1268
+2019,30,Wet/Damp,Raining without high winds,Urban,Slight,1519
+2020,30,Wet/Damp,Raining without high winds,Rural,Slight,1016
+2020,30,Wet/Damp,Raining without high winds,Urban,Slight,1194
+2021,30,Wet/Damp,Raining without high winds,Rural,Slight,754
+2021,30,Wet/Damp,Raining without high winds,Urban,Slight,886
+2022,30,Wet/Damp,Raining without high winds,Rural,Slight,646
+2022,30,Wet/Damp,Raining without high winds,Urban,Slight,753
+2023,30,Wet/Damp,Raining without high winds,Rural,Slight,703
+2023,30,Wet/Damp,Raining without high winds,Urban,Slight,786
+2014,40,Wet/Damp,Raining without high winds,Rural,Slight,72
+2014,40,Wet/Damp,Raining without high winds,Urban,Slight,82
+2015,40,Wet/Damp,Raining without high winds,Rural,Slight,60
+2015,40,Wet/Damp,Raining without high winds,Urban,Slight,64
+2016,40,Wet/Damp,Raining without high winds,Rural,Slight,70
+2016,40,Wet/Damp,Raining without high winds,Urban,Slight,84
+2017,40,Wet/Damp,Raining without high winds,Rural,Slight,122
+2017,40,Wet/Damp,Raining without high winds,Urban,Slight,147
+2018,40,Wet/Damp,Raining without high winds,Rural,Slight,148
+2018,40,Wet/Damp,Raining without high winds,Urban,Slight,179
+2019,40,Wet/Damp,Raining without high winds,Rural,Slight,98
+2019,40,Wet/Damp,Raining without high winds,Urban,Slight,114
+2020,40,Wet/Damp,Raining without high winds,Rural,Slight,94
+2020,40,Wet/Damp,Raining without high winds,Urban,Slight,119
+2021,40,Wet/Damp,Raining without high winds,Rural,Slight,94
+2021,40,Wet/Damp,Raining without high winds,Urban,Slight,118
+2022,40,Wet/Damp,Raining without high winds,Rural,Slight,73
+2022,40,Wet/Damp,Raining without high winds,Urban,Slight,78
+2023,40,Wet/Damp,Raining without high winds,Rural,Slight,77
+2023,40,Wet/Damp,Raining without high winds,Urban,Slight,91
+2014,50,Wet/Damp,Raining without high winds,Rural,Slight,33
+2014,50,Wet/Damp,Raining without high winds,Urban,Slight,33
+2015,50,Wet/Damp,Raining without high winds,Rural,Slight,42
+2015,50,Wet/Damp,Raining without high winds,Urban,Slight,44
+2016,50,Wet/Damp,Raining without high winds,Rural,Slight,66
+2016,50,Wet/Damp,Raining without high winds,Urban,Slight,74
+2017,50,Wet/Damp,Raining without high winds,Rural,Slight,80
+2017,50,Wet/Damp,Raining without high winds,Urban,Slight,82
+2018,50,Wet/Damp,Raining without high winds,Rural,Slight,74
+2018,50,Wet/Damp,Raining without high winds,Urban,Slight,77
+2019,50,Wet/Damp,Raining without high winds,Rural,Slight,59
+2019,50,Wet/Damp,Raining without high winds,Urban,Slight,59
+2020,50,Wet/Damp,Raining without high winds,Rural,Slight,59
+2020,50,Wet/Damp,Raining without high winds,Urban,Slight,60
+2021,50,Wet/Damp,Raining without high winds,Rural,Slight,59
+2021,50,Wet/Damp,Raining without high winds,Urban,Slight,60
+2022,50,Wet/Damp,Raining without high winds,Rural,Slight,30
+2022,50,Wet/Damp,Raining without high winds,Urban,Slight,31
+2023,50,Wet/Damp,Raining without high winds,Rural,Slight,43
+2023,50,Wet/Damp,Raining without high winds,Urban,Slight,45
+2014,60,Wet/Damp,Raining without high winds,Rural,Slight,3
+2014,60,Wet/Damp,Raining without high winds,Urban,Slight,3
+2015,60,Wet/Damp,Raining without high winds,Rural,Slight,4
+2015,60,Wet/Damp,Raining without high winds,Urban,Slight,4
+2017,60,Wet/Damp,Raining without high winds,Rural,Slight,2
+2017,60,Wet/Damp,Raining without high winds,Urban,Slight,2
+2018,60,Wet/Damp,Raining without high winds,Rural,Slight,1
+2018,60,Wet/Damp,Raining without high winds,Urban,Slight,1
+2019,60,Wet/Damp,Raining without high winds,Rural,Slight,5
+2019,60,Wet/Damp,Raining without high winds,Urban,Slight,6
+2020,60,Wet/Damp,Raining without high winds,Rural,Slight,9
+2020,60,Wet/Damp,Raining without high winds,Urban,Slight,9
+2021,60,Wet/Damp,Raining without high winds,Rural,Slight,1
+2021,60,Wet/Damp,Raining without high winds,Urban,Slight,3
+2022,60,Wet/Damp,Raining without high winds,Rural,Slight,5
+2022,60,Wet/Damp,Raining without high winds,Urban,Slight,5
+2023,60,Wet/Damp,Raining without high winds,Rural,Slight,1
+2023,60,Wet/Damp,Raining without high winds,Urban,Slight,1
+2014,70,Wet/Damp,Raining without high winds,Rural,Slight,11
+2014,70,Wet/Damp,Raining without high winds,Urban,Slight,11
+2015,70,Wet/Damp,Raining without high winds,Rural,Slight,20
+2015,70,Wet/Damp,Raining without high winds,Urban,Slight,20
+2016,70,Wet/Damp,Raining without high winds,Rural,Slight,11
+2016,70,Wet/Damp,Raining without high winds,Urban,Slight,11
+2017,70,Wet/Damp,Raining without high winds,Rural,Slight,26
+2017,70,Wet/Damp,Raining without high winds,Urban,Slight,26
+2018,70,Wet/Damp,Raining without high winds,Rural,Slight,25
+2018,70,Wet/Damp,Raining without high winds,Urban,Slight,25
+2019,70,Wet/Damp,Raining without high winds,Rural,Slight,21
+2019,70,Wet/Damp,Raining without high winds,Urban,Slight,21
+2020,70,Wet/Damp,Raining without high winds,Rural,Slight,11
+2020,70,Wet/Damp,Raining without high winds,Urban,Slight,11
+2021,70,Wet/Damp,Raining without high winds,Rural,Slight,9
+2021,70,Wet/Damp,Raining without high winds,Urban,Slight,9
+2022,70,Wet/Damp,Raining without high winds,Rural,Slight,23
+2022,70,Wet/Damp,Raining without high winds,Urban,Slight,23
+2023,70,Wet/Damp,Raining without high winds,Rural,Slight,20
+2023,70,Wet/Damp,Raining without high winds,Urban,Slight,20
+2018,20,Wet/Damp,Snowing with high winds,Rural,Slight,1
+2018,20,Wet/Damp,Snowing with high winds,Urban,Slight,1
+2019,20,Wet/Damp,Snowing with high winds,Rural,Slight,1
+2019,20,Wet/Damp,Snowing with high winds,Urban,Slight,1
+2017,30,Wet/Damp,Snowing with high winds,Rural,Slight,3
+2017,30,Wet/Damp,Snowing with high winds,Urban,Slight,3
+2021,30,Wet/Damp,Snowing with high winds,Rural,Slight,1
+2021,30,Wet/Damp,Snowing with high winds,Urban,Slight,1
+2019,-1,Wet/Damp,Snowing without high winds,Rural,Slight,1
+2019,-1,Wet/Damp,Snowing without high winds,Urban,Slight,1
+2017,20,Wet/Damp,Snowing without high winds,Rural,Slight,6
+2017,20,Wet/Damp,Snowing without high winds,Urban,Slight,9
+2018,20,Wet/Damp,Snowing without high winds,Rural,Slight,8
+2018,20,Wet/Damp,Snowing without high winds,Urban,Slight,10
+2019,20,Wet/Damp,Snowing without high winds,Rural,Slight,3
+2019,20,Wet/Damp,Snowing without high winds,Urban,Slight,3
+2021,20,Wet/Damp,Snowing without high winds,Rural,Slight,9
+2021,20,Wet/Damp,Snowing without high winds,Urban,Slight,9
+2022,20,Wet/Damp,Snowing without high winds,Rural,Slight,2
+2022,20,Wet/Damp,Snowing without high winds,Urban,Slight,3
+2023,20,Wet/Damp,Snowing without high winds,Rural,Slight,5
+2023,20,Wet/Damp,Snowing without high winds,Urban,Slight,9
+2014,30,Wet/Damp,Snowing without high winds,Rural,Slight,1
+2014,30,Wet/Damp,Snowing without high winds,Urban,Slight,2
+2015,30,Wet/Damp,Snowing without high winds,Rural,Slight,2
+2015,30,Wet/Damp,Snowing without high winds,Urban,Slight,2
+2016,30,Wet/Damp,Snowing without high winds,Rural,Slight,7
+2016,30,Wet/Damp,Snowing without high winds,Urban,Slight,12
+2017,30,Wet/Damp,Snowing without high winds,Rural,Slight,32
+2017,30,Wet/Damp,Snowing without high winds,Urban,Slight,39
+2018,30,Wet/Damp,Snowing without high winds,Rural,Slight,31
+2018,30,Wet/Damp,Snowing without high winds,Urban,Slight,39
+2019,30,Wet/Damp,Snowing without high winds,Rural,Slight,19
+2019,30,Wet/Damp,Snowing without high winds,Urban,Slight,24
+2020,30,Wet/Damp,Snowing without high winds,Rural,Slight,2
+2020,30,Wet/Damp,Snowing without high winds,Urban,Slight,2
+2021,30,Wet/Damp,Snowing without high winds,Rural,Slight,9
+2021,30,Wet/Damp,Snowing without high winds,Urban,Slight,10
+2022,30,Wet/Damp,Snowing without high winds,Rural,Slight,3
+2022,30,Wet/Damp,Snowing without high winds,Urban,Slight,3
+2023,30,Wet/Damp,Snowing without high winds,Rural,Slight,7
+2023,30,Wet/Damp,Snowing without high winds,Urban,Slight,8
+2015,40,Wet/Damp,Snowing without high winds,Rural,Slight,1
+2015,40,Wet/Damp,Snowing without high winds,Urban,Slight,2
+2016,40,Wet/Damp,Snowing without high winds,Rural,Slight,2
+2016,40,Wet/Damp,Snowing without high winds,Urban,Slight,2
+2018,40,Wet/Damp,Snowing without high winds,Urban,Slight,1
+2019,40,Wet/Damp,Snowing without high winds,Urban,Slight,2
+2022,40,Wet/Damp,Snowing without high winds,Urban,Slight,1
+2017,50,Wet/Damp,Snowing without high winds,Rural,Slight,6
+2017,50,Wet/Damp,Snowing without high winds,Urban,Slight,6
+2018,50,Wet/Damp,Snowing without high winds,Rural,Slight,3
+2018,50,Wet/Damp,Snowing without high winds,Urban,Slight,3
+2022,50,Wet/Damp,Snowing without high winds,Rural,Slight,5
+2022,50,Wet/Damp,Snowing without high winds,Urban,Slight,5
+2014,70,Wet/Damp,Snowing without high winds,Rural,Slight,1
+2014,70,Wet/Damp,Snowing without high winds,Urban,Slight,1
+2014,20,Wet/Damp,Unknown,Urban,Slight,3
+2015,20,Wet/Damp,Unknown,Rural,Slight,2
+2015,20,Wet/Damp,Unknown,Urban,Slight,7
+2016,20,Wet/Damp,Unknown,Rural,Slight,4
+2016,20,Wet/Damp,Unknown,Urban,Slight,7
+2017,20,Wet/Damp,Unknown,Rural,Slight,7
+2017,20,Wet/Damp,Unknown,Urban,Slight,13
+2018,20,Wet/Damp,Unknown,Rural,Slight,9
+2018,20,Wet/Damp,Unknown,Urban,Slight,12
+2019,20,Wet/Damp,Unknown,Rural,Slight,15
+2019,20,Wet/Damp,Unknown,Urban,Slight,16
+2020,20,Wet/Damp,Unknown,Rural,Slight,5
+2020,20,Wet/Damp,Unknown,Urban,Slight,5
+2021,20,Wet/Damp,Unknown,Rural,Slight,19
+2021,20,Wet/Damp,Unknown,Urban,Slight,26
+2022,20,Wet/Damp,Unknown,Rural,Slight,16
+2022,20,Wet/Damp,Unknown,Urban,Slight,19
+2023,20,Wet/Damp,Unknown,Rural,Slight,9
+2023,20,Wet/Damp,Unknown,Urban,Slight,14
+2014,30,Wet/Damp,Unknown,Rural,Slight,51
+2014,30,Wet/Damp,Unknown,Urban,Slight,72
+2015,30,Wet/Damp,Unknown,Rural,Slight,27
+2015,30,Wet/Damp,Unknown,Urban,Slight,37
+2016,30,Wet/Damp,Unknown,Rural,Slight,28
+2016,30,Wet/Damp,Unknown,Urban,Slight,40
+2017,30,Wet/Damp,Unknown,Rural,Slight,34
+2017,30,Wet/Damp,Unknown,Urban,Slight,42
+2018,30,Wet/Damp,Unknown,Rural,Slight,16
+2018,30,Wet/Damp,Unknown,Urban,Slight,20
+2019,30,Wet/Damp,Unknown,Rural,Slight,22
+2019,30,Wet/Damp,Unknown,Urban,Slight,25
+2020,30,Wet/Damp,Unknown,Rural,Slight,28
+2020,30,Wet/Damp,Unknown,Urban,Slight,39
+2021,30,Wet/Damp,Unknown,Rural,Slight,25
+2021,30,Wet/Damp,Unknown,Urban,Slight,30
+2022,30,Wet/Damp,Unknown,Rural,Slight,23
+2022,30,Wet/Damp,Unknown,Urban,Slight,25
+2023,30,Wet/Damp,Unknown,Rural,Slight,32
+2023,30,Wet/Damp,Unknown,Urban,Slight,37
+2014,40,Wet/Damp,Unknown,Rural,Slight,1
+2014,40,Wet/Damp,Unknown,Urban,Slight,1
+2016,40,Wet/Damp,Unknown,Rural,Slight,2
+2016,40,Wet/Damp,Unknown,Urban,Slight,4
+2019,40,Wet/Damp,Unknown,Urban,Slight,1
+2020,40,Wet/Damp,Unknown,Rural,Slight,3
+2020,40,Wet/Damp,Unknown,Urban,Slight,3
+2022,40,Wet/Damp,Unknown,Rural,Slight,1
+2022,40,Wet/Damp,Unknown,Urban,Slight,1
+2023,40,Wet/Damp,Unknown,Rural,Slight,2
+2023,40,Wet/Damp,Unknown,Urban,Slight,2
+2015,50,Wet/Damp,Unknown,Rural,Slight,5
+2015,50,Wet/Damp,Unknown,Urban,Slight,5
+2016,50,Wet/Damp,Unknown,Rural,Slight,1
+2016,50,Wet/Damp,Unknown,Urban,Slight,1
+2017,50,Wet/Damp,Unknown,Urban,Slight,3
+2018,50,Wet/Damp,Unknown,Rural,Slight,1
+2018,50,Wet/Damp,Unknown,Urban,Slight,1
+2019,50,Wet/Damp,Unknown,Rural,Slight,2
+2019,50,Wet/Damp,Unknown,Urban,Slight,2
+2021,50,Wet/Damp,Unknown,Rural,Slight,1
+2021,50,Wet/Damp,Unknown,Urban,Slight,1
