@@ -122,4 +122,4 @@ Justification: Addresses limitations, aligns with scalability/cloud recommendati
 
 You are welcome to contribute to enhance this safety-focused project! Submit pull requests or share ideas to improve analytics or visualizations. 🌟
 
-Contact: akshendhami@gmail.com  
+Contact: akshendhami@gmail.com, https://www.linkedin.com/in/akshen-dhami22  
